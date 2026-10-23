@@ -1,0 +1,575 @@
+{{Redirect|員林}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[彰化縣]]
+|行政區名稱= 員林市
+|外文名稱= Yuanlin City
+|外文語言= [[威妥瑪拼音]]+英語
+|徽文件名= Yuanlin Township Seal.jpg
+|代表圖像= {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 2/2/2
+| image1 = Yuanlin_Station_20150425.jpg
+| image2 = YLPark2.jpg
+| image3 = Yuanlinstreet1.jpg
+| image4 = 彰化地方法院.JPG
+| image5 = YuanlinMSRoad.png
+| image6 = YuanlinZSRoad2.png
+| image7 = Yuanlin Skyline.png
+
+}}
+|代表圖像名稱= 自下方順時針：由[[縣道148號]]眺望員林市區大樓、民生路與第一市場、[[光明街商圈]]（光明街）、[[員林車站]]、[[員林公園]]、[[臺灣彰化地方法院]]舊舍、[[員林車站]]旁中山路二段
+{{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 
+|徽= 員林市徽
+|行政機關首長職稱= 市長
+|行政區類別= [[縣轄市]]
+|行政機關首長姓名= 賴致富（代理）
+|舊稱= 圓林仔、員林仔、員林仔街
+|簡稱= 
+|設立始年= 1728年（[[員林]]成街，後演變為大字地名）<br />1920年（設[[員林郡]][[員林街]]）<br />1945年（戰後改制鎮，鎮名<br />[[員林鎮]]，轄屬[[臺中縣]][[縣轄區 (中華民國)|員林區]]，為時臺中縣之縣城。）<br />1950年（[[臺灣省]]調整行政區劃，改屬[[彰化縣]]）<br />2015年8月8日（改制為縣轄市員林市）
+|區劃= 41[[村里|里]]806[[鄰]]
+|government=[[彰化縣員林市公所|員林市公所]]
+|legislature=[[彰化縣員林市民代表會|員林市民代表會]]
+|總面積= {{TWTSData|面積|510}}
+|總人口= {{TWTSData|人口|510}}<ref name="員林戶政">{{cite web |url=https://house.chcg.gov.tw/yuanlin/03search/sea_b2_01.asp |title=歷月鄉鎮市/村里人口統計 |publisher=彰化縣員林戶政事務所 |access-date=2021-05-24 |archive-date=2018-07-09 |archive-url=https://web.archive.org/web/20180709131706/https://house.chcg.gov.tw/yuanlin/03search/sea_b2_01.asp |dead-url=no }}</ref><ref name="ris.gov.tw">{{Cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |author=內政部戶政司 |publisher=中華民國 內政部戶政司 全球資訊網 |access-date=2024-03-27 |language=zh-tw |archive-date=2021-03-24 |archive-url=https://web.archive.org/web/20210324202450/https://www.ris.gov.tw/app/portal/346 |dead-url=no }}</ref>
+|population_rank=彰化縣的第2位
+|總人口年份= {{TWTSData|人口|date}}
+|總戶數= {{TWTSData|戶數|510}}<ref name="員林戶政"/><ref name="ris.gov.tw"/>
+|postal_code=510
+|adjacent= [[芬園鄉]]、[[大村鄉 (台灣)|大村鄉]]、[[埔心鄉]]、[[永靖鄉]]、[[社頭鄉]]、[[南投縣]][[南投市]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Tw_CHYL_map.PNG|thumb|center|300px|員林市位置圖]]
+</div>
+}}
+{{Taiwanese
+| hanji      = 員林市
+| tsuin      = ㄩㄢˊ ㄌㄧㄣˊ ㄕˋ
+| pinyin     = Yuán-lín Shì
+| tongyong   = Yuán-lín Shìh
+| poj        = Oân-lîm Chhī
+| holo       = Uân-lîm Tshī
+| pfs        = Yèn-lìm Sṳ
+| haka       = ienˇ limˇ Sii
+}}
+'''員林市'''，舊稱「圓林仔」、「員林仔街」，前身「員林鎮」<ref name="歷史沿革">{{cite web |url=https://town.chcg.gov.tw/yuanlin/07other/main.aspx?main_id=30945 |title=鄉鎮介紹-認識員林+-歷史沿革 |date=2021-07-16 |access-date=2024-03-27 |publisher=彰化縣政府員林市公所 |language=zh-tw |archive-date=2023-02-05 |archive-url=https://web.archive.org/web/20230205082803/https://town.chcg.gov.tw/yuanlin/07other/main.aspx?main_id=30945 |dead-url=no }}</ref>，位於[[臺灣]][[彰化縣]]中部偏東，南彰化的經濟和文化中心，為[[臺灣彰化地方法院]]、[[臺灣彰化地方檢察署]]所在地<ref>{{cite web |url=https://chd.judicial.gov.tw/tw/cp-3879-208853-7b3b3-231.html |title=認識本院-位置交通-本院及員林簡易庭位置圖 |access-date=2024-03-27 |publisher=臺灣彰化地方法院 |language=zh-tw |archive-date=2024-03-27 |archive-url=https://web.archive.org/web/20240327152135/https://chd.judicial.gov.tw/tw/cp-3879-208853-7b3b3-231.html |dead-url=no }}</ref>。市內人口約有12.2萬人<ref name="員林戶政"/>，是彰化縣僅次於[[彰化市]]的人口第二大城市，也是臺灣人口第四多的縣轄市{{NoteTag|name=人口|僅次於[[竹北市]]（[[新竹縣]]）、[[彰化市]]、[[屏東市]]（[[屏東縣]]）。}}<ref name="ris.gov.tw"/>。
+
+1728年員林成街<ref>{{cite web |url=http://www.yuanlin.gov.tw/news/view.asp?id1=35 |title=2008員林成街280週年系列活動 |access-date=2014-01-31 |publisher=員林鎮公所 |language=zh-tw |archive-date=2014-09-24 |archive-url=https://web.archive.org/web/20140924062330/http://www.yuanlin.gov.tw/news/view.asp?id1=35 |dead-url=yes }}</ref>，1920年設員林街屬臺中州員林郡，1946年改制為鎮，並為臺中縣縣治。1950年，改隸彰化縣。2015年8月8日改制為縣轄市「員林市」<ref name="改制公告">{{Cite web |title=公告自104年8月8日，本縣「員林鎮」改制為「員林市」 |url=http://civil.chcg.gov.tw/files/2_1040729_%E5%85%AC%E5%91%8A.pdf |date=2015-07-27 |publisher=彰化縣政府民政局自治行政科 |accessdate=2015-08-09 |archive-url=https://web.archive.org/web/20160304075020/http://civil.chcg.gov.tw/files/2_1040729_%E5%85%AC%E5%91%8A.pdf |archive-date=2016-03-04 |dead-url=no }}</ref>，成為彰化縣第二個縣轄市。自2009年[[彰化縣政府]]開始辦理市地重劃起，伴隨著員林184公頃市地重劃的開發，使得員林都市範圍擴大，除了迎來員林房地產開發的熱潮外，也使得員林周邊鄉鎮[[大村鄉 (台灣)|大村鄉]]和[[埔心鄉]]逐漸成為員林的衛星城市。
+
+== 歷史 ==
+=== 地名由來 ===
+員林市的地名由來有數種說法：
+
+第一種說法是先民入墾員林時，自四方啟林闢地而留下圓形林地，後來在此建立聚落，稱為「圓林仔」，後簡化為「員林仔」{{r|鎮志開拓篇|p=105}}{{sfn|曹武賀|2001|pp=40、42}}。
+
+第二種說法是早期來自粵東、閩南的客家人或福佬客，入墾初期建造與原鄉相同的碉堡式住宅「圓樓仔」，受限於人力、物力和技術而無法如同原鄉的圓樓仔堅固與美觀，形狀圓如「籃仔」，另有一說則是因閩粵不和，故蔑視而稱之「圓籃仔」。後因漳州籍移民將「圓樓（Lâu）仔」聽成「圓籃（Nâ）仔」，「籃」字臺灣話與「林」字為諧音且「林」字好記好寫，遂以「林」字取代「籃」而成「圓林仔」，另有一說則是圓樓仔的外圍種有沿著弧形護龍成的圓形圍林，作為水土保持與保護牆壁，因屋及林而以「圓樓仔外圍的圓形樹林」稱之「圓林仔」。後來成街後便稱為「員林仔街」、「員林街」或「林仔街」{{r|鎮志開拓篇|p=105}}。
+
+第三種說法是早期樹林茂密時，漢人由西向東入墾，當地位居東側山丘林地下方的林區一帶興建聚落，稱為「下林街」，後以臺灣話鹿港腔走音「下（Uē）林仔街」而成「員林仔街」{{r|鎮志開拓篇|p=105}}。
+
+首次記載員林地名的史書為1741年[[劉良璧]]所著的《[[重修福建臺灣府志]]》，書中提到「員林仔-{庄}-」{{sfn|曹武賀|2001|p=36}}{{sfn|張碧霞|2007|p=18}}{{r|鎮志開拓篇|p=142}}。
+
+=== 沿革 ===
+{{see also|員林街}}
+[[File:Yuanlin-old-map.jpg|left|thumb|200px|[[臺灣堡圖]]中的員林]]
+員林市早期為[[臺灣原住民族|臺灣原住民]][[平埔族群|平埔族]]的[[洪雅族群|洪雅族]]大武郡社的活動區域，約在[[巴布薩族]]半線社及洪雅族大武郡社等兩大平埔族社域的交界處{{r|鎮志開拓篇|p=110}}。其中「番仔崙」（今崙雅里）之地名顯示出平埔族曾在此活動{{r|鎮志開拓篇|p=104}}，而在番仔崙一帶有「番仔溝」、「番仔埤」、「番仔底」等地名，均應與平埔族有關{{r|鎮志開拓篇|p=111}}。中華顧問工程公司曾在1992年委託中央研究院歷史語言研究所進行台76線計畫路線範圍內考古遺址初步調查中，在員林市林厝里發現林厝遺址{{r|鎮志開拓篇|p=107}}。其地層由上而下依序是表土層、灰黑色陶文化層、黃褐色土層與礫石層，僅礫石層未見遺物，考古人員在第三層的黃褐色土層中，發現主要為橙色夾砂陶的出土遺物，歸屬繩紋紅陶{{r|鎮志開拓篇|pp=107－108}}。以陶器螢光定年法測定，其歷史距今約有3,000至4,000年{{r|鎮志開拓篇|p=108}}。
+
+[[臺灣荷西統治時期|荷西時期]]，荷蘭人設[[臺灣長官]]治臺並管轄番社，全臺分[[北部地方會議區|北部]]、[[南部地方會議區|南部]]、[[卑南地方會議區|卑南]]、[[淡水地方會議區|淡水]]等四個[[地方會議|集會區]]，員林隸屬北部集會區。1661年，[[鄭成功]][[鄭成功攻臺之役|領臺]]後，改臺灣為東都，設一府二縣，員林隸屬東都[[承天府 (臺灣)|承天府]][[天興縣]]。[[鄭經]]嗣位後，1664年8月，改東都為東寧，提升天興、萬年二縣為州，並於半線設北路安撫司，員林隸屬東寧承天府天興州{{r|鎮志開拓篇|p=141}}<ref>{{cite book |author=花松村 |year=1996 |title=《台灣鄉土全誌》 |language=zh-tw |volume=第五冊 |location=台北 |publisher=中一出版社 |page=615 |isbn= }}</ref>。
+
+1684年，[[臺灣清治時期|臺灣納入清朝版圖]]，屬[[福建省 (清朝)|福建省]][[臺灣府]]，轄三縣，即[[諸羅縣]]、[[臺灣縣 (1684年—1887年)|臺灣縣]]、[[鳳山縣 (清治時期)|鳳山縣]]，員林隸屬臺灣府諸羅縣{{r|鎮志開拓篇|p=141}}。不過根據《[[諸羅縣志]]》，當時漢人拓墾尚未到達員林一帶，而在其後1697年，[[郁永河]]入臺採硫時，曾從大武郡社乘牛車經八卦山西側一帶抵達半線社，沿途未見漢人聚落，故漢人大量入墾員林地區的時間約在[[康熙]]中葉之後{{r|鎮志開拓篇|p=122}}。1723年，清廷將[[虎尾溪]]以北的土地增設[[彰化縣 (清朝)|彰化縣]]與[[淡水廳|淡水海防廳]]，縣治設於半線，員林隸屬彰化縣，一部分屬燕霧保，一部分屬大武郡保。1734年，大武郡保分為[[武東堡|大武郡東保]]、[[武西堡|大武郡西保]]，員林南半部地區分屬該兩保。至[[乾隆]]中葉年間，燕霧保分為[[燕霧上堡|燕霧上保]]、[[燕霧下堡|燕霧下保]]，員林北半部地區屬燕霧下保，其後大武郡東保、大武郡西保又分別改名為武東保、武西保{{r|鎮志開拓篇|p=142}}。由於清廷前後分別在1732年與1746年，開放人民移眷入臺，至1751年員林已形成街市，舊時街道含蓋今光明、三民、中正、中山、光復、和平、新興、仁美、民生、東和、黎明、惠來等里<ref>{{cite book |author=劉良璧纂修 |year=1741 |title=《重修福建臺灣府志》 |language=zh-tw }}</ref>{{r|鎮志開拓篇|pp=151－162}}。在1764年[[余文儀]]纂修的《[[臺灣府志|續修臺灣府志]]》一書當中，記載現今員林市的轄區，包括隸屬燕霧下保的員林仔-{庄}-、東山-{庄}-、員林仔街以及隸屬大武郡東保的火燒-{庄}-{{r|鎮志開拓篇|p=142}}。燕霧保界內有燕霧內、上咳咍、員林仔、東山等4個-{庄}-，街市則為員林仔街<ref>{{cite book |author=余文儀纂修 |year=1962 |chapter= |editor=周憲文 |title=《續修臺灣府志·卷二·規制》 |language=zh-tw |location=臺北 |publisher=臺灣銀行經濟研究室 |pages=74、89 }}</ref>。道光年間，現今員林市的轄區包括燕霧上、下保的12個街-{庄}-、武東保的11個-{庄}-以及武西保的2個-{庄}-，共有25個聚落{{r|鎮志開拓篇|p=143}}<ref>{{cite book |author=周璽纂修 |year=1836 |title=《彰化縣志》 |language=zh-tw |pages=45－46 }}</ref>。1875年，全臺劃分為二府八縣四廳。[[福建臺灣省|臺灣建省]]後，1887年，全臺劃分為三府一直隸州十一縣三廳{{r|鎮志開拓篇|p=143}}。
+
+[[File:Yuanlinpark.JPG|thumb|200px|員林公園與[[員林國宅]]]]
+1895年，清廷因[[甲午戰爭]]戰敗，與[[日本]]簽訂《[[馬關條約]]》，[[台灣日治時期|將臺灣、澎湖割讓給日本]]{{r|鎮志開拓篇|pp=143－144}}。日本在臺北成立[[臺灣總督府]]，宣布在臺開始施政，正式治臺，臺灣分三縣一廳，員林屬臺灣縣彰化支廳{{r|鎮志開拓篇|p=144}}。其後曾多次修改地方官制，行政區域建置沿革歷經多次變革，經歷過臺灣民政支部彰化出張所、臺灣民政支部鹿港出張所、[[臺中縣 (日治時期)|臺中縣]]鹿港支廳、臺中縣員林辦務署、[[彰化廳]]員林支廳、[[臺中廳]]員林支廳{{r|鎮志開拓篇|pp=143－145}}。1920年，廢廳、支廳、區、堡、里、澳及鄉，行政區劃改為州、郡市、街-{庄}-，[[員林街]]屬[[臺中州]][[員林郡]]，下轄員林、三條圳、三塊厝、東山、南平、柴頭井、番子崙、湖水坑、萬年、大饒、田中央等11個大字。員林郡轄員林街、[[大村庄|大村-{庄}-]]、[[埔鹽庄|埔鹽-{庄}-]]、[[溪湖街|溪湖-{庄}-]]、[[坡心庄|坡心-{庄}-]]、[[永靖庄|永靖-{庄}-]]、[[社頭庄|社頭-{庄}-]]、[[田中街|田中-{庄}-]]、[[二水庄|二水-{庄}-]]等9個街-{庄}-，郡役所及員林街役場設在員林街，確立了員林的官制規模{{r|鎮志開拓篇|p=145}}。其郡役所之廳舍位於現今黃金帝國大樓，即中正路、民權街之路口<ref name="林宜駿">{{cite web |url=http://thesis.lib.cycu.edu.tw/ETD-db/ETD-search-c/getfile?urn=etd-0815103-000208&filename=8881011.pdf |title=第參章：郡市役所街-{庄}-役場的形成 第一節：郡市役所的分佈位置 |work=日治時期郡市街-{庄}-官廳建築之研究（以西元1920－1945年為例） |author=林宜駿 |publisher=中原大學建築學系 |accessdate=2015-10-18 |language=zh-tw |date=2003-06-23 }}{{dead link|date=2017年12月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。日治時期也是員林建設最多的時期之一，1905年[[縱貫線 (鐵路)|縱貫線]]鐵路通車後，設置[[員林車站|員林驛]]<ref>{{Cite web |url=http://service.tra.gov.tw/Yuanlin/CP/10451/introduction.aspx |title=員林站介紹-車站簡介 |access-date=2007-07-14 |publisher=臺灣鐵路管理局 員林車站 |language=zh-tw |archive-date=2007-08-22 |archive-url=https://web.archive.org/web/20070822155438/http://service.tra.gov.tw/Yuanlin/CP/10451/introduction.aspx |dead-url=yes }}</ref>，奠定了員林地區的交通地位，也造就了[[鐵路]]、大通街（今中正路）與民生路所圍三角地區的繁榮。1936年員林實施「市街改正」（都市計劃），原本較為雜亂的市容改成整齊劃一的棋盤式街道，為臺灣少數擁有完整工整街道的地方，並開發了外環道路（育英路與新生路）{{sfn|張碧霞|2007|p=220}}。日治時期，日本人也設置了許多[[學校]]，如臺中州立員林家政女校（今[[國立員林高級中學]]）、臺中州立員林農業學校（今[[國立員林高級農工職業學校|國立員林農工]]）、員林[[公學校]]（今[[彰化縣員林市員林國民小學|員林國小]]）、員林女子公學校（今[[彰化縣員林市育英國民小學|育英國小]]）等。同時，員林、南投與彰化並稱為[[水果]]的集散地，當時的[[食品加工業]]興盛，如：[[蜜餞]]、[[鳳梨]]等。另外[[日本]]人為了使臺人信奉[[神道教]]，在[[百果山]]上興建[[員林神社]]。
+
+[[File:彰化地方法院.JPG|left|thumb|200px|[[臺灣彰化地方法院]]舊址]]
+1945年[[臺灣戰後時期|國民政府接管臺灣]]後，12月起，將日治時期的州、廳、市、郡制改為八縣、九省轄市、二縣轄市。1946年1月，員林街改為「員林鎮」，屬[[臺中縣]]員林區{{r|鎮志開拓篇|pp=146－147}}。1946年9月15日，臺中縣政府從原[[臺中州廳]]遷至[[彰化縣員林市員林國民小學|員林國小]]校舍（原址為今[[員林國宅]]<ref>{{cite web |url=http://163.23.113.1/~ylps105/intro_topic.html |title=學校沿革誌 |work=彰化縣員林國民小學百齡校慶懷古今 |access-date=2015-09-16 |publisher=彰化縣員林國民小學 |language=zh-tw |archive-date=2004-12-10 |archive-url=https://web.archive.org/web/20041210112108/http://163.23.113.1/~ylps105/intro_topic.html |dead-url=yes }}</ref>）辦公<ref>{{cite book |author=劉松壽 |date=2007年12月 |title=《員林鎮舊地名·完結篇》 |language=zh-tw |location=臺北 |publisher=臺灣源流 |page=65 |isbn= }}</ref>；9月30日，裁撤員林區署，改由臺中縣直轄<ref name="公署公報">{{cite news |title=通報臺中縣員林區署裁撤 |work=臺灣省行政長官公署公報 |date=1946-11-25 |language=zh-tw }}</ref>。至1950年8月16日起，全臺分十六縣、五省轄市、一管理局，[[彰化市 (省轄市)|彰化市]]與臺中縣彰化、北斗二區、原員林區區域合併為[[彰化縣]]，與臺中縣分治，員林鎮改隸彰化縣，下分34里{{r|鎮志開拓篇|p=147}}。之後境內里數歷經五次變更，至2001年起，員林鎮共轄41個里{{r|鎮志開拓篇|pp=147－148}}{{sfn|施添福|2004|p=246}}。
+
+1979年，員林鎮人口突破10萬人，至2008年底時達到12.6萬人{{r|鎮志社會篇|p=624}}。2015年5月29日，[[立法院]]三讀通過《[[s:地方制度法 (民國104年5月立法6月公布)|地方制度法]]》第四條修正案，將[[縣轄市]]人口標準由15萬人降為10萬人，經總統於6月17日公布後，6月19日正式生效<ref>{{cite web |url=http://glin.ly.gov.tw/file/legal/tw1706201507.pdf |title=總統府公報-地方制度法修正第四條條文 |format=PDF |date=2015-06-17 |access-date=2015-08-09 |publisher=立法院全球法律資訊網 |language=zh-tw |archive-url=https://web.archive.org/web/20210414035954/http://glin.ly.gov.tw/file/legal/tw1706201507.pdf |archive-date=2021-04-14 |dead-url=}}</ref><ref>{{cite news |url=http://news.ltn.com.tw/news/local/paper/881534 |title=縣轄市門檻下修 頭份可望改制為市 |author=彭健禮 |date=2015-05-19 |access-date=2015-07-18 |publisher=自由時報 |language=zh-tw |archive-date=2020-02-16 |archive-url=https://web.archive.org/web/20200216184550/https://news.ltn.com.tw/news/local/paper/881534 |dead-url=yes }}</ref>；同年8月8日，員林鎮正式改制為「員林市」<ref name="改制公告"/><ref>{{cite news |url=http://news.ltn.com.tw/news/life/breakingnews/1394151 |title=「員林市」是真的！8月8日起不再是員林鎮 |author=劉曉欣 |date=2015-05-30 |access-date=2015-07-29 |publisher=自由時報 |language=zh-tw |archive-date=2020-02-16 |archive-url=https://web.archive.org/web/20200216184559/https://news.ltn.com.tw/news/life/breakingnews/1394151 |dead-url=no }}</ref>。
+
+== 自然地理 ==
+=== 地形 ===
+[[File:Yuanlin-terrain.jpg|thumb|200px|員林市與八卦山脈衛星照片，圖中偏左之圓形聚落即為員林市區及衛星城鎮–埔心鄉。]]
+員林市位於彰化縣中部偏東，[[八卦臺地]]與[[彰化平原]]交會處，北毗[[大村鄉 (台灣)|大村鄉]]，西臨[[埔心鄉]]，東鄰[[芬園鄉]]、[[南投縣]][[南投市]]，南接[[社頭鄉|社頭]]、[[永靖鄉|永靖]]兩鄉{{r|鎮志地理篇|p=39}}。員林市的地形分區，大致以縣道137號（山腳路）分為西部的平原區與東部的丘陵臺地區，整體地勢由東南向西北降低，海拔高度在100公尺以下的平原地區與在100公尺以上的丘陵地區，兩者面積比例約為5:2{{r|鎮志地理篇|p=65}}。
+
+彰化隆起海岸平原位於臺灣本島西部海岸平原的中央，平原海拔高度在彰化市一帶約在12公尺以下，在員林市附近約為26公尺，至東南端的[[田中鎮]]則約在45公尺以上{{r|鎮志地理篇|p=61}}。受到[[濁水溪沖積平原|濁水溪沖積扇]]堆積作用的影響，使其整體呈現北狹南寬，南端地勢較高{{r|鎮志地理篇|pp=61、63}}。員林市的西部平原區屬於彰化隆起海岸平原的一部分，100公尺等高線大致通過大樹坑、阿寶坑、百果山忠烈塔附近、八卦山隧道入口至第三公墓一帶，縣道137號附近海拔高度約為40公尺，以西地區全為地勢低平的平原，也是主要聚落分布地區{{r|鎮志地理篇|p=65}}。八卦臺地位於臺灣西部中央，略呈西北－東南走向狹長形狀，其原為[[西部衝上斷層山地]]西側山麓所形成的沖積扇，因受活斷層活動的影響而隆起，歷經河流的侵蝕與堆積，形成現狀，地勢大致為西陡東緩、南高北低{{r|鎮志地理篇|p=63}}。員林市境內地勢最高點位在東南角，海拔高度約為400公尺{{r|鎮志地理篇|p=65}}。
+
+[[彰化斷層]]位於八卦臺地西緣，呈南北走向並大致與[[車籠埔斷層]]平行，其北段、中段、南段又分別稱為彰化斷層、員林斷層、田中斷層{{r|鎮志地理篇|pp=53－54}}。1999年9月21日發生[[921大地震|集集大地震]]後，彰化縣產生土壤液化的現象，造成建築物與道路地基沉陷情形嚴重，其中又以員林市一帶最甚<ref>{{cite web |url=http://edb.epa.gov.tw/localenvdb/Chunghua/geology.htm |title=行政院環保署環境資料庫彰化縣地質分析 |access-date=2007-07-13 |language=zh-tw |archive-date=2011-05-02 |archive-url=https://web.archive.org/web/20110502155256/http://edb.epa.gov.tw/localenvdb/Chunghua/geology.htm |dead-url=yes }}</ref>。
+
+[[彰化平原]]由鬆軟之[[沖積層]]組成，當震波由岩層傳至鬆軟土層時，波速會變慢而[[振幅]]增大，是為[[場址效應]]。此效應致使員林一帶地震波被放大，且地震[[震度]]略高於周圍區域。如[[九二一大地震]]，員林極為重災區之一，當時16層樓之龍邦富貴大樓傾圮，爾後全數拆除。<ref>{{cite news |language=zh-tw |author= |url=https://udn.com/newmedia/921/people/ke/ |title=忘不了沒救出的人 921地震廿周年 |publisher=聯合報 |date=2019-09-09 |accessdate=2026-05-14 |archive-date=2026-03-16 |archive-url=https://web.archive.org/web/20260316154631/https://udn.com/newmedia/921/people/ke/ |url-status=live }}</ref>
+
+=== 水文 ===
+員林市的水文系統以山腳路為界，可分為平原區農田灌溉系統與八卦山排水系統等兩個部分{{r|鎮志地理篇|pp=70－72}}。流經員林市的灌溉河道有[[員林大排]]、[[八堡圳]]、[[石苟埤圳]]三條；八卦山丘陵地區由於溝谷地形發育明顯，易順著溝谷形成由東向西流下的山間溪流，並往平原聚集匯流後進入平原區灌溉系統，成為彰化平原的重要灌溉水源之一，由北而南分別有甘井坑排水、柴坑排水及振興排水等系統{{r|鎮志地理篇|p=72}}。
+
+=== 氣候 ===
+員林市的氣候屬[[副熱帶季風氣候]]{{r|鎮志地理篇|p=75}}，冬季因[[東北季風]]受到[[中央山脈]]的阻擋，氣候乾燥；夏季則因[[西南季風]]盛行，高溫多雨{{r|鎮志地理篇|p=74}}。年均溫約為攝氏23.1度，月均溫最高為7月的28.9度，最低為1月的16.6度{{r|鎮志地理篇|pp=74－75}}。年平均降雨量約為1,620.8毫米，各月雨量最多為6月的334.4毫米，最少為1月的18.1毫米，雨量集中於6月至8月{{r|鎮志地理篇|pp=77－79}}。
+
+== 人文地理 ==
+===人口===
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{Cite web |url=https://www.chcg.gov.tw/HSO/yuanlin/03search/sea_b1_01.aspx?cboarea=84 |title=員林市歷年人口統計 |publisher=彰化縣員林戶政事務所 |language=zh-tw |access-date=2026-06-05 }}
+# {{Cite web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/m1-10.xls |title=各鄉鎮市區人口數 |format=XLS |publisher=內政統計月報 |date=2020-02-10 |access-date=2020-05-26 |language=zh-tw |archive-date=2020-05-01 |archive-url=https://web.archive.org/web/20200501062349/https://www.moi.gov.tw/files/site_stuff/321/1/month/m1-10.xls |dead-url=yes }}
+# {{cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料-鄉鎮土地面積及人口密度(97) |website=[[內政部戶政司]]全球資訊網 |language=zh-tw |access-date=2026-02-10 |archive-date=2021-03-19 |archive-url=https://web.archive.org/web/20210319074202/https://www.ris.gov.tw/app/portal/346 |url-status=live }}
+|1946	|37999
+|1951	|47638
+|1956	|54255
+|1961	|61866
+|1966	|71651
+|1971	|83521
+|1976	|94213
+|1981	|104436
+|1986	|114667
+|1991	|122635
+|1996	|125905
+|2001	|126800
+|2006	|126175
+|2011	|125144
+|2016	|124932
+|2021	|122757
+
+}}
+根據彰化縣員林戶政事務所及內政部戶政司統計，2025年底員林市戶數約4.6萬戶，人口約12.2萬人，是彰化縣人口第二大城市，也是臺灣人口第四大縣轄市{{Notetag|name=人口}}。市內人口最多與最少的里分別是三和里與中山里，2025年底兩里人口分別為7,887人與597人<ref name="員林戶政"/>；人口密度最高與最低的里分別是東和里與大峯里，2025年底兩里人口密度分別為每平方公里36,300人與395人{{r|鎮志地理篇|pp=42－43}}<ref name="員林戶政"/>。
+
+1962年，臺灣已故歷史學者[[林衡道]]在《臺灣文獻》發表〈員林附近的「[[福佬客]]」村落〉一文，首先提出「福佬客」這個名詞，他透過祖籍、習俗、語言等方面觀察，發現了彰化平原員林一帶的許多居民，多半為[[饒平客家]]後裔，定義為被福佬人同化的客家人稱之為「福佬客」。
+
+廣寧宮是員林地區歷史最悠久的廟宇，祀奉的就是部分[[客家人]]和[[潮汕人]]的鄉土神[[三山國王]]。許多姓氏家族與客家和潮汕淵源極深。
+
+由於是交通樞紐的重鎮以及地處閩南人居多的[[彰化平原]]，經長期閩客械鬥後，為與外地人及新住民溝通交流，員林客家人已經完成[[語言轉換]]了，目前僅殘留少數[[潮州話]]、[[客家話]]詞彙（如地名與親屬稱謂）底層的偏漳腔臺灣閩南話<ref>{{cite thesis |author=賴閔聰 |title=《員林的福佬客》 |date=2004年 |degree=碩士 |publisher=國立政治大學民族學系碩士班 |url=https://nccur.lib.nccu.edu.tw/handle/140.119/34570 |access-date=2011-02-17 |place=臺北市 |language=zh-tw |archive-date=2023-06-14 |archive-url=https://web.archive.org/web/20230614000456/https://nccur.lib.nccu.edu.tw/handle/140.119/34570 |url-status=live }}</ref><ref>{{cite journal |author=吳正龍 |author2=陳淑君 |date=2016年11月 |title=員林地區饒平張姓分布與語言 |journal=彰化文獻 |issue=21 |pages=43－74 |language=zh-tw }}</ref>。而此臺灣話之腔調的通行地區，包括永靖鄉、埔心鄉、員林市、田尾鄉不含西南部及東部、大村鄉西南部、社頭鄉西北端<ref>{{cite book |author=台灣語文學會主編 |title=《臺灣語文研究·第六卷·第二期》 |publisher=萬卷樓圖書股份有限公司 |date=2011-09-30 |editor=涂文欽 |page=125 |language=zh-tw |chapter=彰化縣閩南語方言類型與方言分區 |chapter-url=https://www.twlls.org.tw/Attachment/Journal/6.2-7.pdf |format=PDF |access-date=2024-12-28 |archivedate=2024-12-28 |archive-url=https://web.archive.org/web/20241228092940/https://www.twlls.org.tw/Attachment/Journal/6.2-7.pdf |dead-url=no }}</ref>。
+
+2008年5月時，員林市的第一大姓是[[張姓]]，此姓氏的先民主要來自[[廣東省]][[潮州市]][[饒平縣]]{{r|鎮志社會篇|p=662}}<ref name="員林的福佬客">{{cite thesis |chapter-url=http://nccuir.lib.nccu.edu.tw/bitstream/140.119/34570/7/25900607.pdf |title=員林的福佬客 |chapter=第二章·員林福佬客的家族 |author=賴閔聰 |year=2003 |access-date=2013-11-19 |publisher=政大學術集成 NCCU Academic Hub |language=zh-tw |archive-url=https://web.archive.org/web/20131219130608/http://nccuir.lib.nccu.edu.tw/bitstream/140.119/34570/7/25900607.pdf |archive-date=2013-12-19 |dead-url=yes }}</ref>。第二大姓則是[[黃姓]]，其先民主要來自[[福建省]][[漳州市]][[詔安縣]]、廣東省潮州市[[饒平縣]]、[[梅州市]][[大埔縣]]等地{{r|鎮志社會篇|p=667}}<ref name="員林的福佬客"/>。
+
+與彰化縣其他地區相同，員林市面臨[[人口老化]]與[[少子化]]的問題。2025年底時，員林市總人口中有13.76%的年齡在0至14歲，66.84%是15至64歲的青壯年人口，65歲以上的人口則有19.41%<ref>{{cite web |url=https://house.chcg.gov.tw/yuanlin/03search/sea_b3_01.aspx |title= 線上查詢-人口統計查詢-人口性別/年齡層統計 |publisher=彰化縣員林戶政事務所 |access-date=2025-02-03 |language=zh-tw |archive-date=2025-02-03 |archive-url=https://web.archive.org/web/20250203071812/https://house.chcg.gov.tw/yuanlin/03search/sea_b3_01.aspx |dead-url=no }}</ref>。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Population of Yuanlin City, Changhua County.chart|data=Population of Yuanlin City, Changhua County.tab}}
+</div>{{clear}}
+
+===城市規劃===
+====市街形成====
+員林市街最早形成於當今第一市場一帶，並向北延伸。1728年設員林街，屬[[彰化縣 (清朝)|彰化縣]][[燕霧下堡]]，此時員林雖不及當代員林市轄區之廣，而已成為埔里盆地下山後之農產品集散地，以及政府公告政令及徵收稅賦的地方。
+
+====員林四門====
+員林為農產品集散地形成的集市，不如[[彰化縣城]]一般的縣治地位，因此沒有官方修建的厚實的磚瓦城牆作為城門，僅有民間私修的竹籬或簡易磚石構成的隘門，很可能沒有固定位置，並由地方壯丁輪流駐守作為防盜之用。
+
+[[大清]][[姚瑩]]《臺北道里記》：「自北斗北行十四里，至員林仔街。街長二里，聚落稠密。環植莿竹，亦有四門。」，而[[周璽]]之《彰化縣志》亦有類似記載。
+
+在[[戴潮春事件]]時，員林作為戰事衝突點之一，以原先防禦設施為基礎，修築竹城與溝渠進行防禦。林豪《[[東瀛紀事]]》記載：「五月，賊攻員林仔街。員林固重鎮，居民環植莿竹，引水為溝，堅守不下。」、吳德功《[[戴案紀略]]》：​「五月，賊首陳弄、嚴辦等合攻員林仔街。員林街民拒之，鄉長張俊盛、葉大章等率壯丁，自築土城、掘深溝以自固。賊屢攻不克。」
+
+因無實際城門遺址，今日無從實地查訪，但可推知位址大約在日治舊市區向外延伸兩條街附近，並從民間土地公信仰痕跡略知一二，而郵局命名則為二十世紀末人口增加時依方位便民而取，城門實際位址與郵局位址可能不盡相同。
+
+[[File:員林北門錫慶祠 20261021.jpg|thumb|150px|錫慶祠]]
+*'''北門''' ''今三角公園一帶。''
+**大北門福營宮
+**北門錫慶祠
+
+*'''東門''' ''今八條通萬年路到育英路附近。''
+**東門福義宮（主祀東營將軍）
+
+*'''南門''' ''今第一市場南側。''
+**大南門福安宮（舊址處在第一市場，後因市場擴建於1969年南遷）
+**南門郵局
+
+*'''西門''' ''員鹿路到新生路，舊國際戲院一帶。''
+**西門郵局
+**大西門集興宮
+
+===日殖確立範圍===
+日本殖民時期，引入了[[街庄]]與[[大字]][[小字]]制度後，員林街已具備當代行政區規模，而員林大字則對應清領時期的員林街，成為與東山、林厝、三塊厝等相當地位的區域，大字則成為近代里的雛型。1936年，[[臺灣總督府]]公布之《員林都市計畫》，引進了現代都市計畫理論，將舊市區重整為棋盤式街道，並使育英路成為當時市區東側的外環道路。此規劃遍及今[[靜修路]]、[[員鹿路]]、[[育英路]]、縱貫鐵路所圍之區域。
+
+===三和里一帶重劃===
+1970年後，都市計畫繼續向東西兩側擴張，此時大同路成為新一代之員林市區外環道路。許多重要機構如地政事務所、戶政事務所、員林分局與員林分隊均設於此，成為繼[[員林公園]]東北側後的另一個政府機關聚落，爾後在此設立員林之第三所國中：[[大同國中|彰化縣立大同國中]]。
+
+===台一線改道與鐵路道路策略===
+1975年，由於縱貫公路在市區拐彎，且鐵路平交道停等致使交通壅塞，縱貫公路自行經員林市區之中山路改道至莒光路，並設立[[員林陸橋|莒光陸橋]]<ref>{{cite news |language=zh-tw |author=張聰秋 |url=https://news.ltn.com.tw/news/local/paper/576546 |title=告別莒光陸橋 員林人留影憶往 |publisher=自由時報 |date=2012-04-17 |accessdate=2026-05-14 |archive-date=2016-04-18 |archive-url=https://web.archive.org/web/20160418105414/http://news.ltn.com.tw/news/local/paper/576546 |url-status=live }}</ref>以跨過鐵道，這也是台一線相較其他行政區並未行經市中心之因。鑑於市區車流仍舊擁堵，且1976年於鄰近行政區[[慈悲寺淑女祠|大村鄉平交道慘案]]更推進了市區三座地下道之興建。
+
+===員林鐵路高架化===
+行政院於2006年正式核定[[員林市區鐵路高架化計畫]]，拆除員林市境內共1座陸橋、5處地下道、3座平交道，並在2014年11月2日正式切換至高架鐵路，此項變革打通舊市區至鐵路西側之流暢度，對三角公園至靜修路的新興商圈之影響尤鉅。<ref>{{cite news |language=zh-tw |author=彰化縣政府|url=https://ctrl.chcg.gov.tw/main/main_act/main_print.asp?main_id=5363&act_id=10 |title=員林鐵路高架化啟用通車　帶動員林地區全面發展 |publisher=彰化縣政府 |date=2014-03 |accessdate=2026-05-14 }}</ref>
+
+===184公頃市地重劃===
+2009年正式啟用184公頃市地重劃，在員林西側與行政區邊界上規劃外環道[[員林大道]]，員林大道於2013年9月7日正式通車，市區再度向外擴張，使不少機構（如彰化消防局員林分隊、員林衛生所）遷建，並吸引大量連鎖餐飲業進駐，亦促成員林數十棟大樓之建案誕生，以員林大道北側最為密集，當地亦有小[[臺中市第七期市地重劃區|七期]]之美稱。
+
+=== 大樓 ===
+自184公頃重劃案啟動及升格為縣轄市以來，高於十五層之大樓如雨後春筍般迸出，員林市北邊臨外環道之重劃地取代員林國宅一帶，成為員林高樓最為密集之處。
+
+有北喬{{noteTag|[[彰化市]]的喬友大樓，因為2021年6月大火而在2022年9月～2024年1月拆除<ref>{{cite news|url=https://www.chinatimes.com/realtimenews/20220919001148-260402|title=彰化喬友大樓大火後 多次流標9／20終於開拆|date=2022-09-19|website=[[中時新聞網]] |access-date=2026-03-03}}</ref><ref>{{cite news|url=https://www.setn.com/News.aspx?NewsID=1420515 |title=彰化最大廢墟喬友大樓「拆除完成夷為平地」　土地每坪百萬喊賣|date=2024-01-30|website=[[三立新聞網]]}}</ref>}}南帝之稱的黃金帝國，日前彰化縣政府已啟動拆除工程，預計於2026年5月完工，並將原地重建為一棟地上22層、地下4層的住商混合大樓，部分空間將規劃為公益設施，旨在活化員林地區並帶動地方繁榮，如計畫順利進行，亦會成為員林前五高樓。<ref>{{cite web|language=zh-tw|url=https://www.cna.com.tw/news/aloc/202504250192.aspx|title=彰化黃金帝國2026年拆完擬建地上22層住商大樓|publisher=中央社|date=|accessdate=2021-07-16|dead-url=no}}</ref>。
+
+[[File:Yuanlin Skyline.png|thumb|1000px|員林天際線；左側為長虹天際及員林國宅，中間為鄉林圓頂，右側為龍燈公園一帶大樓]]
+
+{{Multiple image
+ | align     = right
+ | direction = vertical
+ | width     = 200
+ | image1    = 24FYuanlin.jpg
+ | caption1  = 外觀即將完成的員林長虹天際；目前穩居員林第一高樓
+ | image2    = Chrjbuliding.jpg
+ | caption2  = 尚未拆除鷹架的長虹天際
+}}
+
+[[File:Xlydbuilding.jpg|thumb|200px|鄉林圓頂]]
+[[File:Xsgybuilding.jpg|thumb|200px|七碩公園一號院]]
+[[File:黃金帝國改建模擬.png|thumb|200px|黃金帝國改建案；僅由縣府模擬圖合成，不代表最終計畫。]]
+
+== 政治 ==
+=== 市政組織 ===
+
+[[File:員林市公所.jpg|thumb|200px|員林市聯合辦公大樓日間]]
+[[File:YLCITYHALL.jpg|thumb|200px|員林市聯合辦公大樓夜間]]
+員林市公所與員林市民代表會合署辦公，市公所大門在三民街一側，而市民代表會大門則在萬年路三段一側，但兩者皆屬同一大樓，且地址均為三民街18號。
+
+員林市公所是彰化縣員林市最高層級的地方[[行政機關]]，在中華民國政府架構中為縣轄市自治的行政機關，同時負責執行縣政府及中央機關委辦事項，員林市的自治監督機關為[[彰化縣政府]]。市長由全體市民直接選舉產生，任期為四年，可連選連任一次。員林市公所並置市政會議，為市政最高決策機構，在市長之下，設有7課3室等10個內部單位及4個附屬機關<ref>{{cite web| language=zh-tw| url=http://www.yuanlin.gov.tw/guide/main3.asp| title=公所位置圖-員林市公所| publisher=員林市公所| date=| accessdate=2017-04-06| archive-date=2019-09-08| archive-url=https://web.archive.org/web/20190908144400/http://www.yuanlin.gov.tw/guide/main3.asp| dead-url=no}}</ref>。
+
+[[彰化縣員林市民代表會|員林市民代表會]]是員林市的最高[[民意機關]]，代表員林市全體市民立法和監察市政。市民代表由公民直選選出，任期為四年，可連選連任。共有19位市民代表，第一選區（東區）4席市民代表、第二選區（南區）5席市民代表、第三選區（北區）6席市民代表、第四選區（西區）4席市民代表，主席、副主席由19位市民代表互選產生<ref>{{cite web|language=zh-tw|url=http://www.yuanlin.gov.tw/represent/main1.asp|title=市民代表會-員林市公所|publisher=員林市公所|date=|accessdate=2017-04-06|archive-date=2020-11-02|archive-url=https://web.archive.org/web/20201102214446/http://www.yuanlin.gov.tw/represent/main1.asp|dead-url=no}}</ref>。
+
+=== 中央機關派出組織 ===
+* [[農業部農糧署]]中區分署
+* [[農業部農田水利署]]彰化管理處
+
+=== 歷任市長 ===
+{{further|員林市市長|l1=員林歷任首長（含改制前）}}
+{| align="left" class="toc" width="80%"
+|----- style="background:#CCCCCC"
+| align ="center" width="5%" | 屆次
+| align ="center" width="10%" | 姓名
+| align ="center" width="15%" | 黨籍
+| align ="center" width="15%" | 就任時間
+| align ="center" width="15%" | 卸任時間
+| align ="center" width="20%" | 備註
+|----- style="background:#73C2FB
+| align ="center" | 1 
+| align ="center" | [[張錦昆]]
+| rowspan=5 align ="center" | {{KMT}}
+| align ="center" | 2015年8月8日
+| align ="center" | 2018年12月25日
+| align ="center" | 改制後首任
+|----- style="background:#73C2FB
+| align ="center" | 2 
+| rowspan=2 align ="center" | 游振雄
+| align ="center" | 2018年12月25日
+| align ="center" | 2022年12月25日
+| align ="center" | 
+|----- style="background:#73C2FB
+| align ="center" | 3
+| align ="center" | 2022年12月25日
+| align ="center" | 2025年1月11日
+| align ="center" | 任內逝世
+|----- style="background:#73C2FB
+| align ="center" | 代理
+| align ="center" | 賴致富
+| align ="center" | 2025年1月15日
+| align ="center" | 現任
+| align ="center" | 縣政府指派
+|}
+{{clear}}
+
+=== 司法園區 ===
+
+為均衡區域發展，地方之三級司法機構有別於彰化縣地方政府之行政與立法兩權設於彰化市，二戰後於員林設立臺中法院彰化庭，爾後獨立為[[臺灣彰化地方法院]]，於中山路二段上與地檢署共用建物合署辦公。自[[員林大道]]開通後，臺灣彰化地方法院大樓與[[臺灣彰化地方檢察署]]大樓陸續落成，均位於員林大道二段上，於道路兩側相望。因地處員林市郊重劃區，兩棟大型建築與周邊零散民宅形成強烈對比。
+
+[[臺灣彰化地方法院]]，負責初審的司法案件之機構<ref>{{cite web |url=https://chd.judicial.gov.tw/tw/cp-3958-66577-20f94-231.html |title=認識本院-本院組織-審判業務 |access-date=2024-03-27 |publisher=臺灣彰化地方法院 |language=zh-tw |archive-date=2024-03-27 |archive-url=https://web.archive.org/web/20240327152424/https://chd.judicial.gov.tw/tw/cp-3958-66577-20f94-231.html |dead-url=no }}</ref>，並在市內設有員林簡易庭，為彰化員林、溪湖兩地區{{Notetag|包括員林、永靖、[[溪湖鎮|溪湖]]、[[埔鹽鄉|埔鹽]]、埔心、大村等鄉鎮市。}}小型訴訟的申訴機關<ref>{{cite web |url=https://chd.judicial.gov.tw/tw/cp-3876-207969-9ed40-231.html |title=認識本院-本院管轄 |access-date=2024-03-27 |publisher=臺灣彰化地方法院 |language=zh-tw |archive-date=2022-07-05 |archive-url=https://web.archive.org/web/20220705145927/https://chd.judicial.gov.tw/tw/cp-3876-207969-9ed40-231.html |dead-url=no }}</ref>。
+[[File:Chcourt.jpg|thumb|200px|臺灣彰化地方法院]]
+[[File:Chdpo.jpg|thumb|200px|臺灣彰化縣
+地方檢察署]]
+
+=== 行政區 ===
+[[File:YanlinUrbanTownshipDistricts1.png|thumb|200px|員林市次分區圖]]
+現今員林市行政範圍的確立，來自於1920年，日本將臺灣十二廳改為五州二廳，設員林街屬臺中州員林郡。員林街轄員林、三條圳、三塊厝、東山、南平、柴頭井、番子崙、湖水坑、萬年、大饒、田中央等11個大字{{sfn|施添福|2004|p=246}}。1946年1月，改為「員林鎮」，屬臺中縣員林區{{r|鎮志政事篇|p=218}}；9月30日，裁撤員林區署，員林鎮改直隸於臺中縣<ref name="公署公報"/>。1950年，調整行政區域，員林鎮改隸新成立的彰化縣{{r|鎮志政事篇|p=218}}。2015年8月8日，員林鎮改制為「員林市」<ref name="歷史沿革"/>。
+
+員林市共轄41個里<ref>{{cite web |url=https://town.chcg.gov.tw/yuanlin/01local/local03.aspx |title=鄉鎮介紹-本地介紹-村里導覽 |access-date=2024-03-27 |publisher=彰化縣政府員林市公所 |language=zh-tw |archive-date=2024-03-27 |archive-url=https://web.archive.org/web/20240327144558/https://town.chcg.gov.tw/yuanlin/01local/local03.aspx |dead-url=no }}</ref>，其行政區域分布情形圖下表，次分區僅為地方選舉之便，並非實際自治團體{{r|鎮志地理篇|p=41}}<ref>{{cite book |date=2007年4月 |title=《彰化縣員林鎮行政區域圖》 |language=zh-tw |location=臺北 |publisher=內政部 }}</ref>：
+
+{| class="wikitable" style="text-align:center"
+!次分區!! colspan="14" |里名
+|-
+!東區
+|[[崙雅里]]||[[振興里 (員林市)|振興里]]||林厝里||出水-{里}-||湖水-{里}-||大峯里||鎮興里||浮圳里||西東里||南東里||中東里||東北里||||
+|-
+!西區
+|三義里||新生里||南平里||南興里||源潭-{里}-||大埔里||||||||||||||||
+|-
+!南區
+|東和里||民生里||黎明里||惠來里||中央里||溝皂里||大饒里||大明里||萬年-{里}-||||||||||
+|-
+!北區
+|中正里||仁美里||新興里||和平里||光明里||中山里||三和里||三橋里||三愛里||三信里||三多里||忠孝里||三條里||仁愛里
+|}
+
+== 經濟 ==
+=== 產業發展 ===
+[[File:Yuanlinstreet1.jpg|thumb|200px|員林火車站前光明街商圈]]
+員林市位於臺灣西部平原山線、八卦台地之山麓，為鐵路和公路的交通樞紐，其便利的交通網絡促進了城市的發展。
+
+員林市孕育了多名大企業家：其中[[正新輪胎]]創辦人羅結曾在員林當學徒，並在員林合資成立「[[連新輪胎]]」；建大輪胎於1962年由楊金豹在員林創立；1972年，曾鼎煌創立美利達，並高度仰賴員林自行車零件的供應鏈；頂新四兄弟之父魏和德曾在員林當學徒，爾後在永靖鄉創立「鼎新製油工廠」，演變為在香港上市的康師傅控股有限公司。這些企業的業務範圍擴展至整個東亞地區、日本、東南亞、印度及歐美。
+
+據統計，員林市有700多位億萬富豪，相當於每171位員林市民中就有一位。這些富豪的銀行存款總額估計有八兆新臺幣以上，許多國內外銀行在此設立據點，其密度之高，致使員林市常被媒體描述為「富豪鎮」和「錢淹腳目」。
+<ref>{{Cite web |url=https://www.setn.com/News.aspx?NewsID=597299 |title=員林有錢人多！億萬富翁密度 最高　「銀行數」現端倪 |access-date=2020-08-05 |archive-date=2022-01-24 |archive-url=https://web.archive.org/web/20220124142330/https://www.setn.com/News.aspx?NewsID=597299 |dead-url=no }}</ref><ref>{{Cite web |url=http://www.chinatimes.com/realtimenews/20140306003671-260405 |title=員林錢淹腳目！豪宅：名車砸錢不手軟 |accessdate=2014-09-04 |archive-date=2014-09-05 |archive-url=https://web.archive.org/web/20140905030505/http://www.chinatimes.com/realtimenews/20140306003671-260405 |dead-url=no }}</ref><ref>{{Cite web |url=http://www.popbuzz.me/tw/p/3140784/ |title=員林好野人超多 億萬富翁逾400個 |accessdate=2014-09-04 |archive-date=2014-09-04 |archive-url=https://web.archive.org/web/20140904220420/http://www.popbuzz.me/tw/p/3140784/ |dead-url=yes }}</ref>。因此，數十年來媒體時有「員林富豪鎮」、「員林錢淹腳目」等描述員林「有錢」的形容詞出現。此外，因彰化地方法院的設立，律師事務所也很多，員林市有「三多」的說法，「有錢人多」、「律師多」和「銀行多」及得名於此。員林亦有很多高價進口商品的專賣店，如進口超跑專賣店等進駐員林。員林進口超跑業者幾乎每三個月就可以賣出一輛千萬等級的超跑。<ref>{{Cite web |url=http://news.housefun.com.tw/news/article/81839258125.html |title=員林號稱「富豪鎮」 3千萬豪宅一推就賣完 |accessdate=2014-03-06 |archive-date=2014-03-09 |archive-url=https://web.archive.org/web/20140309035209/http://news.housefun.com.tw/news/article/81839258125.html |dead-url=no }}</ref><ref>{{Cite web |url=http://www.ettoday.net/news/20140306/331573.htm |title=員林錢淹腳目！全台第一富豪鎮　3千別墅專停名車 |accessdate=2014-04-12 |archive-date=2019-06-11 |archive-url=https://web.archive.org/web/20190611062321/https://www.ettoday.net/news/20140306/331573.htm |dead-url=no }}</ref><ref>{{Cite web |url=http://news.housefun.com.tw/news/article/70852362527.html |title=據統計，全臺存款最高的地區為「彰化縣員林鎮」，億萬富翁超過400人，存款為全台之冠 |accessdate=2014-04-29 |archive-date=2014-04-29 |archive-url=https://web.archive.org/web/20140429214057/http://news.housefun.com.tw/news/article/70852362527.html |dead-url=no }}</ref><ref>{{Cite web |url=http://news.housefun.com.tw/news/article/48649874302.html |title=獨家／員林富豪多　億萬富翁密度全臺灣最高 |accessdate=2014-08-14 |archive-date=2019-05-03 |archive-url=https://web.archive.org/web/20190503025758/https://news.housefun.com.tw/news/article/48649874302.html |dead-url=no }}</ref><ref>{{Cite web |url=http://www.popbuzz.me/tw/p/3140784/ |title=員林三多 有錢人.律師.銀行都多 |accessdate=2014-09-04 |archive-date=2014-09-04 |archive-url=https://web.archive.org/web/20140904220420/http://www.popbuzz.me/tw/p/3140784/ |dead-url=yes }}</ref><ref>{{Cite web |url=https://udn.com/news/story/7325/2500525 |title=員林億萬富翁密度最高 彰化縣報稅前五名都是員林人，儲蓄存款為全臺之冠 |accessdate=2017-06-04 |archive-date=2020-02-16 |archive-url=https://web.archive.org/web/20200216184656/https://udn.com/news/story/7325/2500525 |dead-url=no }}</ref><ref>{{Cite web |url=http://www.popbuzz.me/tw/p/3140784/ |title=員林好野人超多億萬富翁逾400個汽車業者3個月可賣1輛千萬超跑 |accessdate=2014-09-04 |archive-date=2014-09-04 |archive-url=https://web.archive.org/web/20140904220420/http://www.popbuzz.me/tw/p/3140784/ |dead-url=yes }}</ref><ref name="#1">{{Cite web |url=http://www.setnews.net/News.aspx?PageGroupID=6&NewsID=16905&PageType=3 |title=獨家／員林富豪多　億萬富翁密度全台灣最高 |accessdate=2014-04-29 |archive-date=2014-09-24 |archive-url=https://web.archive.org/web/20140924041421/http://www.setnews.net/News.aspx?PageGroupID=6&NewsID=16905&PageType=3 |dead-url=no }}</ref>。
+
+特產方面，員林市最出名的是「蜜餞」。由於地理位置優越，這裡成為台灣中南部水果的集散地。員林市開始有人將過剩的水果製成蜜餞，種類包括梅子、橄欖、李子、芒果、金棗、小紅梅、櫻桃、桑椹等，這些蜜餞除了銷往全台外，還外銷至世界各地，產值高達新臺幣30多億。員林市因此成為臺灣最主要和最有名的蜜餞產地。<ref>{{Cite web |url=http://library.taiwanschoolnet.org/cyberfair2002/C0224500072/kindset-4.htm |title=蜜餞種類 |accessdate=2013-09-30 |archive-date=2013-10-24 |archive-url=https://web.archive.org/web/20131024070300/http://library.taiwanschoolnet.org/cyberfair2002/C0224500072/kindset-4.htm |dead-url=no }}</ref>。
+
+員林市是南彰化最大的城市，地理位置優越，交通便利。最近有多項重大建設正在進行，如184公頃市地重劃、30米外環綠園道「員林大道」的開通、圓林園「滯洪池生態公園」、龍燈公園及龍燈夜市的設立、鐵路高架化的完成、彰基醫療體系員林基督教醫院的設立、榮總醫療體系員榮總醫院的開工動土、彰化縣東部道路（東彰路）的建設、連接台76線埔心交流道員埔路的開通、彰南國民運動中心的落成啟用、員林「司法園區」的設立和員林「新市政中心」的計畫等。這些發展項目吸引了許多建商和在中國大陸經商的員林人回家鄉置產興業，使得員林市呈現出繁榮景象。<ref>{{Cite web |url=http://news.housefun.com.tw/news/article/17549076775.html |title=員林鐵路高架化　可望帶動西側發展、房價補漲 |accessdate=2014-08-28 |archive-date=2019-05-02 |archive-url=https://web.archive.org/web/20190502202254/https://news.housefun.com.tw/news/article/17549076775.html |dead-url=no }}</ref>
+
+=== 商圈 ===
+*第一市場商圈
+
+作為員林最早形成的聚落，時至今日，民生路、中正路一帶仍是當今員林最繁忙的商圈，並且延伸至員林市區的一大路口「八條通」。即便打石巷（現黎明巷）在大清時期鼎盛的傳統產業已經沒落多時，多數古式建築已然不復存在，但此處仍保存一些較早時的商店及建築。此外，這裡亦是員林在深夜時，唯一有不少商家仍然營業的商圈，堪稱不夜城。
+
+*三角公園商圈
+
+位於靜修路、中正路以及中山路三條路為核心構成的商圈，土地銀行大樓在此地為最顯眼的地標。在員林鐵路高架化後，此商圈又沿靜修路向西輻散出去。此處有許多店家供應正餐及飲品。惟此區域商家打烊時間較早，過了晚間八點人潮驟減。
+
+*華成市場商圈
+
+毗鄰三角公園商圈之傳統市場「華成市場」，此處販賣水果、蔬菜、以及肉類等初級農產品或食品材料行居多，約在博愛路、萬年路三段、育英路以及浮圳路二段處形成。此處亦有夜市「園林大市場-星期三夜市」，位於浮圳路二段與育英路口處。
+
+*龍燈公園商圈
+
+員林最大的夜市，為2012於[[鹿港鎮]]舉辦之台灣燈會主燈在謝幕後搬遷之所在地，因而得名。於每週二、週五、週六以及週日營業，但作為露天夜市，於天候不佳時可能有許多攤販選擇不營業。
+
+== 教育 ==
+員林市的教育起源甚早，市內的[[興賢書院]]是員林地區最早的教育設施<ref>{{Cite web |url=http://www.boch.gov.tw/boch/frontsite/cultureassets/caseBasicInfoAction.do?method=doViewCaseBasicInfo&caseId=NA09602000197&version=1&assetsClassifyId=1.1&menuId=302|title=興賢書院|publisher=[[文化部文化資產局]]|location=臺北市|language=zh-tw|accessdate=2012-10-15|deadurl=yes|archiveurl=https://web.archive.org/web/20140101081545/http://www.boch.gov.tw/boch/frontsite/cultureassets/caseBasicInfoAction.do?method=doViewCaseBasicInfo&caseId=NA09602000197&version=1&assetsClassifyId=1.1&menuId=302|archivedate=2014-01-01}}</ref>，教導分布在燕武三堡（[[武東堡]]、[[武西堡]]、[[燕霧下堡]]）的廣大學子{{r|鎮志教育篇|pp=423－424}}。1895年日本治臺後，在臺實施殖民政策。1896年，公布〈國語傳習所規定〉、〈國語學校規則〉與〈台灣公學校官制〉，推展日文教育，規定公學校為公立學校，以國語傳習所改設六年制公學校，傳授初等普通教育{{r|鎮志教育篇|p=430}}。其中員林街國語傳習所為員林地區日語教育起端，最初成立於現今的廣寧宮內{{r|鎮志教育篇|p=431}}。1898年，將國語傳習所轉型為公學校或小學校{{r|鎮志教育篇|p=430}}。其後，日本在員林市共設立四所公學校與一所小學校，依序是1898年員林公學校（今[[員林國小]]）、1918年東山公學校（1917年原為員林公學校東山分教場，1918年改制，今[[東山國小]]）、1923年員林尋常小學校（後於1941年配合實施國民學校制而被廢除）、1933年員林女子公學校（1930年原為員林公學校高等科女子部，1933年改制，今[[育英國小]]）、1936年湖水公學校（1923年原為員林公學校柴頭井分教場，1936年改制，今[[青山國小]]）{{r|鎮志教育篇|pp=431－437}}。同時由於員林在工商業獲得進展，在日本人主導下先後建立了臺中州立員林家政女校（今[[國立員林高級中學]]）<ref>{{cite web |url=http://www.ylsh.chc.edu.tw/%E4%B8%BB%E9%81%B8%E5%96%AE/%E8%AA%8D%E8%AD%98%E5%93%A1%E9%AB%98/%E5%93%A1%E4%B8%AD%E6%A0%A1%E5%8F%B2.htm |title=員中校史 |access-date=2012-10-15 |publisher=[[國立員林高級中學|員林高中]] |location=員林鎮 |language=zh-tw }}{{dead link|date=2017年12月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>與臺中州立員林農業學校（今[[國立員林高級農工職業學校]]）<ref>{{cite web |url=http://www.ylvs.chc.edu.tw/aboutschool/abouthistory.aspx |title=員農校史 |access-date=2012-10-15 |publisher=[[員林農工]] |location=員林市 |language=zh-tw |archive-date=2012-11-04 |archive-url=https://web.archive.org/web/20121104142501/http://www.ylvs.chc.edu.tw/aboutschool/abouthistory.aspx |dead-url=yes }}</ref>，奠定員林當時在[[臺中州]]內與[[臺中市]]、彰化市相當的教育地位{{r|鎮志教育篇|pp=437－438}}。1945年戰後，國民政府除了將日治時期的各所學校進行變更校名並繼續辦理，也紛紛興辦各級學校{{sfn|張義清|1990|p=192|loc=第玖篇·教育與文化}}，並自1968年起實施國民義務教育，促進教育的普及化{{r|鎮志教育篇|p=455}}。
+
+[[File:2011年8月1日改名科技大學揭牌典禮.jpg|thumb|200px|left|已於2023年7月31日停止辦學的中州科技大學]]
+創立於1969年11月的[[中州科技大學]]曾為員林市區內的一所私立科技大學，成立初名為中州工業專科學校，1991年改為中州工商專科學校，2000年升格為中州技術學院{{r|鎮志教育篇|p=486}}，2011年8月1日改名為中州科技大學。全校設有工學院、管理學院、健康學院三個學院及通識教育中心，下設15個學系，全校學生約5,200名<ref>{{cite news |url=https://www.chinatimes.com/newspapers/20110527000304-260202?chdtv |title=中州技術學院改名中州科技大學 |author=陳仁義 |work=工商時報 |date=2011-05-27 |access-date=2024-12-14 |publisher=中時新聞網 |language=zh-tw |archive-date=2026-01-06 |archive-url=https://web.archive.org/web/20260106055124/https://www.chinatimes.com/newspapers/20110527000304-260202?chdtv |url-status=live }}</ref>。2023年7月31日，停止辦學<ref>{{cite news |url=https://news.ltn.com.tw/news/life/breakingnews/4329894 |title=中州科大最後畢典 43歲畢業生帶阿公照片參加完成爺爺遺願 |author=陳冠備 |date=2023-06-10 |access-date=2024-12-14 |publisher=自由時報 |language=zh-tw |archivedate=2025-01-14 |archive-url=https://web.archive.org/web/20250114220308/https://news.ltn.com.tw/news/life/breakingnews/4329894 |dead-url=no }}</ref>。
+
+[[File:國立員林高中.jpg|thumb|200px|國立員林高中]]
+員林市現有公私立高級中等學校4所，分別為[[國立員林高級中學]]等普通型高級中等學校1校，以及[[國立員林崇實高級工業職業學校]]、[[國立員林高級農工職業學校]]、[[國立員林高級家事商業職業學校]]等技術型高級中等學校3校{{r|鎮志教育篇|pp=475－484}}。其他公立教育機構計有[[彰化縣立員林國民中學]]、彰化縣立明倫國民中學、[[彰化縣立大同國民中學]]等3所國民中學{{r|鎮志教育篇|pp=470－474}}，[[彰化縣員林市員林國民小學]]、彰化縣員林市東山國民小學、彰化縣員林市青山國民小學、彰化縣員林市育英國民小學、[[彰化縣員林市靜修國民小學]]、[[彰化縣員林市明湖國民小學]]、[[彰化縣員林市僑信國民小學]]、彰化縣員林市饒明國民小學、彰化縣員林市員東國民小學等9所國民小學{{r|鎮志教育篇|pp=455－470}}。
+
+== 交通 ==
+=== 鐵路運輸 ===
+{{main|員林線|員林市區鐵路高架化計畫}}
+[[File:Yuanlin_Station_20150425.jpg|thumb|200px|員林車站]]
+[[臺灣鐵路]]的發展始於清領時期，由臺灣巡撫劉銘傳成立[[全臺鐵路商務總局]]，負責籌辦興建鐵路。自1887年起，先後修築「基隆＝臺北」、「臺北＝新竹」兩段，共計約104.9公里，分別於1891年、1893年通車。日治初期，臺灣總督府曾計畫由民間以發行債券方式募集資金修築[[縱貫線 (鐵路)|縱貫鐵路]]，但由於過程不順利，改由總督府主導臺灣鐵路的修築營運。1905年3月26日，設立員林驛，即今員林車站。1908年4月20日，縱貫鐵路基隆至高雄段全線通車{{r|鎮志建設篇|p=349}}。
+
+之後，日本政府又於員林地區增設、修築個別一條的台糖鐵路與輕便軌道：
+
+1912年，成立員林輕鐵株式會社，總站設於現今的東門橋一帶，分為東線、南線、西線，東線可通往山腳路、番仔崙、東山，南線可通往社頭、田中，西線可通往西門、永靖、田尾、北斗，為運送蔬果農產及人員的主要交通工具，在二戰後即被廢止與拆除，現已不見其遺跡{{r|鎮志建設篇|p=353－354}}。
+
+1919年1月，溪湖糖廠鐵路（[[員林線]]）全線通車，途經巫厝、二重湳、埔心、南員林等站，軌距1,067毫米及762毫米並行，全長約為9.436公里，主要用於貨運業務，[[南員林車站|南員林站]]以員林驛為轉運中心，可將[[溪湖糖廠]]所產之糖、糖蜜等銷往各地{{r|鎮志建設篇|p=352}}。初期主要使用燃煤蒸汽機車，至1949年後開始採用內燃引擎，並以糖廠自產的酒精為燃料，1959年1月起，開始兼營載客服務。之後又分別於1960年、1967年改以汽油、柴油為燃料，1973年糖廠鐵路客運停駛{{r|鎮志建設篇|p=352－353}}。1996年，員林線貨運停駛，直到2000年代末期才將糖廠鐵軌道路改建成自行車道與人行景觀步道<ref>{{cite web |url=https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=486303 |title=彰化明治糖鐵南員林站 |website=國家文化記憶庫 2.0 |author=楊銘欽 |access-date=2024-12-13 |publisher=中華民國文化部 國立臺灣歷史博物館 |language=zh-tw |archive-date=2026-01-07 |archive-url=https://web.archive.org/web/20260107015500/https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Place&id=486303 |url-status=live }}</ref>。
+
+至2000年時，[[台灣高鐵]]動工，並於2006年先後完成全線系統整合測試與試運轉作業，2007年1月5日，正式通車營運。台灣高鐵由員林市東部出入[[八卦山脈]]，但未在員林市境內設站，距離員林市最近的高鐵車站是位於[[田中鎮]]的[[高鐵彰化站]]{{r|鎮志建設篇|p=354}}。
+
+[[員林車站]]位於員林市民權街上，是臺灣鐵路[[縱貫線 (南段)|縱貫線]]的[[鐵路車站]]，車站等級為[[臺灣鐵路管理局車站等級|一等站]]，也是彰化縣僅次於[[彰化車站]]的第二大火車站。自1905年的員林驛開辦客貨運以來，即是鄰近的[[大村]]、[[埔心]]、[[溪湖]]、[[永靖]]、[[社頭]]等地居民及農產品的主要轉運中心{{r|鎮志建設篇|p=348}}。1955年，升格為頭等乙站（一等站）{{r|鎮志建設篇|p=349}}。期間與之後車站及其周遭曾進行數次整修與改建工程，包括站房整修、站前廣場綠美化工程、增設兩層汽機車停車場、改建簡易跨站式站房、候車室與規劃商業空間等{{r|鎮志建設篇|p=349－350}}，至2014年11月2日起，配合員林市區鐵路高架化計劃的竣工，正式啟用高架化車站<ref name="員林計畫">{{cite web |url=http://www.rrb.gov.tw/04100.aspx?id=6&lan=ch |title=計畫介紹-員林計畫 |access-date=2009-08-21 |publisher=交通部鐵路改建工程局 |language=zh-tw |archive-date=2019-05-03 |archive-url=https://web.archive.org/web/20190503005140/https://www.rrb.gov.tw/04100.aspx?id=6&lan=ch |dead-url=no }}</ref><ref>{{cite web |url=http://trstour.com/yuan-lin.htm |title=員林車站 |website=trstour.com |access-date=2024-12-13 |language=zh-tw |archive-date=2024-12-13 |archive-url=https://web.archive.org/web/20241213221708/http://trstour.com/yuan-lin.htm |dead-url=no }}</ref>。
+
+[[員林市區鐵路高架化計畫]]，簡稱「員林鐵路高架化」，計畫範圍從大村鄉北勢路平交道北方約930公尺至員林大排南方約100公尺，全長為3.98公里的鐵路改為高架化，是[[新十大建設]]計畫之一{{r|鎮志建設篇|p=350}}。該項計畫在2007年9月1日時正式動工，展開先期作業工程。2009年底，臨時軌道鋪設及機電設施工程完成測試通車。之後陸續拆除沿途的平交道、地下道及陸橋，以改善交通堵塞與減少交通事故，並在車站內增設兩座島式月臺與四股鐵道於高架橋上，搭配車站周遭綠化工程進行都市更新{{r|鎮志建設篇|p=351}}。2014年11月2日，高架化工程正式完工通車<ref name="員林計畫"/><ref>{{cite news |url=https://www.ntdtv.com.tw/b5/20141102/video/135302.html?%E5%93%A1%E6%9E%97%E9%90%B5%E8%B7%AF%E9%AB%98%E6%9E%B6%E5%8C%96%E5%AE%8C%E5%B7%A5%E9%80%9A%E8%BB%8A%20%E6%8F%90%E5%89%8D%E5%95%9F%E7%94%A8%20 |title=員林鐵路高架化完工通車 提前啟用 |author=葉錫鴻 |date=2014-11-02 |access-date=2024-12-13 |publisher=新唐人亞太電視台 |language=zh-tw |archive-date=2025-09-12 |archive-url=https://web.archive.org/web/20250912224633/https://www.ntdtv.com.tw/b5/20141102/video/135302.html?%E5%93%A1%E6%9E%97%E9%90%B5%E8%B7%AF%E9%AB%98%E6%9E%B6%E5%8C%96%E5%AE%8C%E5%B7%A5%E9%80%9A%E8%BB%8A%20%E6%8F%90%E5%89%8D%E5%95%9F%E7%94%A8%20 |url-status=live }}</ref>。
+
+=== 公車客運 ===
+{{multiple image
+| align             = right
+| direction         = vertical
+| width             = 200
+| image1            = YuanlinTransferStation.jpg
+| caption1          = {{small|員林轉運站}}
+| image2            = YuanlinBusYuanlinStation.jpg
+| caption2          = {{small|員林客運員林站}}
+}}
+
+*[[員林轉運站]]：位於靜修路與新生路口角地，地址是彰化縣員林市靜修路52-1號，鄰近鐵路，佔地約850坪，由彰化客運公司以民間興建營運後轉移模式（BOT）方式取得經營權。目前有彰化客運、國光客運、統聯客運、和欣客運四家公路客運業者利用該車站，其中彰化客運、國光客運、統聯客運並於此設立服務櫃台，公路客運班車可經由莒光路（台1線）快速駛往[[中山高|國道1號]]與[[台76線]]。
+*[[彰化客運]]：以中彰投地區的一般公路客運為經營主軸的汽車客運公司，該公司員林站設於員林轉運站。
+*[[員林客運]]：以中彰投地區的一般公路客運為經營主軸的汽車客運公司。總公司與該公司員林站位於員林市中正路585號3樓。
+*[[國光客運]]：知名汽車客運公司，以國道客運為經營主軸，於員林轉運站，有往[[臺北轉運站]]、[[三重區|三重]]重陽路的汽車客運路線。
+
+[[彰化縣公車]]經過員林市區的路線有6路（鹿港至員林）、7路（員林至田中火車站）、10路（員林轉運站至溪頭）、20路（員林至二林）等4條路線，提供市民搭乘及[[鹿港鎮|鹿港]]、埔心、永靖、田尾、田中、溪湖、[[二林鎮|二林]]等鄉鎮轉運聯絡之用，其中10路行駛台76線及國道三號至竹山、鹿谷及溪頭<ref>{{cite web |url=https://www.taiwanbus.tw/eBUSPage/Default.aspx?lan=C |title=公路客運即時動態資訊網 |access-date=2024-12-27 |publisher=交通部公路局 |language=zh-tw |archive-date=2026-01-04 |archive-url=https://web.archive.org/web/20260104161423/https://www.taiwanbus.tw/ebuspage/Default.aspx?lan=C |url-status=live }}</ref>。
+
+=== 公路 ===
+====省道====
+員林市境內共有[[臺灣省道|省道]]2條。
+* [[台1線]]即中山路、莒光路，其中莒光路是於1970年代為改善員林市區的交通，而闢建的路寬30公尺之市區外環道{{r|鎮志建設篇|p=357}}，北接大村、[[花壇鄉|花壇]]、彰化等鄉市及臺中以北各地，南接埔心、永靖、田尾等鄉及雲林以南各地<ref name="省道">{{cite web |url=https://www.thb.gov.tw/News.aspx?n=455&sms=13741 |title=公路工程-省道-省道公路路線 |access-date=2024-12-27 |publisher=中華民國交通部公路總局 |language=zh-tw |archive-date=2023-01-27 |archive-url=https://web.archive.org/web/20230127071842/https://www.thb.gov.tw/News.aspx?n=455&sms=13741 |dead-url=no }}</ref>。
+* [[台76線]]可連接[[西部濱海快速公路|台61線]]、[[中山高速公路]]、台1線及[[福爾摩沙高速公路]]，為彰化、南投兩縣的重要交通聯絡道路，路寬約有25公尺，並在員林市內設有員林交流道及林厝交流道，部分路段係沿員林大排河堤兩岸興建，北岸為西行車道，南岸則為東行車道，兩岸高架道路底下設有路寬約8公尺的平面道路{{r|鎮志建設篇|pp=357－358}}。員林交流道連接台1線，是距離員林市區最近的公路交流道。林厝交流道位於八卦山山腳，連接縣道137號，是通往社頭鄉、田中鎮的要道{{r|鎮志建設篇|p=358}}<ref name="省道"/>。[[八卦山隧道]]連接員林市與南投縣[[草屯鎮]]<ref>{{cite news |url=https://news.tvbs.com.tw/life/445864 |title=八卦山隧道明通車　草屯員林5分鐘 |date=2005-04-28 |access-date=2024-12-27 |publisher=TVBS新聞網 |language=zh-tw |archivedate=2025-01-14 |archive-url=https://web.archive.org/web/20250114165739/https://news.tvbs.com.tw/life/445864 |dead-url=no }}</ref>，位於台76線林厝交流道及[[中興系統交流道]]之間，西行車道全長4,928公尺，東行車道全長4,935公尺{{r|鎮志建設篇|p=358}}。
+
+====縣道====
+員林市境內共有[[中華民國縣道|縣道]]4條。
+* [[縣道137號]]即山腳路，位於員林市東側八卦臺地山腳下，是員林市東側主要的聯外道路，北接大村、花壇、彰化等鄉市，南通社頭、田中、[[二水鄉|二水]]等鄉鎮{{r|鎮志建設篇|p=362}}。
+* [[縣道141號]]原始起點位於員林市內北側與台1線的交會處{{r|鎮志建設篇|p=362}}，後配合員林大道的通車而於2017年11月3日調整為現狀，起點改至員林大道與員鹿路交叉口，現由員林大道七、一段、員集路組成<ref name="交路字第1060414172號">{{cite web |url=https://files.chcg.gov.tw/files/%E4%BA%A4%E9%80%9A%E9%83%A8%E5%85%AC%E5%91%8A(%E5%90%AB%E5%9C%96)_66_1061122.pdf |title=交路字第1060414172號—公告調整彰化縣轄內縣、鄉道公路路線 |format=PDF |date=2016-11-03 |access-date=2024-12-13 |publisher=交通部 |language=zh-tw |archive-date=2025-04-13 |archive-url=https://web.archive.org/web/20250413181655/https://files.chcg.gov.tw/files/%E4%BA%A4%E9%80%9A%E9%83%A8%E5%85%AC%E5%91%8A(%E5%90%AB%E5%9C%96)_66_1061122.pdf |url-status=live }}</ref><ref name="金路獎">{{cite web |url=https://ws.thb.gov.tw/001/Upload/OldFile/resource/thbu2/html/doc/Activity/108%E9%87%91%E8%B7%AF%E7%8D%8E%E5%BD%B0%E5%8C%96%E6%AE%B5%E7%B0%A1%E5%A0%B1.pdf |title=交通部108年金路獎 用路人資訊類考評—路過縱貫線彰化心旅行 |format=PDF |access-date=2024-12-13 |publisher=交通部公路總局第二區養護工程處彰化工務段 |language=zh-tw |archive-date=2025-01-14 |archive-url=https://web.archive.org/web/20250114204335/https://ws.thb.gov.tw/001/Upload/OldFile/resource/thbu2/html/doc/Activity/108%E9%87%91%E8%B7%AF%E7%8D%8E%E5%BD%B0%E5%8C%96%E6%AE%B5%E7%B0%A1%E5%A0%B1.pdf |dead-url=no }}</ref>，為員林市的南北向聯外道路，往東南方可接社頭、田中、二水等鄉鎮，亦可連接台3線通往南投、雲林、嘉義等縣{{r|鎮志建設篇|p=362}}。
+* [[縣道144號]]即柳橋路<ref>{{cite news |url=https://news.ltn.com.tw/news/local/paper/900228 |title=一四四縣道有名字了 就叫柳橋路 |author=劉曉欣 |date=2015-07-23 |access-date=2024-12-27 |publisher=自由時報 |language=zh-tw |archivedate=2018-12-14 |archive-url=https://web.archive.org/web/20181214113725/http://news.ltn.com.tw/news/local/paper/900228 |dead-url=no }}</ref>，為台76線底下之員林大排平面道路<ref>{{cite web |url=https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=44098 |title=公告資訊-新聞專區-本局最新消息-台76線快速公路指示標誌完整，請用路人依標誌指示行駛。 |date=2013-10-07 |access-date=2024-12-27 |publisher=中華民國交通部公路局 |language=zh-tw |archive-date=2025-04-14 |archive-url=https://web.archive.org/web/20250414204333/https://www.thb.gov.tw/News_Content_table.aspx?n=87&s=44098 |url-status=live }}</ref>，東側端點位於員林市內，往西可接埔心、溪湖、[[秀水鄉 (台灣)|秀水]]、埔鹽、[[福興鄉 (台灣)|福興]]等鄉鎮<ref name="縣道">{{cite web |url=https://www.thb.gov.tw/News.aspx?n=107&sms=13789 |title=公路工程-省道-市道及縣道公路路線 |access-date=2024-12-13 |publisher=中華民國交通部公路局 |language=zh-tw |archive-date=2023-04-17 |archive-url=https://web.archive.org/web/20230417093510/https://www.thb.gov.tw/News.aspx?n=107&sms=13789 |dead-url=no }}</ref>。
+* [[縣道148號]]原在員林市內路段是由員鹿路、民生路、員東路、員草路組成，後配合員林大道的通車而於2017年11月3日調整為現狀，即今日的員林大道六至三段、員東路、員草路<ref name="交路字第1060414172號"/><ref name="金路獎"/>，東接芬園鄉、南投縣草屯鎮，往西可通往國道一號員林交流道{{r|鎮志建設篇|p=362}}，亦可連接埔心、溪湖、二林、[[芳苑鄉|芳苑]]等鄉鎮<ref name="縣道"/>。
+
+====主要幹道====
+除了上述道路，員林市的主要道路尚有南北向的員大路、三條街、三橋街、萬年路、博愛路、光明街、光明南街、新生路，以及東西向的源泉路、浮圳路、靜修路、南潭路、源潭路、員水路、大饒路、自強路、員南路、大同路、三民街、三民東街等，其中被編入鄉道編號的有源泉路、員大路、浮圳路、靜修路、南潭路、源潭路、萬年路、員水路、大饒路、自強路、員南路等道路{{r|鎮志建設篇|pp=361－366}}。鄉道彰55線即源泉路，是沿八堡圳開闢的道路，路寬約6至8公尺，道路東南端位於員鹿路口，西北可接大村、埔心等鄉{{r|鎮志建設篇|p=362}}。彰71線即員大路，路寬約8至10公尺，道路南端位於靜修路口（員林國中附近），北接大村、花壇、秀水等鄉{{r|鎮志建設篇|p=363}}。彰78線即員水路（包括出水巷），西與縣道148號（員東路）、彰77線（萬年路）相接，可通往員林市區，往東可與縣道137號、縣道139號相接並通往芬園、南投等地{{r|鎮志建設篇|p=363}}。
+
+====外環道====
+位於員林市區外環的[[員林大道]]是擴大員林都市計劃中新闢的道路之一，路寬約30公尺，全長約8.8公里，環繞員林市區外圍及埔心鄉邊界，2013年9月7日起開放部分路段通車，接通員林市區各條主要幹道，改善長期的交通堵塞問題<ref>{{cite news |url=https://www.chinatimes.com/realtimenews/20220401001985-260405?chdtv |title=不像在台灣！員林一整排別墅天龍人看傻 網揭背後真相 |author=張沛歆 |date=2022-04-01 |access-date=2025-01-04 |publisher=中時新聞網 |language=zh-tw |archivedate=2022-04-24 |archive-url=https://web.archive.org/web/20220424054725/https://www.chinatimes.com/realtimenews/20220401001985-260405?chdtv |dead-url=no }}</ref>。其道路名稱是於2013年11月26日，透過網路命名票選活動方式選出<ref>{{Cite web |url=http://www.chcg-30road-namevote.com.tw/activity_candidate.html |title=員林184公頃重劃區之30米園道之道路命名票選活動候選路名簡介 |access-date=2013-11-23 |archive-date=2013-12-17 |archive-url=https://web.archive.org/web/20131217083520/http://www.chcg-30road-namevote.com.tw/activity_candidate.html |dead-url=yes }}</ref><ref>{{cite news |url=https://news.housefun.com.tw/news/article/21457448787.html |title=員林市地重劃道路網路命名　「員林大道」脫穎而出 |author=張文熹 |date=2013-11-26 |access-date=2025-01-04 |publisher=好房網News |language=zh-tw |archivedate=2014-02-20 |archive-url=https://web.archive.org/web/20140220172502/http://news.housefun.com.tw/news/article/21457448787.html |dead-url=no }}</ref>。在2014年11月2日員林鐵路高架化完工通車後，配合惠明街地下道填平作業工程，於同年12月26日完成員林大道貫通銜接，並在2015年1月全線通車<ref>{{Cite news |url=https://tw.news.yahoo.com/%E5%93%A1%E6%9E%97%E5%A4%A7%E9%81%93%E5%85%A8%E7%B7%9A%E9%80%9A%E8%BB%8A-160000794.html |title=員林大道全線通車 |author=方一成 |work=台灣新生報 |date=2015-01-02 |access-date=2025-01-04 |publisher=Yahoo奇摩新聞 |language=zh-tw |archive-date=2026-01-06 |archive-url=https://web.archive.org/web/20260106053923/https://tw.news.yahoo.com/%E5%93%A1%E6%9E%97%E5%A4%A7%E9%81%93%E5%85%A8%E7%B7%9A%E9%80%9A%E8%BB%8A-160000794.html |url-status=live }}</ref>。
+
+位於員林市東側有新闢之東彰化外環道（東彰路），預計將編為[[縣道137號]]，取代原山腳路之縣道地位。此道路在員林段多為雙向六線道，行經員林市郊，通過[[縣道144號]]、員東路一段、員水路一段、浮圳路一段等道路，向北為通往[[彰化市]]以及台中市[[烏日區]]之捷徑，向南可轉往[[八卦山隧道]]、或往[[高鐵彰化站]]之方向。
+<ref>{{cite news |url=https://news.ltn.com.tw/news/life/breakingnews/4922158 |title=11年終於盼到新縱貫線！東彰快速道路北段1/18通車 |author=張文熹 |date=2025-01-13 |access-date=2026-01-11 |publisher=自由時報 |language=zh-tw |archive-date=2025-01-25 |archive-url=https://web.archive.org/web/20250125124721/https://news.ltn.com.tw/news/life/breakingnews/4922158 |url-status=live }}</ref>
+
+====以員林為名輻射向其他行政區的道路====
+* 員東路：從員林市區（大字）到東山（大字）。
+* 員水路：從員林市區（大字）到湖水坑（大字）。
+* 員草路：從員林東山到草屯鎮市郊。
+* 員集路：從員林市到集集鎮，但實際路名只有編到名間鄉，且各行政區在分段系統上各自為政，常有類似員林一段接社頭三段的現象。
+* 員鹿路：從員林市到鹿港鎮，從東西向到了溪湖市區轉為東南向西北直到鹿港。
+* 員南路：從員林市到南投市，途中經過員林運動公園。
+* 員埔路：從員林市到埔心鄉，直至埔心外環道與台76。
+* 員大路：從員林市到大村鄉，從員林高中開始直至大村市區。
+* 彰員路：連結彰化市與員林市，但實際上只編至花壇鄉與大村鄉交界。
+
+=== 郵電 ===
+員林郵政早在清[[道光]]年間，即已設有[[舖司站]]{{r|鎮志建設篇|p=372}}。但員林市的新式郵政始於日治時期，1899年1月1日設立臺中縣員林街郵便受取所，兼辦郵件及電報傳遞業務。4月1日，改為北斗郵便電信局員林出張所。1903年2月21日，改隸彰化郵便電信局。1904年5月1日，員林出張所改制為員林郵便電信出張所。1915年，改為員林三等郵便局。至1941年起，郵政制度變革，員林三等郵便局改為員林特定郵便局{{r|鎮志建設篇|p=373}}。戰後，郵政業務劃歸交通部接管。1946年5月5日，改制為員林郵電局。1949年4月1日，郵電分制，改稱員林郵局。1950年9月1日核定為二等郵局，之後歷經四次升格，2008年7月1日升為特等郵局{{r|鎮志建設篇|p=373}}。其郵政業務主要有郵務、儲匯、壽險、定存等{{r|鎮志建設篇|p=373}}，管轄區域包括員林市、大村鄉、埔心鄉等地，目前員林郵局在員林市內共有5處支局{{r|鎮志建設篇|p=374}}<ref>{{cite web |url=https://subservices.post.gov.tw/post/internet/Q_localpost/index.jsp?ID=12090201&search_area=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82&desc=lp004_06.htm#list |title=營業資訊-當地支局-彰化縣員林市 |access-date=2024-12-27 |publisher=中華郵政全球資訊網 |language=zh-tw |archive-date=2026-01-06 |archive-url=https://web.archive.org/web/20260106202323/https://subservices.post.gov.tw/post/internet/Q_localpost/index.jsp?ID=12090201&search_area=%E5%BD%B0%E5%8C%96%E7%B8%A3%E5%93%A1%E6%9E%97%E5%B8%82&desc=lp004_06.htm#list |url-status=live }}</ref>。
+
+臺灣電信始於清光緒年間，而員林電信事業則始於日治時期，1899年1月1日設立臺中縣員林街郵便受取所，兼辦郵件及電報傳遞業務{{r|鎮志建設篇|p=369}}。1907年3月10日，開辦電話業務，可直接以電話聯繫臺北至嘉義之間的重要城鎮。戰後1949年郵電分制後，成立員林電信局，為三等局{{r|鎮志建設篇|p=370}}。1969年8月1日，員林電信局開辦真跡電報業務。1974年6月30日，開辦長途電話直撥業務{{r|鎮志大事紀|p=32}}。期間與之後歷經三次升格，1985年升為一等甲局。1996年7月1日，為推動電信業務自由化及電信組織公司化政策，將交通部電信局劃分為交通部電信總局與國營事業中華電信股份有限公司，前者專於國家電信政策設計與電信市場之監督管理，後者則專責電信事業之經營{{r|鎮志建設篇|p=370}}。目前中華電信在員林市內共有2間服務中心與3間特約服務中心<ref>{{cite web |url=https://123.cht.com.tw/ServiceCenter |title=我的電信服務中心-服務總覽-服務據點-門市查詢及預約 |access-date=2024-12-27 |publisher=中華電信 |language=zh-tw |archive-date=2025-03-22 |archive-url=https://web.archive.org/web/20250322234200/https://123.cht.com.tw/ServiceCenter |dead-url=no }}</ref>。
+
+=== 公共自行車 ===
+{{main|彰化縣公共自行車租賃系統}}
+彰化縣是[[中臺灣]]第一個推動「公共自行車租借系統」的縣市，也是臺北市以外第一個導入「[[YouBike]]」的城市<ref>{{cite web |url=http://www.chcg.gov.tw/ch/03news/01view.asp?bull_id=154013&kind=1 |title=訊息中心-重點要聞-縣政要聞-彰化縣公共自行車租借系統建置暨啟動儀式 歡迎大家今年7月一起來騎「YouBike公共自行車」 |access-date=2017-04-06 |publisher=彰化縣政府全球資訊網 |language=zh-tw |archive-date=2016-09-19 |archive-url=https://web.archive.org/web/20160919201153/http://www.chcg.gov.tw/ch/03news/01view.asp?bull_id=154013&kind=1 |dead-url=no }}</ref>，2014年5月彰化與YouBike合作，11月2日使用人數破百萬人次<ref>{{cite news |url=http://news.tvbs.com.tw/entry/554671 |title=微笑單車更方便了　前進新北、雙和、鹿港站 |author=馮珮汶 |date=2014-11-17 |access-date=2017-04-06 |publisher=TVBS新聞網 |language=zh-tw |archive-date=2016-09-16 |archive-url=https://web.archive.org/web/20160916184306/http://news.tvbs.com.tw/entry/554671 |dead-url=no }}</ref><ref>{{cite web |url=http://www.chcg.gov.tw/ch/03news/01view.asp?bull_id=171638&kind=1 |title=訊息中心-重點要聞-縣政要聞-彰化YouBike騎乘使用人數 突破百萬人次-彰化縣政府縣政要聞 |date=2014-11-14 |access-date=2014-11-17 |publisher=彰化縣政府全球資訊網 |language=zh-tw |archive-date=2016-09-19 |archive-url=https://web.archive.org/web/20160919201737/http://www.chcg.gov.tw/ch/03news/01view.asp?bull_id=171638&kind=1 |dead-url=no }}</ref>，2018年1月15日使用人數突破千萬人次<ref>{{cite news |url=https://www.ettoday.net/news/20180115/1092847.htm |title=彰化YouBike騎乘破千萬人！　幸運兒可得「儲值2000」 |author=季相儒 |date=2018-01-14 |access-date=2024-12-13 |publisher=ETtoday新聞雲 |language=zh-tw |archivedate=2024-12-31 |archive-url=https://web.archive.org/web/20241231031710/https://www.ettoday.net/news/20180115/1092847.htm |dead-url=no }}</ref>，員林市已於2014年8月25日啟用「YouBike公共自行車系統」<ref>{{cite news |url=https://news.ltn.com.tw/news/life/breakingnews/1089680 |title=員林YouBike七個站點啟用 |author=湯世名 |date=2014-08-25 |access-date=2024-12-13 |publisher=自由時報 |language=zh-tw |archivedate=2024-12-13 |archive-url=https://web.archive.org/web/20241213191513/https://news.ltn.com.tw/news/life/breakingnews/1089680 |dead-url=no }}</ref>。2021年6月30日彰化與YouBike合約到期，至11月10日起彰化公共自行車系統營運商轉換為Moovo智慧單車<ref>{{cite news |url=https://www.chinatimes.com/realtimenews/20211116007211-260405?chdtv |title=彰化智慧單車Moovo全面上路 分兩種車款計價 |author=謝瓊雲 |date=2021-11-16 |access-date=2024-12-13 |publisher=中時電子報 |language=zh-tw |archivedate=2021-12-05 |archive-url=https://web.archive.org/web/20211205140832/https://www.chinatimes.com/realtimenews/20211116007211-260405?chdtv |dead-url=no }}</ref>，2022年11月30日彰化Moovo使用人數突破130萬人次<ref>{{cite news |url=https://www.bnext.com.tw/article/72974/moovo-1-year |title=YouBike最大勁敵、MOOVO使用人次破130萬！如何改善彰化「無車可借」窘境？ |author=林美欣 |date=2022-11-30 |access-date=2024-12-13 |publisher=數位時代 BusinessNext |language=zh-tw |archivedate=2022-12-06 |archive-url=https://web.archive.org/web/20221206000109/https://www.bnext.com.tw/article/72974/moovo-1-year |dead-url=no }}</ref>。資料截至2024年11月21日，Moovo系統已在員林市的學校、車站、公家機關等處設有32個租賃站點<ref>{{cite web |url=https://www.ridemoovo.com/city_map_C |title=城市地圖-彰化縣 |access-date=2024-12-13 |publisher=Moovo |language=zh-tw |archive-date=2021-09-30 |archive-url=https://web.archive.org/web/20210930120420/https://www.ridemoovo.com/city_map_C |dead-url=no }}</ref>，可甲地借車、乙地還車（可彰化縣借車、雲林縣還車）<ref>{{cite web |url=https://www.ridemoovo.com/footer_03 |title=常見問題 |access-date=2024-12-13 |publisher=Moovo |language=zh-tw |archive-date=2024-12-08 |archive-url=https://web.archive.org/web/20241208014320/https://www.ridemoovo.com/footer_03 |dead-url=no }}</ref>，提供民眾租借使用<ref>{{cite web |url=https://www.ridemoovo.com/Moovo_experience1 |title=租借說明-彰化縣 |access-date=2024-12-13 |publisher=Moovo |language=zh-tw |archive-date=2025-01-14 |archive-url=https://web.archive.org/web/20250114235628/https://ridemoovo.com/Moovo_experience1 |dead-url=no }}</ref>。
+
+== 觀光與文化資產 ==
+本條目正在整併中
+=== 小吃、伴手禮 ===
+員林市的傳統小吃有[[肉圓 (台灣)|肉圓]]、[[米苔目]]、[[米糕]]、[[油蔥粿]]、圓仔冰、[[花生糖]]、雞腳凍、[[四神湯]]、[[爌肉飯]]、[[臭臭鍋]]、員林[[蜜餞]]等{{r|鎮志觀光休閒篇|pp=762－766}}。伴手禮方面則有[[蜜餞]]、[[花生糖]]、鹹蛋糕、手工蛋捲、雞腳凍等。
+
+=== 著名景點、設施 ===
+
+*[[員林公園]]：與市公所、圖書館於三民街兩側對望，有道、草坪、活動舞台等，是散步、運動的好地方，其中公園內存有縣定古蹟[[興賢書院]]及前臺中縣長于國楨的紀念碑，公園東北側為[[救國團]]青年活動中心。
+[[File:Yuanlin Park.jpg|thumb|200px|水池尚未填平時的員林公園]]
+[[File:YLPARK.jpg|thumb|200px|2026員林燈會的夜景]]
+[[File:YLPark1.jpg|thumb|200px|員林公園立牌]]
+[[File:Ylpark3.jpg|thumb|200px|公園內景色]]
+*員林[[龍燈公園]]：位於莒光路、員林大道交會處之公十二公園，2012年龍年[[臺灣燈會]]在彰化鹿港，燈會結束後將主燈「龍翔霞蔚」置於員林龍燈公園，於2013年1月26日落成啟用。
+[[File:MainLantern of Dragon Year 2012.jpg|thumb|200px|員林龍燈公園]]
+*[[員林演藝廳]]：員林演藝廳是為推動縣內藝術文化而建設，是一個多功能複合式的藝術展演場所。
+[[File:員林演藝廳.jpg|thumb|200px|員林演藝廳]]
+*[[楊桃觀光果園]]
+*[[百果山]]風景區：[[台灣日治時期|日治時期]]原為[[員林神社]]所在地，後來為市公所以公共造產方式擴建為風景區。因栽種大片果園，故名為「[[百果山]]」。目前百果山上有忠烈祠、廣天宮等知名景點，亦有高鐵景觀餐廳、土雞城和多條登山步道。此外，風景區內的員南路旁有[[員林運動公園]]。
+*[[登山步道]]：由北至南分別有位於東北-{里}-的東北小嶺頂、大峰-{里}-的十八觀音古道及犁壁山步道、湖水-{里}-的隴頂古道、出水-{里}-的萬里長城步道（含四百坎、二百坎、三百坎等支線）及臥龍坡步道、林厝-{里}-的藤山步道。
+*[[八堡圳]]：是臺灣最古老的[[埤圳]]之一，是由[[施世榜]]籌款所建。
+*[[打石巷商圈|打石巷]]：現稱黎明巷，位於[[第一市場]]，是員林年代最久遠的第一條街道「員林仔街」。自清朝以來，打石巷內許多居民以雕刻墓碑為業，但此項產業隨著時代變遷而大為沒落。民國97年，[[劉兆玄內閣]]制定「加強地方建設擴大內需方案」，彰化縣的方案中即列入「員林鎮打石巷再造工程」。
+*光明街可分成兩個部份。[[民權街]]到[[民生路 (彰化縣)|民生路]]之間的路段舊稱「竹管市」，因為早期有許多商家是以竹管圍起來的；而民生路到[[南昌路]]之間的路段舊稱「蕃薯市」，因為早期有許多商家賣蕃薯葉，而蕃薯葉為當時豬的飼料{{sfn|張碧霞|2007|p=188}}。
+[[File:員林市「奧井商店」洋樓.jpg|thumb|200px|「奧井商店」洋樓<ref>{{Cite news|author=余奕賢|url=https://fnc.ebc.net.tw/fncnews/house/159470|title=員林內衣看板屋脫了！日式洋樓重現風華 在地人狂拍：再脫不知何時|publisher=東森新聞|date=2023-03-23|language=zh-tw}}</ref>]]
+
+{{clear}}
+
+=== 古蹟、歷史建築 ===
+依據《文化資產保存法》，將具有價值的文化遺產分為兩種不同的類別，且一旦被列入，它們就從普通的「私有財產」變成了「國家級/地方級文化資產」。
+
+*古蹟：採取「指定-{制}-」，法律保護力最強。 
+*歷史建築：採取「登錄制」，雖然規範比古蹟寬鬆一點，但仍具備法定地位。 
+
+許多建物歷史雖悠久，但可能經由民間私修過度，導致其建築物主體經過一定程度的更動，而使其喪失歷史保留意義，則可能不被列入。
+
+==== 縣定古蹟 ====
+*[[興賢書院]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/monument/19851127000027 縣定古蹟]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/monument/19851127000027 |date=20171211005537 }}</ref> 三民路1號。興賢書院原名「文昌祠」，主祀[[文昌帝君]]，創建於清[[嘉慶]]12年（西元1807年），迄今已超過兩百年歷史，位於員林公園內，依《文化資產保存法》審查公告為縣定古蹟（原國家第三級古蹟）。「文昌祠」初創時期，內設有社學「興賢社」，供員林地區士子結社會友。清道光年間，廣東潮州饒平縣廩生邱海，在文昌祠內延用興賢社名稱，設立私塾為「興賢書院」，傳授燕武三堡（武東堡、武西堡、燕霧下堡）從學士子，可謂員林學堂教育之始。現今主殿祀有文昌帝君等神祇，每年舉辦考生祈福活動，是眾多考生祈求考試順利的地方。左右廂房亦整修為自修室。
+*[[江九合濟陽堂]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/monument/20150501000001 縣定古蹟]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/monument/20150501000001 |date=20171211054937 }}</ref> 三條街194巷12號。江九合濟陽堂於民國91年4月經彰化縣政府公告為歷史建築。濟陽堂為規模龐大之祠廟，其格局保留地域性風貌，對本地之人文、歷史具有特殊意義，足為時代之表徵。建築本身兼融日治時期風格與漢式風格，為典型的[[漳州]]平和客家圍屋的建築群，[[正身]]二進、及左右[[護龍]]，族群龐大，且均保留客家原有之風貌，正廳神龕為日治原物，有其藝術及歷史意義，正身之後尚保留古井一口，凸顯當年開墾[[彰化平原]]之文化背景。
+
+==== 歷史建築 ====
+[[File:員林神社遺跡.JPG|thumb|220px|員林神社參拜道、高麗犬遺跡]]
+*[[員林神社]]遺跡：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20060801000005 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20060801000005 |date=20171211010626 }}</ref>員林百果山湖水巷原有員林神社，為日治時期員林郡最主要的神社，座落於可清楚俯瞰員林地區的特殊位置，1960年本殿拆毀改建[[忠烈祠 (臺灣)|忠烈祠]]使用。神社原有之參拜道、庭園及銅馬、高麗犬等雕飾仍保存完好，整體空間架構完整，但[[鳥居]]已被改建為中國式牌坊。員林神社遺跡已於民國95年7月列冊為歷史建築。
+*員林張氏追遠堂：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20120119000003 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20120119000003 |date=20171211002113 }}</ref>位於[[南區運動公園]]西側，民國100年登錄為歷史建築。為地方望族員林張家家廟，地址位於大饒路845巷6號。
+*[[游氏宗祠]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20060926000003 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20060926000003 |date=20171211002115 }}</ref>員大路2段59巷129弄31號
+*[[曹家開台祖墳]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20070515000003 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20070515000003 |date=20171211012131 }} </ref> 民國96年公告為歷史建築。
+*[[員林鐵路穀倉]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20030610000003 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20030610000003 |date=20171210233602 }}</ref> 靜修路50號。員林鐵路穀倉又稱員林立體倉庫，簡稱員林立庫，民國92年6月經公告為歷史建築。民國60年代的臺灣為因應進口糧食之儲藏，而於63年底興建鐵路穀倉，65年完工。但由於食品業者紛紛建造私有穀倉，加上公路運輸已漸取代鐵路運輸，使得鐵路穀倉於民國72年即停止營運。目前臺灣的鐵路穀倉只有兩座，另一座位於[[雲林縣]][[斗南鎮]]。
+*[[育英國小校長宿舍]]：<ref>[https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20120119000004 歷史建築]{{Wayback|url=https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20120119000004 |date=20171211002117 }}</ref> 光明街26、32、42號。位於[[彰化縣員林市育英國民小學|育英國小]]正對面，將改建為校史館，民國100年登錄為歷史建築。
+*[[南員林車站]]：今日藥局後方 (旁邊小路進入)
+*員林郡守官舍
+{{clear}}
+==醫療與公共衛生==
+===24小時深夜急診===
+'''重度急救責任醫院'''
+*員林榮醫院（預計）
+*[[彰化基督教醫院]]
+*秀傳紀念醫院
+'''中度急救責任醫院'''
+*員林基督教醫院
+*衛福部彰化醫院
+'''一般急救責任醫院'''
+*員榮醫院員榮院區
+== 宗教信仰 ==
+=== [[台灣民間信仰]] ===
+[[台灣民間信仰]]本身融合[[佛教]]、[[道教]]，亦有神格化民間偉人及[[儒教]]色彩，即便該宗教場所具有特定信仰標識或認證，但如亦有供奉其他信仰之神祇，甚至是地方特有之信仰，逕歸為此類。
+
+*[[員林廣寧宮]]：又稱王爺宮，員林三山國王廟，1726年創立，在員林第一市場旁。
+*[[員林福寧宮]]：又稱媽祖宮，原廣寧宮之天上聖母（湄洲二媽），因地方移民習俗不同而分宮，在[[員林車站]]附近。
+*[[員林地藏庵]]：當地人以此廟為中心舉行[[中元普渡]]。
+*[[員林衡文宮]]：廟上有一尊巨型的[[玄天上帝]]神像，本廟被視為帶動臺灣夜跑風潮的起源地。
+*[[員林福和宮]]：位於[[彰化縣立大同國民中學|員林大同國中]]東北角。
+*[[東山祐靈宮]]：祭祀石佛公。
+*[[東山鎮興廟]]：廟口有小吃商圈，原廟建於1813年，一樓主祀輔順將軍，二樓主祀玉皇大帝、觀世音菩薩、天上聖母。
+*惠陽宮妙化堂
+*警化堂慈航禪寺
+*龍昇宮
+*南平南聖宮
+
+=== 佛教 ===
+*[[員林禪寺]]：創立慈愛托兒所及創辦佛教月刊，在臺北市有分寺[[光華寺]]。
+*員林地藏庵
+*員林佛導寺
+*員林凈宗學會
+*員林薩迦佛學會
+*佛光山員林講堂
+
+=== 道教 ===
+* 三清聖境清真寶殿
+* 玉清靈道院
+* 慈濟宮慈惠堂
+* 玄一宗中央玄靈道院
+* 員林芳山壇
+
+=== 基督宗教 ===
+==== 天主教 ====
+*[[員林天主堂]]：開教超過110年的歷史悠久教堂，並融合台灣在地文化，又稱耶穌聖體堂。現址在民生路50號、員林公園對面，於2023年完成整修。該堂附設有聖家啟智中心，致力於身心障礙服務，是當地重要的信仰與社福機構。
+
+==== 基督教 ====
+[[File:Yuanlin Presbyterian Church 20261021.jpg|thumb|220px|[[臺灣基督長老教會]]員林教會]]
+*長老教會員林教會
+*長老教會員東路教會
+*長老教會和平教會
+*長老教會大同路教會
+*浸信宣道會員林教會
+*彰化旌旗教會員林分點
+*員林神召會
+*員林台福基督教會
+*員林聖教會
+*員林靈糧堂
+
+==== 基督教特殊教派 ====
+*員林市召會
+*真耶穌教會員林教會
+*耶穌基督後期聖徒教會
+
+=== 其他 ===
+* [[天帝教]]天祥堂
+
+== 相關條目 ==
+* [[員林街]]
+* [[2011年員林鎮鎮長補選]]
+* [[:Category:員林人|分類:員林人]]
+
+== 注釋 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+;引用來源
+{{reflist|3|refs=
+<ref name="鎮志大事紀">{{cite book |year=2010 |chapter=大事紀 |chapter-url=https://files.chcg.gov.tw/files/02_58_1090307.pdf |chapter-format=PDF |editor=陳逸達 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-12-27 }}</ref>
+<ref name="鎮志地理篇">{{cite book |year=2010 |chapter=第一篇·地理篇 |chapter-url=https://town.chcg.gov.tw/files/04_58_1090307.pdf |chapter-format=PDF |editor=蕭坤松 |editor2=黃碧蘭 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 |archive-date=2024-06-16 |archive-url=https://web.archive.org/web/20240616151157/https://town.chcg.gov.tw/files/04_58_1090307.pdf |dead-url=no }}</ref>
+<ref name="鎮志開拓篇">{{cite book |year=2010 |chapter=第二篇·開拓篇 |chapter-url=https://town.chcg.gov.tw/files/05_58_1090307.pdf |chapter-format=PDF |editor=盧美雪 |editor2=曾秀卿 |editor3=陳逸達 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 |archive-date=2024-06-15 |archive-url=https://web.archive.org/web/20240615232457/https://town.chcg.gov.tw/files/05_58_1090307.pdf |dead-url=no }}</ref>
+<ref name="鎮志政事篇">{{cite book |year=2010 |chapter=第三篇·政事篇 |chapter-url=https://town.chcg.gov.tw/files/06_58_1090307.pdf |chapter-format=PDF |editor=張嘉政 |editor2=曹武賀 |editor3=陳逸達 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 |archive-date=2024-06-15 |archive-url=https://web.archive.org/web/20240615233650/https://town.chcg.gov.tw/files/06_58_1090307.pdf |dead-url=no }}</ref>
+<ref name="鎮志建設篇">{{cite book |year=2010 |chapter=第五篇·建設篇 |chapter-url=https://files.chcg.gov.tw/files/08_58_1090307.pdf |chapter-format=PDF |editor=曹武賀 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 }}</ref>
+<ref name="鎮志教育篇">{{cite book |year=2010 |chapter=第六篇·教育篇 |chapter-url=https://town.chcg.gov.tw/files/09_58_1090307.pdf |chapter-format=PDF |editor=邱美都 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 |archive-date=2024-06-16 |archive-url=https://web.archive.org/web/20240616171250/https://town.chcg.gov.tw/files/09_58_1090307.pdf |dead-url=no }}</ref>
+<ref name="鎮志社會篇">{{cite book |year=2010 |chapter=第八篇·社會篇 |chapter-url=https://town.chcg.gov.tw/files/11_58_1090307.pdf |chapter-format=PDF |editor=周國屏 |editor2=吳正龍 |editor3=陳淑君 |editor4=陳逸達 |editor5=張嘉政 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-03-27 |archive-date=2024-06-15 |archive-url=https://web.archive.org/web/20240615234533/https://town.chcg.gov.tw/files/11_58_1090307.pdf |dead-url=no }}</ref>
+<ref name="鎮志觀光休閒篇">{{cite book |year=2010 |chapter=第十篇·觀光休閒篇 |chapter-url=https://files.chcg.gov.tw/files/13_58_1090307.pdf |chapter-format=PDF |editor=曹武賀 |editor2=吳成偉 |editor3=陳逸達 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |access-date=2024-12-29 }}</ref>
+}}
+
+;書籍
+{{refbegin}}
+* {{cite book |author=張義清等編纂 |year=1990 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=員林鎮公所 |ref={{sfnref|張義清|1990}} }}
+* {{cite book |author=曹武賀 |year=2001 |title=《阿公的林仔街》 |language=zh-tw |location=彰化縣 |publisher=彰化縣綠色資源人文保育協會 |isbn= |ref={{sfnref|曹武賀|2001}} }}
+* {{cite book |author=施添福等編纂 |year=2004 |chapter=（上）第六章·員林鎮 |title=《臺灣地名辭書·卷十一·彰化縣》 |language=zh-tw |location=南投市 |publisher=國史館臺灣文獻館 |isbn=957-01-8697-6 |ref={{sfnref|施添福|2004}} }}
+* {{cite book |author=張碧霞 |year=2007 |title=《大家來寫村史16—走入員林街仔》 |language=zh-tw |location=彰化縣 |publisher=彰化縣文化局 |isbn=978-986-00-9703-0 |ref={{sfnref|張碧霞|2007}} }}
+* {{cite book |author=中華綜合發展研究院應用史學研究所 |year=2010 |title=《員林鎮志》 |language=zh-tw |location=彰化縣員林鎮 |publisher=彰化縣員林鎮公所 |isbn=978-986-02-5034-3 |ref={{sfnref|中華綜合發展研究院應用史學研究所|2010}} }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Yuanlin, Changhua |n=no |q=no |s=no |author=no |b=no |v=no |voy=員林 }}
+*[https://town.chcg.gov.tw/yuanlin/00home/index7.asp 員林市公所]{{Wayback|url=https://town.chcg.gov.tw/yuanlin/00home/index7.asp |date=20210705092219 }}
+*{{youtube|channel=UCFri2KOFE6wEdLJ3p8JLnNA|員林市公所}}
+*{{facebook|yuanlincleanup|員林市清潔隊}}
+*{{facebook|yuanlinren|員林人俱樂部}}
+
+{{彰化縣}}
+{{臺灣建制市列表}}
+{{Authority control}}
+{{DEFAULTSORT:Yuanlin}}
+[[Category:員林市]]
+[[Category:彰化縣行政區劃]]
+[[Category:台灣縣轄市|Y]]
+[[Category:臺灣縣治史|中縣]]

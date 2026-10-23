@@ -1,0 +1,397 @@
+{{about|桃園市行政區|發音接近的高雄市行政區|路竹區}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[桃園市]]
+|行政區名稱= 蘆竹區
+|外文名稱= Luzhu District
+|外文語言= [[威妥瑪拼音]]+英語
+|徽文件名= Luzhu_Townsip_Seal.jpg
+|代表圖像= Taoyuan's Dazhu Redevelopment Zone 20220716.jpg
+|代表圖像名稱= 2022年7月的[[大竹重劃區]] {{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 
+|徽= 蘆竹區徽
+|行政機關首長職稱= 區長
+|行政區類別=[[區 (中華民國)|市轄區]]
+|行政機關首長姓名= 李岳壇
+|舊稱= 蘆竹厝
+|設立始年= 
+|區劃= 39[[村里|里]]680[[鄰]]
+|行政機關網站= {{url|https://www.luzhu.tycg.gov.tw/}}
+|總面積= {{TWTSData|A|338}}
+|總人口= {{TWTSData|P|338}}
+|population_rank = 桃園市的第7位
+|總人口年份= {{TWTSData|P|date}}
+|household= {{TWTSData|H|338}}
+|postal_code=338
+|adjacent= [[大園區]]、[[中壢區]]、[[桃園區]]、[[龜山區]]；[[新北市]][[林口區]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Luzhu district.png|thumb|center|300px|蘆竹區位置圖]]
+</div>
+}}
+'''蘆竹區'''（{{lang-nan-tw|tl=Lô͘-tek-khu}}；{{lang-hak|phfs=Lù-chuk-khî}}），舊稱「蘆竹厝」<ref name="地名由來">{{cite web |url=https://www.luzhu.tycg.gov.tw/cp.aspx?n=6578 |title=蘆竹區介紹-本所沿革-區史由來-地名由來 |access-date=2024-10-02 |publisher=桃園市蘆竹區公所 |language=zh-tw |archive-date=2025-11-11 |archive-url=https://web.archive.org/web/20251111131820/https://www.luzhu.tycg.gov.tw/cp.aspx?n=6578 |dead-url=no }}</ref>，前身「蘆竹鄉」，曾是臺灣最短命的縣轄市，位於[[臺灣]][[桃園市]]最北端，在[[台灣海峽]]的[[桃園中壢都會區]]內。全區共分三大區域（南崁、大竹、山腳），目前區公所位在[[南崁]]地區。自1970年代[[中山高速公路|國道一號]][[桃園交流道]]通車與鄰近的[[臺灣桃園國際機場|桃園國際機場]]啟用後，促進蘆竹區的交通建設快速發展{{sfn|游維真|2016|p=348}}，並且成為國際航空客、貨運往來之要衝{{r|續市土地篇|p=27}}。後隨著1980年代起境內工廠開始雇用全臺各地的原住民與外籍勞工，使其族群呈現多元化與國際化的現象{{sfn|游維真|2016|p=348}}。在2014年改制為[[縣轄市]]之前曾是全國人口最多的鄉，現人口數約有17.1萬人。
+
+== 歷史 ==
+[[File:Nankan Luzhu 2018.jpg|thumb|200px|南崁地區街景]]
+蘆竹區舊稱「蘆竹厝」，原為蘆竹繁茂之地<ref name="地名由來"/>，早期先民入墾當地時，多以蘆竹的莖作為造房的材料，故名。1920年設-{庄}-時，可能因其位於坑子、南崁、埔子三區的中心，為求公平起見便以其為-{庄}-名{{r|鄉志第一章|p=6}}，並將「厝」字刪去<ref name="地名由來"/>。
+
+1945年，[[臺灣戰後時期|中華民國接管臺灣]]後，[[蘆竹庄|蘆竹-{庄}-]]改為「蘆竹鄉」{{r|續市附錄|p=583}}。1946年，蘆竹鄉屬[[新竹縣 (1945年—1950年)|新竹縣]]桃園區，下分新興村、中福村、新莊村、大竹村、蘆竹村、南崁村、錦興村、五福村、內厝村、山鼻村、坑子村、外社村、山腳村、坑口村、海湖村等15個村。1950年9月8日，新竹縣劃分為桃園、新竹、苗栗三縣，蘆竹鄉改隸[[桃園縣]]{{r|續市附錄|p=584}}。
+
+2007年10月，蘆竹鄉人口超越同縣市的龜山鄉（今[[龜山區]]），成為當時全國人口最多的鄉。蘆竹鄉公所為提早改制成縣轄市，遂於2009年起開始發放遷籍獎勵金。2012年1月14日，蘆竹鄉公所曾於[[2012年中華民國立法委員選舉]]投票日當天發放4萬份問卷，讓鄉親票選人口滿十五萬改制縣轄市後，是沿用「蘆竹市」地名，或改為「南崁市」，票選結果仍以蘆竹為名<ref>{{cite news |author=曾增勳 |date=2012-01-31 |title=拚升格蘆竹市　入籍獎金加碼到3千 |newspaper=[[聯合報]] |language=zh-tw }}</ref>。2014年1月10日，在發出四千三百六十多萬元遷籍獎勵金給一萬九千多人後，蘆竹鄉人口方達到改制標準的15萬人<ref>{{cite web|url=http://www.chinatimes.com/newspapers/20140111000417-260107|title=蘆竹 達升市門檻|author=中時電子報|date=10 January 2014|work=中時電子報|access-date=2014-01-11|archive-date=2021-01-12|archive-url=https://web.archive.org/web/20210112063920/https://www.chinatimes.com/newspapers/20140111000417-260107|dead-url=no}}</ref>，鄉公所依程序提出改制申請，並於同年6月3日正式改制為蘆竹市<ref>{{cite web|url=http://news.ltn.com.tw/news/local/paper/773340|title=〈北部〉縣府核定 蘆竹鄉6月3日升格|work=ltn.com.tw|access-date=2014-09-11|archive-date=2021-01-17|archive-url=https://web.archive.org/web/20210117195600/https://news.ltn.com.tw/news/local/paper/773340|dead-url=no}}</ref>。[[桃園縣 (1950年－2014年)|桃園縣]]於2014年12月25日升格為直轄市後，原縣轄蘆竹市改制為蘆竹區，蘆竹市自改制縣轄市起至改制為市轄區止僅有205日，為台灣地方制度史上最短命的縣轄市，因此升格意義及必要性曾被各界質疑<ref>{{cite web|url=http://news.ltn.com.tw/news/local/paper/784551|title=〈北部〉蘆竹升格「市」 205天後改制「區」|work=ltn.com.tw|access-date=2015-07-26|archive-date=2021-01-17|archive-url=https://web.archive.org/web/20210117193736/https://news.ltn.com.tw/news/local/paper/784551|dead-url=no}}</ref>。境內村里數自戰後以來歷經六次變更{{NoteTag|1970年，大竹村分為大竹、大華2村{{r|續市附錄|p=586}}。1994年3月1日，大竹村分為大竹、上竹、富竹、宏竹4村，錦興村分為錦興、錦中、長興3村。8月，南崁村分為南崁、南興、南榮3村{{r|續市附錄|p=590}}。1998年2月9日，五福村分為五福、營盤、羊稠、瓦窯4村{{r|續市附錄|p=591}}。2014年1月1日，蘆竹鄉由26村調整為37村，新增上興、中興、順興、福昌、福興、蘆興、興榮、中山、福祿、營福、長壽、吉祥12村，並將大華村裁併入宏竹村{{r|續市附錄|p=595}}。2018年3月，福興里分為福興、正興2里，海湖里分為海湖、濱海2里<ref name="housefun1">{{cite news |url=https://news.housefun.com.tw/news/article/199417170942.html |title=桃園協調1年多　全市決增9個里 |author=張裕珍 |work=聯合新聞網 |date=2017-08-23 |access-date=2024-10-02 |publisher=好房網News |language=zh-tw |archive-date=2025-02-21 |archive-url=https://web.archive.org/web/20250221180843/https://news.housefun.com.tw/news/article/199417170942.html |dead-url=no }}</ref>。}}，至2018年3月起，蘆竹區下分39個里<ref name="housefun1"/>。
+
+== 地理 ==
+=== 概論 ===
+蘆竹區位處桃園市最北端，依山傍海，地勢是由東北向西南緩斜延伸，東北方是峰谷相間的[[丘陵|丘陵地]]，約佔全區三分之一面積，西南方是平坦廣闊的田野；東與龜山區為鄰，西與[[臺灣桃園國際機場|桃園國際機場]]、[[大園區]]為界，南連[[桃園區]]，北接[[新北市]][[林口區]]。
+
+另有部份濱臨[[台灣海峽]]，海岸線長約2公里。
+
+=== 氣候 ===
+蘆竹區的氣候為[[副熱帶季風氣候]]，其特徵為春和夏暑秋暖冬寒。11月至3月，因東北方的林口台地與西南方的湖口台地於此形成V字形的平坦地區，迎東北季風而有較多地形雨、氣溫降低。且因緊鄰臺灣海峽，受洋流影響而使季風經過黑潮的暖水面，帶入大量暖濕水氣而有豐沛雨量{{r|續市土地篇|p=29}}。年均溫約為攝氏21.5度，各月最高溫為7月的28.4度，最低溫為1月的14.0度{{r|鄉志第二章|p=55}}。
+
+=== 地方家族 ===
+{{Refimprove section|time=2023-05-17T11:17:52+00:00}}
+坑子村貓尾崎曾姓，來自福建[[泉州府]][[南安县 (隋朝)|南安縣]]，[[乾隆]]年間渡台，原為陳姓佃農，幾代辛苦經營後，反而取代陳姓為大姓。
+
+山鼻村陳家，來自福建泉州府南安縣，[[雍正]]年間[[陳仲月]]率其弟仲特、仲將、仲麟來台，在山鼻村一帶開墾，約在乾、嘉年間已成為山鼻大姓。
+
+中福村康氏，自福建[[漳州府]][[漳浦縣]]的康會公派下，乾隆末葉康會公帶著十一世祖信公，香火由祖籍渡台移居住桃園蘆竹[[中福]]，已成為中福村大姓。
+
+坑子村頂社林家，祖籍福建[[泉州府]][[晋江縣]]海尾。清乾隆十年（1745年）[[林文進]]渡台，「林氏祖厝」名為「德門居」，位在坑子里第一鄰，與外社里相鄰，是蘆竹最早發展的地方之一。
+
+坑子村社底藍氏，祖籍福建漳州府漳浦縣張坑，先祖篤慎公於康熙年間渡海來台，即定居在[[頂社]]、[[社底]]一帶。藍東山宅是藍氏渡台後四世祖煥章公，獲欽賜四品軍功後，在社底現址所建的官第。
+
+=== 人口 ===
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{harvnb|張正昌|1995|page=107|loc=第三章·開拓與住民}}
+# {{cite web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |publisher=[[中華民國內政部|內政部]] |title=內政部統計月報-各鄉鎮市區人口數 |access-date=2019-12-19 |archive-date=2021-06-23 |archive-url=https://web.archive.org/web/20210623061641/https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html }}
+|1951	|25209
+|1956	|28470
+|1961	|32590
+|1966	|36931
+|1971	|39986
+|1976	|44965
+|1981	|49053
+|1986	|52105
+|1991	|58156
+|1996	|75345
+|2001	|103095
+|2006	|127765
+|2011	|143886
+|2016	|158802
+|2021   |166394
+}}
+[[File:蘆竹區各里人口密度圖.png|thumb|蘆竹區各里人口密度圖]]
+
+根據桃園市蘆竹區戶政事務所統計，2025年底蘆竹區戶數約7萬戶，人口約17.1萬人，並主要集中在中部的南崁地區，其三大分區中，南崁地區約佔全區總人口的65%最多，大竹地區約佔25%居中，山腳地區則僅佔10%最少<ref name="蘆竹區戶政">{{Cite web |url=https://www.luzhu-hro.tycg.gov.tw/home.jsp?id=15&parentpath=0,14 |title=統計資訊-人口統計 |publisher=桃園市蘆竹區戶政事務所 |language=zh-tw |archive-date=2021-01-18 |archive-url=https://web.archive.org/web/20210118001504/https://www.luzhu-hro.tycg.gov.tw/home.jsp?id=15&parentpath=0,14 |dead-url=no |access-date=2020-06-27 }}</ref>。區內人口最多與最少的里分別是中興里與外社-{里}-，2025年底兩里人口分別為7,123人與1,640人<ref name="蘆竹區戶政"/>。
+2025年底，蘆竹區人口中0至14歲人口佔比約有13.45%，15至64歲人口佔比約有71.96%，65歲以上人口則佔比約有14.58%，老化指數為108.43%，是桃園市老年人口佔比最低的行政區<ref>{{cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |author=內政部戶政司 |access-date=2025-01-15 |publisher=中華民國 內政部戶政司 全球資訊網 |language=zh-tw |archive-date=2021-05-20 |archive-url=https://web.archive.org/web/20210520061718/https://www.ris.gov.tw/app/portal/346 |dead-url=no }}</ref>。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Population of Luzhu District, Taoyuan.chart|data=Population of Luzhu District, Taoyuan.tab}}
+</div>
+{{clear}}
+
+== 政治 ==
+=== 歷任首長 ===
+{{See also|蘆竹區區長}}
+{| border="1" class="toc" style="text-align:center" width="55%"
+|- style="background:#CCCCCC; font-weight:bold"
+|屆次
+|姓名
+|任期
+|備註
+|-
+|1
+|褚春來
+|2014年12月25日－2018年12月24日
+|改制後首任
+|-
+|2
+|邱瑞朝
+|2018年12月25日－2019年9月30日
+|
+|-
+|3
+|蔡志揚
+|2019年10月1日－2022年2月23日
+|
+|-
+|4
+|蔡世志
+|2022年2月23日－2023年7月14日
+|
+|-
+|5
+|李岳壇
+|2023年7月14日－
+|現任
+|}
+
+=== 區政組織 ===
+[[蘆竹區公所]]是[[桃園市政府]]在蘆竹區的派出機關，在中華民國政府架構中為市政府綜理區政的執行機關，上級業務監督機關為桃園市政府。[[区长]]由[[桃園市市長|市長]]任命，其任期為無任期保障。在區長及主任秘書之下，設有5課4室等9個內部單位<ref>{{Cite web |url=https://www.luzhu.tycg.gov.tw/home.jsp?id=20&parentpath=0,1,18 |title=蘆竹區介紹-本所組織介紹-組織架構圖 |publisher=桃園市蘆竹區公所 |access-date=2021-06-21 |language=zh-tw |archive-date=2021-06-05 |archive-url=https://web.archive.org/web/20210605163413/https://www.luzhu.tycg.gov.tw/home.jsp?id=20&parentpath=0,1,18 |dead-url=no }}</ref>。蘆竹區為[[桃園市議會]]第四選區，在市議會的63席市議員中，蘆竹區共選出4席區域市議員（不含平地原住民與山地原住民議員）<ref>{{Cite web |url=https://www.tycc.gov.tw/content/intro/intro_main.aspx?wtp=1&wnd=204&town=%e7%ac%ac%e5%9b%9b%e9%81%b8%e5%8d%80 |title=議員介紹-本屆議員-第四選區 蘆竹區 |publisher=桃園市議會 |access-date=2021-09-26 |language=zh-tw |archive-date=2022-06-29 |archive-url=https://web.archive.org/web/20220629052248/https://www2.tycc.gov.tw/content/intro/intro_main.aspx?wtp=1&wnd=204&town=%e7%ac%ac%e5%9b%9b%e9%81%b8%e5%8d%80 }}</ref>。
+
+=== 行政區 ===
+現今蘆竹區行政範圍的確立，來自於1920年，[[大日本帝国|日本]]將[[台灣日治時期|臺灣]]十二[[廳 (清朝)|廳]]改為五[[州 (台灣日治時期)|州]]二[[厅 (行政区划)|廳]]，設[[蘆竹庄|蘆竹-{庄}-]]屬新竹州[[桃園郡]]。蘆竹-{庄}-轄蘆竹、南崁下、南崁內厝、南崁廟口、新興、福興、中興、新莊子、大竹圍、坑子、坑子外、坑子口等12個大字{{r|續市政事篇|pp=94－95}}。1946年1月19日，改為「蘆竹鄉」，屬[[新竹縣 (1945年—1950年)|新竹縣]]桃園區{{r|續市政事篇|pp=97－98}}。1950年，調整行政區域並裁撤[[區署]]，蘆竹鄉改隸新成立的[[桃園縣]]{{r|續市政事篇|p=98}}。2014年6月3日，改制為「蘆竹市」；12月25日，桃園縣改制為[[直轄市 (中華民國)|直轄市]]，蘆竹市改制為市轄區「蘆竹區」，隸屬[[桃園市]]{{r|續市政事篇|p=99}}。
+
+蘆竹區共轄39[[村里|里]]<ref>{{Cite web |url=https://www.luzhu.tycg.gov.tw/home.jsp?id=16&parentpath=0,1,6 |title=蘆竹區介紹-認識本區-蘆竹區39里行政區域圖 |publisher=桃園市蘆竹區公所 |access-date=2022-12-25 |language=zh-tw |archive-date=2023-06-10 |archive-url=https://web.archive.org/web/20230610033835/https://www.luzhu.tycg.gov.tw/home.jsp?id=16&parentpath=0,1,6 |dead-url=no }}</ref>，其行政區域分布情形為{{r|續市土地篇|pp=47－67}}<ref>{{Cite web |url=http://www.luchu.gov.tw/content_edit.php?menu=1201&typeid=1201 |title=觀光網-鐵馬追風 |publisher=桃園縣蘆竹市公所 |access-date=2012-01-06 |language=zh-tw |archive-date=2014-06-06 |archive-url=https://web.archive.org/web/20140606205848/http://www.luchu.gov.tw/content_edit.php?menu=1201&typeid=1201 |dead-url=yes }}</ref>：
+
+{| class="wikitable" style="text-align:center"
+!次分區!! colspan="12" |里名
+|-
+!大竹區
+|上竹里||宏竹里||新莊里||大竹里||中福里||富竹里||新興里||上興里||中興里||||||
+|-
+!rowspan="2" |南崁區
+|山鼻里||內厝里||瓦窯里||南崁里||南興里||錦興里||蘆竹里||五福里||羊稠里||長興里||南榮里||錦中里
+|-
+|營盤里||營福里||興榮里||吉祥里||長壽里||中山里||福祿里||蘆興里||順興里||福興里||正興里||福昌里
+|-
+!山腳區
+|山腳里||坑子-{里}-||海湖-{里}-||濱海里||外社-{里}-||坑口-{里}-||||||||||||
+|}
+
+=== 警政治安 ===
+* [[桃園市政府警察局]]蘆竹分局
+** 南崁派出所
+** 南竹派出所
+** 外社派出所
+** 大竹派出所
+
+== 文化 ==
+=== 宗教場所 ===
+[[File:蘆竹五福宮_02.JPG|thumb|200px|蘆竹五福宮]]
+;道教和民間信仰
+* [[蘆竹五福宮]]：主祀[[玄壇元帥]]，創建至今有三百多年的歷史，1985年8月19日由內政部公告為國家三級古蹟，同時是桃園市最古老的寺廟。
+* [[蘆竹福隆巖]]：主祀[[清水祖師]]，每年農曆正月初六祖師誕辰有慶典，每十二年作醮一次，是地方盛事。
+* [[南崁褒忠亭]]：是台灣位置最北的百年歷史[[義民廟]]。
+* [[桃園龍德宮]]：位於桃園蘆竹區知名廟宇，因各家航空公司的空姐組成的「扶轎仙女團」遶境而爆紅，主祀天上聖母（四媽祖）。
+* [[山腳天公廟永興祠]]：天公廟主祀[[玉皇上帝]]，與永興祠土地廟合併。
+* [[坑口誠聖宮]]：主祀[[關聖帝君]]，是當地信仰中心。
+* [[大古山福山宮]]：主祀[[福德正神]]，大古山，早期稱為「大崙尖」，位於蘆竹區東北部的林口台地末端。
+* [[外社聖王廟]]：主祀[[開漳聖王]]。
+* [[坑子寶順宮]]：主祀[[保儀大夫]]原秦姓家族之私有神尊，於120多年前，由蘆竹秦氏的祖先於木柵忠順廟分香至三峽土地公坑，再由三峽恭請至蘆竹鄉坑子村土地公坑秦厝，供奉在自家，後來因保儀大夫神威顯赫，漸成為附近居民之信仰中心。
+* [[內厝南天宮]]：主祀[[天上聖母]]配祀觀世音菩薩及關聖帝君，位於蘆竹後花園五酒桶山之入口。
+* [[蘆竹凌武廟]]：主祀[[武府王爺]]，原主祀北極玄天上帝及觀世音菩薩，後武王爺降乩行醫濟世，神威顯赫，另有供奉蔣武帝君。
+* [[蘆竹慈母宮]]：主祀[[天上聖母]]，慈母宮之宮主兼乩身是韓國慶州人。
+* [[蘆竹貓尾崎觀音寺]]：主祀[[觀世音菩薩]]，係由林口竹林山寺刈火分靈而來的，因神威顯赫，漸為附近居民之信仰中心。
+* [[桃園旗南宮]]：主祀[[华光大帝|五行大帝]]。
+
+;佛教
+* [[蘆竹德林寺]]：主祀[[觀世音菩薩]]，由[[林口竹林寺]]分香而來。
+* 淨慧寺
+* 承德寺
+* 慈穩寺
+
+;
+;桃園市召會8會所、21會所
+;
+;天主教
+* 南崁天主堂
+* 大華天主堂
+* 天主教桃園救世主堂
+
+=== 文化資產 ===
+[[File:蘆竹德馨堂斜照.jpg|thumb|200px|蘆竹德馨堂]]
+* 蘆竹五福宮（市定古蹟）
+* [[蘆竹德馨堂]]（市定古蹟）
+* [[南崁兒童藝術村|前內政部北區兒童之家院長宿舍]]（市定古蹟）
+* [[南崁兒童藝術村|前內政部北區兒童之家宿舍群]]（歷史建築）
+
+=== 蘆竹[[閩南傳統建築|閩式古厝]] === 
+* [[蘆竹德馨堂]]：[[山鼻陳氏古厝群]]，祖厝，大房陳仲月所傳，明治三十五年（公元1902年）興建<ref name="中國科技大學">{{Cite book|url=https://culture.tycg.gov.tw/News_Content.aspx?n=11238&s=1066805|title=桃園縣縣定古蹟「蘆竹德馨堂」調查研究暨修復再利用計畫|author=中國科技大學|language=zh-tw|date=2012|accessdate=|archive-date=2025-07-26|archive-url=https://web.archive.org/web/20250726111603/https://culture.tycg.gov.tw/News_Content.aspx?n=11238&s=1066805|dead-url=no}}</ref>。
+* [[蘆竹德星居]]：山鼻陳氏古厝群，分支，二房陳仲特所傳，昭和二年（公元1927年）由陳火旺興建<ref name="中國科技大學"/>。
+* [[蘆竹鄰德居]]：山鼻陳氏古厝群，分支，二房陳仲特所傳，由陳光蟳興建於昭和十一年（公元1936年）<ref name="中國科技大學"/>。
+* [[蘆竹嚴德居]]：山鼻陳氏古厝群，分支，三房陳仲將所傳，約昭和五年（公元1930年）由陳必木興建<ref name="中國科技大學"/>。
+* [[蘆竹室善居]]：山鼻陳氏古厝群，分支，三房陳仲將所傳，昭和十二年（公元1937年）興建<ref name="中國科技大學"/>。
+* [[蘆竹和德居]]：山鼻陳氏古厝群，分支，四房陳仲麟所傳<ref name="中國科技大學"/>。
+* [[蘆竹慎德居]]：草仔崎林氏古厝，約大正三年（公元1914年）完工。
+* [[德門居]]：頂社林家祖厝、林氏祖厝，由先祖林天賜偕同其四位兄弟，於同治十二年（公元1873年）所建。
+* [[四品官第藍東山宅]]：社底藍氏。
+* [[省吾居]]：貓尾崎曾厝，頂曾厝，門楣「芝田耕雨」，於明治四十四年（公元1911年）完工。
+* [[省躬居]]：貓尾崎曾厝。
+* [[道貫堂]]：貓尾崎曾厝。
+* [[道宗堂]]：貓尾崎曾厝，下曾厝。
+
+== 教育 ==
+=== 大專院校 ===
+* [[開南大學]]
+
+=== 高級中等學校 ===
+* [[桃園市立南崁高級中等學校]]
+
+=== 國民中學 ===
+* [[桃園市立南崁國民中學]] 
+* [[桃園市立山腳國民中學]]
+* [[桃園市立大竹國民中學]]
+* [[桃園市立光明國民中學]]
+
+=== 國民小學 ===
+* [[桃園市蘆竹區蘆竹國民小學]]
+* [[桃園市蘆竹區龍安國民小學]]
+* [[桃園市蘆竹區南崁國民小學]]
+* [[桃園市蘆竹區大竹國民小學]]
+* [[桃園市蘆竹區外社國民小學]]
+* [[桃園市蘆竹區海湖國民小學]]
+* [[桃園市蘆竹區山腳國民小學]]
+* [[桃園市蘆竹區新莊國民小學]]
+* [[桃園市蘆竹區光明國民小學]]
+* [[桃園市蘆竹區公埔國民小學]]
+* [[桃園市蘆竹區新興國民小學]]
+* [[桃園市蘆竹區頂社國民小學]]
+* [[桃園市蘆竹區錦興國民小學]]
+* [[桃園市蘆竹區大華國民小學]]
+* [[桃園市蘆竹區五福國民小學]]（籌備中）
+
+=== 國際學校 ===
+* [[桃園美國學校]]
+
+== 交通 ==
+=== 捷運 ===
+[[File:Taoyuan_Metro_A10_Shanbi_Station_2017-07-24.jpg|thumb|200px|桃園捷運機場線A10[[山鼻站]]]]
+[[File:Luzhu District 201506.jpg|thumb|200px|A11[[坑口站 (桃園市)|坑口站]]附近空照圖]]
+; [[桃園捷運]]
+* {{ric|桃園捷運|A|name=y}}：[[山鼻站]] - [[坑口站 (桃園市)|坑口站]]
+
+=== 公路 ===
+==== 國道 ====
+* [[File:TWHW1.svg|23px|中華民國國道]][[中山高速公路|國道一號（中山高速公路）]]
+** {{TWFreewayIC|49|桃園}}[[桃園交流道]](別名[[南崁交流道]])<ref>{{Cite web |url=http://udn.com/NEWS/DOMESTIC/DOM3/8322416.shtml |title=國道一號中正北路「半套」匝道 通車了 |access-date=2013-12-07 |archive-date=2013-12-11 |archive-url=https://web.archive.org/web/20131211100437/http://udn.com/NEWS/DOMESTIC/DOM3/8322416.shtml |dead-url=no }}</ref>
+** {{TWFreewayIC|52|機場系統}}[[機場系統交流道]]
+* [[File:TWHW2.svg|23px|中華民國國道]][[桃園環線|國道二號（機場支線）]]
+** {{TWFreewayIC|5|大竹}}[[大竹交流道]]
+** {{TWFreewayIC|8|機場系統}}[[機場系統交流道]]
+
+==== 快速道路 ====
+* {{Jct|country=TWN|PH|61}}：西濱快速公路
+** {{TWFreewayIC|19|蘆竹}}[[蘆竹交流道]]
+** {{TWFreewayIC|22|竹圍}}[[竹圍交流道]]
+
+==== 省道 ====
+* {{Jct|country=TWN|PH|4}}
+* {{Jct|country=TWN|PH|15}}：西濱公路
+* {{Jct|country=TWN|PH|31}}：高鐵橋下桃園段道路
+
+==== 市道 ====
+* {{Jct|country=TWN|CH|108}}
+* {{Jct|country=TWN|CH|110}}
+
+=== 公共自行車 ===
+* [[桃園市公共自行車租賃系統]]至2024年7月，在蘆竹區設有38站：
+** 光明國小
+** 南崁高中
+** 蘆竹區婦幼館
+** 光明河濱公園
+** 開南大學
+** 蘆竹吉林公園
+** 捷運山鼻站(A10)
+** 蘆竹區公所
+** 峻德宮
+** 五福停車場
+** 大竹國小
+** 中興環保公園
+** 南榮公園
+** 新福大新一街口
+** 龍安國小
+** 綠九公園
+** 上興公園
+** 蘆竹區聯合辦公大樓
+** 桃園市立圖書館山腳分館
+** 榮興橋
+** 海湖農會
+** 大竹游泳池
+** 捷運坑口站(A11)
+** 蘆竹親子公園
+** 好市多南崁店
+** 新南路一段榮興路口
+** 光明國中
+** 台茂購物中心
+** 桃園街堤岸
+** 順興公園
+** 桃園市立圖書館蘆竹分館
+** 南順七街32巷口
+** 興仁市民活動中心
+** 中山長春路口
+** 海湖地景公園
+** 機捷路二段外社街口
+** 大華籃球場
+** 蘆竹一號社會住宅
+
+=== 未來 ===
+==== 捷運 ====
+;[[桃園捷運]]
+* {{ric|桃園捷運|G|name=y}}（興建中）：[[南竹中正北站|<span style="color:#888888;">南竹中正北站</span>]] - [[蘆竹中正北站|<span style="color:#888888;">蘆竹中正北站</span>]] - [[水尾站 (桃園市)|<span style="color:#888888;">水尾站</span>]] - [[坑口站 (桃園市)|坑口站]]
+
+== 旅遊 ==
+=== 自然景觀 ===
+* [[五酒桶山風景區]]
+* 羊稠步道
+
+=== 人文景觀 ===
+* [[南崁兒童藝術村]]
+* [[大竹觀光休閒公園]]
+* [[義美食品觀光工廠]]
+* [[金格食品卡司蒂菈樂園]]
+
+=== 購物中心與商場 ===
+{| class="wikitable"
+|- bgcolor="#CCCCCC"
+!場所
+!位置
+!類型
+|-
+|[[台茂購物中心]]
+|南崁路一段112號
+|大型購物中心
+|-
+|[[特力屋]]（桃園南崁店）
+|中正路1號
+|居家生活購物中心
+|-
+|[[好市多]]（桃園南崁店）
+|南崁路一段369號
+|美式量販店
+|-
+|[[家樂福]]（便利購南竹店）
+|桃園街118號B1-2
+|大型超市
+|}
+
+=== 高爾夫球場 ===
+* [[統帥高爾夫球場]]
+* [[永漢高爾夫球場]]
+* [[台北高爾夫球場]]
+
+== 相關條目 ==
+* [[蘆竹庄|蘆竹-{庄}-]]
+
+== 注釋 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+;引用來源
+{{Reflist|30em|refs=
+<ref name="鄉志第一章">{{cite book |author=張正昌等編纂 |year=1995 |chapter=第一篇·疆域與沿革 |title=《蘆竹鄉志》 |language=zh-tw |location=桃園縣 |publisher=桃園縣蘆竹鄉公所 }}</ref>
+<ref name="鄉志第二章">{{cite book |author=張正昌等編纂 |year=1995 |chapter=第二篇·地理概況 |title=《蘆竹鄉志》 |language=zh-tw |location=桃園縣 |publisher=桃園縣蘆竹鄉公所 }}</ref>
+<ref name="續市土地篇">{{cite book |year=2016 |chapter=第壹篇·土地篇 |chapter-url=https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1NDkvQ2gwMS0wMjQtMDg3Uy5wZGY%3d&n=Q2gwMS0wMjQtMDg3Uy5wZGY%3d |chapter-format=PDF |editor=吳進喜 |title=《續修蘆竹市志》 |language=zh-tw |location=桃園市 |publisher=桃園市蘆竹區公所 |access-date=2025-01-26 |archive-date=2025-02-21 |archive-url=https://web.archive.org/web/20250221180141/https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1NDkvQ2gwMS0wMjQtMDg3Uy5wZGY%3d&n=Q2gwMS0wMjQtMDg3Uy5wZGY%3d |dead-url=no }}</ref>
+<ref name="續市政事篇">{{cite book |year=2016 |chapter=第貳篇·政事篇 |chapter-url=https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1NDgvQ2gwMi0wODgtMTg1Uy5wZGY%3d&n=Q2gwMi0wODgtMTg1Uy5wZGY%3d |chapter-format=PDF |editor=游維真 |title=《續修蘆竹市志》 |language=zh-tw |location=桃園市 |publisher=桃園市蘆竹區公所 |access-date=2025-01-26 |archive-date=2025-02-21 |archive-url=https://web.archive.org/web/20250221180334/https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1NDgvQ2gwMi0wODgtMTg1Uy5wZGY%3d&n=Q2gwMi0wODgtMTg1Uy5wZGY%3d |dead-url=no }}</ref>
+<ref name="續市附錄">{{cite book |year=2016 |chapter=附錄 |chapter-url=https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1MzkvQ2gwOS01NzgtNjU2Uy5wZGY%3d&n=Q2gwOS01NzgtNjU2Uy5wZGY%3d |chapter-format=PDF |editor=劉昕俐 |title=《續修蘆竹市志》 |language=zh-tw |location=桃園市 |publisher=桃園市蘆竹區公所 |access-date=2025-01-26 |archive-date=2025-02-22 |archive-url=https://web.archive.org/web/20250222194552/https://ws.tycg.gov.tw/Download.ashx?u=LzAwMS9VcGxvYWQvODgvUmVsRmlsZS8xMTQ5MS82NjI1MzkvQ2gwOS01NzgtNjU2Uy5wZGY%3d&n=Q2gwOS01NzgtNjU2Uy5wZGY%3d |dead-url=no }}</ref>
+}}
+
+;書籍
+{{refbegin}}
+* {{cite book |author=張正昌等編纂 |year=1995 |title=《蘆竹鄉志》 |language=zh-tw |location=桃園縣 |publisher=桃園縣蘆竹鄉公所 |isbn=957-00-8432-4 |ref={{sfnref|張正昌|1995}} }}
+* {{cite book |author=施添福等編纂 |year=2009 |chapter=第十四章·蘆竹鄉 |title=《臺灣地名辭書》 |language=zh-tw |volume=卷十五·桃園縣（下） |location=南投縣 |publisher=國史館臺灣文獻館 |isbn=978-986-02-4388-8 |ref={{sfnref|施添福|2009}} }}
+* {{cite book |author=游維真等編纂 |year=2016 |title=《續修蘆竹市志》 |language=zh-tw |location=桃園市 |publisher=桃園市蘆竹區公所 |isbn=978-986-04-8000-9 |ref={{sfnref|游維真|2016}} }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Luzhu District, Taoyuan |n=no |q=no |s=no |author=no |b=no |v=no |voy=桃園/蘆竹 }}
+*[http://www.luzhu.tycg.gov.tw/ 蘆竹區公所] {{Wayback|url=http://www.luzhu.tycg.gov.tw/ |date=20210507020227 }}
+*{{facebook|luzhuclub|蘆竹區公所}}
+*{{youtube|channel=UClLlhqRxd0Oy5fpm9cTw3rg|蘆竹區公所}}
+
+{{桃園市行政區劃}}
+{{Authority control}}
+
+[[Category:蘆竹區| ]]
+[[Category:曾為臺灣縣轄市及鄉的區|桃縣]]

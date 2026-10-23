@@ -1,0 +1,349 @@
+{{NoteTA
+|G1 = 單位
+|G2 = 交通
+}}
+{{Otheruses|subject=台灣當今的太保市|other=日治時代的太保|太保庄|太保-{庄}-}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[嘉義縣]]
+|行政區名稱= 太保市
+|旗文件名= 
+|徽文件名= 
+|代表圖像= {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 1/2/2
+| image1 = 嘉義アジア芸術文化博物館.jpg
+| image2 = 太保牛將軍廟.jpg
+| image3 = THSR-Chiayi.JPG
+| image4 = 嘉義縣立棒球場.JPG
+| image5 = 水牛公園.jpg
+}}
+|代表圖像名稱= 上：[[國立故宮博物院南部院區]]<br>中：[[水牛厝牛將軍廟]]、[[高鐵嘉義站]]<br>下：[[嘉義縣立棒球場]]、[[水虞厝水牛公園]]池塘
+{{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 市旗
+|徽= 市徽
+|行政機關首長職稱= 市長
+|行政區類別= [[縣轄市]]
+|行政機關首長姓名= [[鄭淑分]]
+|簡稱= 
+|設立始年= 1920年（設[[太保庄|太保-{庄}-]]）<br>1945年（日本投降，改制鄉，鄉名<br>太保鄉，轄屬[[臺南縣]][[縣轄區 (中華民國)|東石區]]）<br>1946年（劃入[[嘉義市 (1945年－1950年)|嘉義市]]，改制為太<br>保區）<br>1950年（恢復設鄉，改隸[[嘉義縣]]）<br>1991年（縣政府遷此，改制為縣轄<br>市「太保市」）
+|區劃= 18[[村里|里]]260[[鄰]]
+|government=[[嘉義縣太保市公所|太保市公所]]
+|legislature=[[嘉義縣太保市民代表會|太保市民代表會]]
+|行政機關網站={{url|https://taibao.cyhg.gov.tw/}}
+|總面積= {{TWTSData|A|612}}
+|總人口= {{TWTSData|P|612}}<ref name="太保市人口">{{cite web| language=zh-tw| url=https://shueishang-hro.cyhg.gov.tw/News.aspx?n=12FE9C104388A457&sms=C8DC734BB19001AE| title=太保市村里鄰人口數| publisher=嘉義縣水上戶政事務所| date=| accessdate=2020-07-26| deadurl=yes| archiveurl=https://web.archive.org/web/20200623071459/https://shueishang-hro.cyhg.gov.tw/News.aspx?n=12FE9C104388A457&sms=C8DC734BB19001AE| archivedate=2020-06-23}}</ref><ref name="ris.gov.tw">{{Cite web |author=內政部戶政司 |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |publisher=中華民國 內政部戶政司 全球資訊網 |access-date=2022-09-14 |language=zh-tw |archive-url=https://web.archive.org/web/20220912103716/https://www.ris.gov.tw/app/portal/346 |archive-date=2022-09-12 |dead-url=no }}</ref>
+| coords = {{coord|23.433899|N|120.250671|E|format=dec|name=Puzih|display=title}}
+|population_rank = 嘉義縣的第5位
+|總人口年份= {{TWTSData|P|date}}
+|household= {{TWTSData|H|612}}<ref name="太保市人口"/><ref name="ris.gov.tw"/>
+|postal_code=612
+|adjacent= [[民雄鄉]]、[[水上鄉]]、[[新港鄉]]、[[朴子市]]、[[鹿草鄉]]、[[六腳鄉]]、[[嘉義市]][[西區 (嘉義市)|西區]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Thaipó - Thàipó - (Taibao, Chiayi County).svg|center|300px|太保市位置圖]]
+</div>
+}}
+{{Taiwanese
+| title      = 太保市
+| tsuin      = ㄊㄞˋ ㄅㄠˇ ㄕˋ
+| pinyin     = Tài bǎo shì
+| tongyong   = Tài bǎo shìh
+| wg         = T'ai<sup>4</sup> pao<sup>3</sup>shih<sup>4</sup>
+| poj        = Thài-pó Chhī
+| holo       = Thài-pó Tshī
+| pfs        = Thai-pó Sṳ
+| haka       = tai boˋ sii
+}}
+
+'''太保市'''，舊稱「溝尾-{庄}-」<ref name="歷史沿革">{{cite web| language=zh-tw| url=http://taibao.cyhg.gov.tw/cp.aspx?n=ED87775962C4A230| title=歷史沿革-嘉義縣太保市公所| publisher=太保市公所| date=| accessdate=2017-04-19| archive-date=2017-04-26| archive-url=https://web.archive.org/web/20170426152507/http://taibao.cyhg.gov.tw/cp.aspx?n=ED87775962C4A230| dead-url=yes}}</ref>，前身「太保鄉」{{R|市志歷史篇|page1=86}}{{R|市志政事篇|page1=791}}，位於[[臺灣]][[嘉義縣]]中西部，嘉義縣[[縣治]]所在地，緊鄰[[嘉義市]]，為[[嘉義都會區]]的[[衛星城市]]，在嘉義地區都市計劃中定位為嘉義市的副都心，是一個以製造業、觀光業及農業為主的[[嘉南平原]]典型市鎮{{R|市志地理篇|page1=71}}。該市面積約66.8964平方公里{{R|市志地理篇|page1=4}}，人口接近4萬人<ref name="太保市人口"/>，人口密度每平方公里近600人，為臺灣人口最少、人口密度最低的縣轄市<ref name="ris.gov.tw"/>。
+
+1945年將[[太保庄|太保-{庄}-]]改制[[臺南縣]][[東石郡|東石區]]太保鄉{{R|市志歷史篇|page1=86}}{{R|市志政事篇|page1=791}}，1946年改設為[[嘉義市 (1945年—1950年)|嘉義市]][[區 (中華民國)|市轄區]]「太保區」<ref name="市轄區變遷">{{cite web|language=zh-tw|url=http://www.aiplus.idv.tw/soviet/LTWCITY3.HTM|title=臺灣建制市的市轄區變遷|publisher=臺灣建制市的市轄區變遷|date=|accessdate=2017-02-05|archiveurl=https://web.archive.org/web/20170504030347/http://www.aiplus.idv.tw/soviet/LTWCITY3.HTM|archivedate=2017-05-04|deadurl=no}}</ref>，
+1950年恢復設鄉，隸嘉義縣{{R|市志歷史篇|page1=86}}{{R|市志政事篇|page1=791}}，1982年隨著縣市分治，[[嘉義市]]升格[[市 (中華民國)|省轄市]]<ref name="市轄區變遷"/>，1991年[[嘉義縣政府|縣政府]]遷設於該地，成為嘉義縣治，改制[[縣轄市]]{{R|市志歷史篇|page1=86}}{{R|市志政事篇|page1=791}}，促使太保由原本以農業為主，少數製造業為輔的市鎮，正式成為嘉義縣的縣政中心{{R|市志地理篇|page1=71}}，且因[[故宮南院]]及縣府新市鎮的帶動，致使近年來太保市的觀光業發展逐漸成型。近年來中央、地方政府及企業在該市多有建設、交通較為便利{{notetag|本市有規劃中的嘉義捷運藍線、糖鐵朴子線及公車捷運等交會於此，並因其優越地理位置，嘉義往朴子、布袋、東石、新港、溪口、北港等地之公車也都有經過；並擁有數條[[嘉義縣市區公車|市區公車]]及[[嘉義交流道 (國道1號)|嘉義交流道]]}}，是[[高鐵嘉義站]]、[[國立故宮博物院南部院區]]、[[南部科學園區|南科嘉義園區]]及[[嘉義縣立棒球場]]所在地。
+
+==歷史==
+太保市舊名「溝尾-{庄}-」<ref name="歷史沿革"/>，係[[清]][[嘉慶]]年間閩浙水陸提督太子太保世襲伯爵[[王得祿]]將軍故鄉{{R|縣志政事志|page1=39}}，[[乾隆]]五十一年（1786年）[[林爽文事件]]從中部蔓延到南臺灣，鄉人王得祿招募壯丁協助政府軍平反建功，官封[[千總]]{{R|縣志人物志|page1=94—95}}、{{R|市志人物篇|page1=889}}。[[嘉慶]]11年（1806年）又協助平定海賊[[蔡牽]]建功。官封[[浙江]][[提督]]{{R|縣志人物志|page1=95}}、{{R|市志人物篇|page1=892}}。[[道光]]18年（1838年）返臺，清廷加封為「[[太子太保]]」{{R|縣志人物志|page1=96}}、{{R|市志人物篇|page1=898}}，[[道光]]21年（1841年）中英鴉片戰爭，王得祿守澎湖病歿，清廷再追封「[[太子太師]]」銜{{R|縣志人物志|page1=96}}、{{R|市志人物篇|page1=899}}。為紀念臺灣人在清朝為官、頭銜最高，不凡成就，故改名為「太保」{{R|縣志政事志|page1=39}}。
+
+十七世紀時，今日太保魚寮之東的諸羅山社勢力強大，[[荷蘭|荷]]稱「Tirosen」社，漢人譯為「諸羅山」社{{R|市志歷史篇|page1=79}}。[[臺灣荷蘭統治時期|荷初]]將諸羅山劃歸懂新港語的荷蘭牧師督管。崇禎十七年（1644年），悉新港語牧師巴約翰（Johannes Bavius）駐在[[蕭壠]]，兼督管[[大武壠社|大武壠]]、[[麻豆社|麻豆]]、[[哆囉嘓社|哆囉嘓]]和[[諸羅山社|諸羅山]]，也在[[新港社|新港]]、[[大目降社|大目降]]、[[目加溜灣社|目加溜灣]]講道。永曆二年（1648年），范務祿（Anthonius Hambroek）派駐麻豆，兼督管大武壠、哆囉嘓、諸羅山社。永曆九年（1655年）後，諸羅山社與打貓社同歸諸羅山管轄。荷人對平埔族村落的控制，除了透過牧師、地方教師及政務員外，還將原住民村社納入[[南部地方會議區|南部]]、[[北部地方會議區|北部]]、[[卑南地方會議區|東部]]、[[淡水地方會議區|淡水]]等四個[[地方會議]]{{R|市志歷史篇|page1=81}}。
+
+[[永曆]]十五年（1661年），[[鄭成功]]率軍[[鄭成功攻臺之役|入臺]]，5月改赤崁地方為東都明京，設一府二縣，一府即承天府，二縣即天興縣、萬年縣，永曆十八年（1664年）後，鄭經提升天興、萬年二縣政治層級，天興縣改為天興州。永曆三十七年（1683年）鄭氏降[[清朝|清]]，[[康熙]]二十三年（1684年）[[臺灣清治時期|將臺灣納入版圖]]，屬[[福建省 (清)|福建省]][[臺灣府]]，轄三縣，即臺灣縣、鳳山縣、[[諸羅縣]]。諸羅縣在新港溪（今[[鹽水溪]]）以北，故太保屬諸羅縣{{R|市志歷史篇|page1=81}}。[[雍正]]十二年（1734年）起，太保歸屬諸羅山保、柴頭港保，林爽文事件後，自[[乾隆]]五十三年（1788年）起，諸羅山保改名嘉義保{{R|市志歷史篇|page1=83}}。
+
+日治時期，臺灣分三縣一廳，太保屬臺南縣嘉義支廳。[[明治]]三十年（1897年）改六縣三廳，屬[[嘉義縣 (日治時期)|嘉義縣]]，轄下嘉義西堡、柴頭港堡，屬嘉義辦務署，大糠榔東下堡、大糠榔西堡，屬樸仔腳辦務署。明治三十一年（1898年）改為三縣三廳，屬[[臺南縣 (日治時期)|臺南縣]]嘉義辦務署和樸仔腳辦務署。明治三十四年（1901年），全臺分二十廳，太保隸屬[[嘉義廳]]，一部分廳直轄，一部分屬樸仔腳支廳太保區{{R|市志歷史篇|page1=83}}。至[[大正]]九年（1920年）起，廢堡制，行政區劃改為州郡、市街-{庄}-，[[太保庄|太保-{庄}-]]屬[[臺南州]][[東石郡]]{{R|市志歷史篇|page1=83—84}}。太保-{庄}-分為太保、後潭、茄苳腳、崙仔頂、頂港子墘、東勢寮、新埤、田尾、溪南、虞厝、埤麻腳、過溝、管事厝、白鴒厝等十四個[[大字 (行政區劃)|大字]]{{R|市志歷史篇|page1=84}}。
+
+戰後[[中華民國|民國]]三十四年（1945年），隸屬[[臺南縣]]東石區太保鄉。民國三十五年（1946年）8月1日，行政區域調整劃嘉義市為省轄市，太保劃屬[[嘉義市 (1945年—1950年)|嘉義市]]改稱為「太保區」，在民國三十九（1950年）10月25日，全省施行小縣市制，行政區域調整劃為嘉義縣稱為「太保鄉」，一直到民國八十（1991年）7月1日，嘉義縣治遷治於太保鄉，太保鄉配合縣治遷治，乃升格為縣轄市「太保市」{{R|縣志政事志|page1=39}}、{{R|市志歷史篇|page1=86}}。
+
+== 地理 ==
+=== 地形 ===
+太保市位於嘉義縣西南的部分，[[嘉南平原]]偏北的位置，市境北端有[[北回歸線]]經過{{R|市志地理篇|page1=13}}，東接[[嘉義市]][[西區 (嘉義市)|西區]]、[[水上鄉]]，南連[[鹿草鄉]]，西毗[[朴子市]]、[[六腳鄉]]，北隔[[朴子溪]]與[[新港鄉|新港]]、[[民雄鄉|民雄]]兩鄉為鄰{{R|市志地理篇|page1=3}}。全市為海岸隆起平原的一部分，屬現代沖積層，係由礫石、砂及細砂組成，整體地形平坦，海拔高度幾乎介於10~15公尺之間，地勢略由東向西傾，東自梅埔里經春珠、安仁注入[[朴子市]]，整體為東北、西南走向的狹長地形{{R|市志地理篇|page1=13}}。
+
+=== 水文 ===
+太保市北邊有[[朴子溪]]流過，為最主要的溪流。朴子溪位於[[嘉南平原]]北部，發源於阿里山山脈芋菜坑（主峰標高1421公尺），上游山區由科底與崎腳兩溪合流後，依序尚有清水、濁水與獅子頭溪匯入；向西橫貫竹崎鄉後，流經嘉義市、民雄鄉邊界及太保市、新港鄉交界，至月眉潭附近，隨後流入六腳鄉，再經朴子市邊界，最後於東石鄉出海{{R|市志地理篇|page1=37}}。人工灌溉水渠為[[嘉南大圳]]系統；由東到西為北幹線、麻魚寮支線、過溝支線、朴子支線，各支線提供市區重要的農田灌溉水源{{R|市志地理篇|page1=39}}。
+
+=== 氣候 ===
+太保市氣溫為夏熱長、冬溫暖，僅春、夏、秋三季，無冬季，各月均溫都在攝氏14度以上，4月至9月，平均氣溫均達攝氏20度以上，6月至9月，平均氣溫均高於攝氏25度{{R|市志地理篇|page1=27—28}}。年均溫22.7度，月平均最高氣溫為7月的33.1度，最低為1月的12.2度{{R|市志地理篇|page1=33}}。
+
+=== 人口 ===
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# 太保市志{{R|市志住民篇|page1=158－160}}
+# {{Cite web |url=https://shueishang-hro.cyhg.gov.tw/cp.aspx?n=CFE70517438B3714 |title=太保市歷年人口數 |publisher=嘉義縣水上戶政事務所 |access-date=2020-05-26 |language=zh-tw |archive-date=2020-06-23 |archive-url=https://web.archive.org/web/20200623042003/https://shueishang-hro.cyhg.gov.tw/cp.aspx?n=CFE70517438B3714 |dead-url=yes }}
+|1951|17136
+|1956|19886
+|1961|24160
+|1966|26906
+|1971|28012
+|1976|27285
+|1981|27151
+|1986|27288
+|1991|27651
+|1996|30313
+|2001|33302
+|2006|35180
+|2011|36673
+|2016|37497
+|2021|38571
+
+}}
+根據嘉義縣水上戶政事務所及內政部戶政司統計，2025年底太保市戶數計有16,104戶，人口計有39,923人<ref name="太保市人口"/>，人口密度每平方公里約597人<ref name="ris.gov.tw"/>，是臺灣人口最少、人口密度最低的縣轄市<ref name="ris.gov.tw"/>。由於境內大量資源及企業資金挹注，使其人口長年穩定成長，是嘉義縣轄下所有行政區中，人口成長最快速且穩定者<ref name="縣府民政處">{{Cite web |url=https://civil.cyhg.gov.tw/News6.aspx?n=960E6AF4E0D04C0A&sms=EF2A0194AD2D3967 |title=最新消息-公告資訊 |publisher=嘉義縣民政處 |access-date=2022-09-14 |language=zh-tw |archive-url=https://web.archive.org/web/20210120040528/https://civil.cyhg.gov.tw/News6.aspx?n=960E6AF4E0D04C0A&sms=EF2A0194AD2D3967 |archive-date=2021-01-20 |dead-url=no }}</ref>。依據嘉義縣政府民政處統計，嘉義縣人口長年持續下探，截至2025年底為473,181人，比2020年底已減少26,216人，在嘉義縣多數鄉鎮人口持續負成長的情形下，同期太保市的人口則自2020年底的38,536人增加至2025年底的39,923人<ref name="歷年人口數">{{Cite web |url=https://shueishang-hro.cyhg.gov.tw/cp.aspx?n=CFE70517438B3714 |title=太保市歷年人口數 |publisher=嘉義縣水上戶政事務所 |access-date=2020-05-26 |language=zh-tw |archive-date=2020-06-23 |archive-url=https://web.archive.org/web/20200623042003/https://shueishang-hro.cyhg.gov.tw/cp.aspx?n=CFE70517438B3714 |dead-url=yes }}</ref><ref name="moi.gov.tw">{{Cite web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/m1-10.xls |title=各鄉鎮市區人口數 |format=XLS |publisher=內政部統計月報 |date=2020-02-10 |access-date=2020-07-16 |language=zh-tw |archive-date=2020-05-01 |archive-url=https://web.archive.org/web/20200501062349/https://www.moi.gov.tw/files/site_stuff/321/1/month/m1-10.xls |dead-url=yes }}</ref>，五年期間累積增加1,000多人，在嘉義縣是唯一人口呈現正成長的鄉鎮市<ref name="ris.gov.tw"/>。市內人口最多與最少的里分別是[[麻寮里]]與[[後庄里 (嘉義縣)|後-{庄里}-]]，2025年底兩里人口分別為5,940人與496人{{R|市志地理篇|page1=5}}<ref name="太保市人口"/>；人口密度最高與最低的里分別是麻寮里與[[港尾里 (嘉義縣)|港尾里]]，2025年底兩里人口密度分別為每平方公里約2,634人與65人{{sfn|施添福|2008|pp=49－68}}<ref name="太保市人口"/>。
+
+太保市與嘉義縣其他地區相同，面臨[[人口老化]]與[[少子化]]的問題，但仍是嘉義縣人口相對年輕的鄉鎮<ref>{{cite web |url=https://www.pkf.org.tw/contents/news_ct?id=180&page= |title=保康消息-保康日照正式開幕，打造長輩安心第二家園 |date=2024-12-05 |access-date=2025-01-19 |publisher=財團法人嘉義縣私立保康社會福利慈善事業基金會 |language=zh-tw |archive-date=2025-04-01 |archive-url=https://web.archive.org/web/20250401111816/https://www.pkf.org.tw/contents/news_ct?id=180&page= |dead-url=no }}</ref>。2025年底時，太保市人口的年齡結構中，幼年人口佔比約12.17%，壯年人口佔比約71.39%，老年人口則佔比約16.44%，老化指數約為135.15%<ref>{{cite web |url=https://shueishang-hro.cyhg.gov.tw/News.aspx?n=38C17904FEB33D51&sms=5A563B8368D5F3FC |title=太保市性別年齡層人口數 |publisher=嘉義縣水上戶政事務所 |access-date=2021-01-13 |language=zh-tw |archive-date=2020-12-18 |archive-url=https://web.archive.org/web/20201218113410/https://shueishang-hro.cyhg.gov.tw/News.aspx?n=38C17904FEB33D51&sms=5A563B8368D5F3FC |dead-url=yes }}</ref>，是嘉義縣人口平均年齡最低的行政區<ref name="縣府民政處"/>，也是臺灣青壯年人口佔比最高的縣轄市<ref name="ris.gov.tw"/>。男女人口方面，男性人口計有20,069人，女性人口則計有19,854人，性別比約為101.08%<ref name="太保市人口"/>，為嘉義縣人口性別比相對偏低的地區<ref name="縣府民政處"/>。
+
+<!---
+{{Taiwan Population Chart
+| （必填）行政區_population = Taibao_population
+}}
+--->
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Taibao_population.chart|data=Taibao_population.tab}}
+</div>{{clear}}
+
+== 政治 ==
+===歷任市長===
+{{see also|太保市市長}}
+{| class="wikitable" style="text-align:center" width="50%"
+!width="3%" | 屆次
+!width="5%" | 姓名
+!width="7%" | 黨籍
+!width="17%"| 任職期間
+!width="8%" | 備註
+|-
+| 1
+| 侯天龍
+| 
+|1991年7月1日－1994年2月28日
+| 末任鄉長改聘。
+|- style="background:#73C2FB
+| 2
+| 盧嘉竹
+| {{KMT}}
+|1994年3月1日－1998年2月28日
+| 
+|-
+| 3
+| 呂龍雄
+| {{NONP}}
+|1998年3月1日－2002年2月28日
+| 
+|- style="background:#73C2FB
+| 4
+| 盧嘉竹
+| {{KMT}}
+|2002年3月1日－2006年2月28日
+| 
+|- style="background:#99FF66
+| 5
+|rowspan=2|董國誠
+|rowspan=4|{{DPP}}
+|2006年3月1日－2010年2月28日
+| 
+|- style="background:#99FF66
+| 6
+|2010年3月1日－2014年12月25日
+| 
+|- style="background:#99FF66
+| 7
+|rowspan=2|黃榮利
+|2014年12月25日－2018年12月25日
+|
+|- style="background:#99FF66
+| 8
+|2018年12月25日－2022年12月25日
+|
+|-
+| 9
+| 鄭淑分
+| {{NONP}}
+|2022年12月25日－現任
+|
+|}
+{{clear}}
+
+=== 市政組織 ===
+[[File:太保市公所.jpg|thumb|太保市公所]]
+
+[[嘉義縣太保市公所|太保市公所]]是太保市最高層級的地方[[行政機關]]，在中華民國政府架構中為縣轄市自治的行政機關，同時負責執行縣政府及中央機關委辦事項，太保市的自治監督機關為[[嘉義縣政府]]。市長由全體市民直接選舉產生，任期為四年，可連選連任一次。太保市公所並置市政會議，為市政最高決策機構，在市長之下，設有5課4室等9個內部單位及4個附屬機關<ref>{{cite web| language=zh-tw| url=https://taibao.cyhg.gov.tw/cp.aspx?n=4A61FCA3705AF327| title=太保市公所組織架構-太保市公所| publisher=太保市公所| date=| accessdate=2017-04-19| archive-url=https://web.archive.org/web/20200216060938/https://taibao.cyhg.gov.tw/cp.aspx?n=4A61FCA3705AF327| archive-date=2020-02-16| dead-url=yes}}</ref>。
+
+[[嘉義縣太保市民代表會|太保市民代表會]]是太保市的最高[[民意機關]]，代表太保市全體市民立法和監察市政。市民代表由公民直選選出，任期為四年，可連選連任。太保市民代表會共有11位市民代表，分別為第一選區5席市民代表、第二選區2席市民代表、第三選區4席市民代表，主席、副主席由11位市民代表互選產生<ref>{{cite web| language=zh-tw| url=http://taibao.cyhg.gov.tw/cp.aspx?n=A19BC236DAE01941| title=代表會-嘉義縣太保市公所| publisher=太保市公所| date=| accessdate=2017-04-19| archive-date=2017-04-19| archive-url=https://web.archive.org/web/20170419200321/http://taibao.cyhg.gov.tw/cp.aspx?n=A19BC236DAE01941| dead-url=yes}}</ref>。
+
+===行政區===
+現今太保市行政範圍的確立，來自於大正九年（1920年），日本將臺灣十二廳改為五州二廳，設太保-{庄}-屬臺南州東石郡。太保-{庄}-轄太保、東勢寮、新埤、田尾、溪南、後潭、茄苳腳、崙子頂、頂港子墘、水虞厝、過溝、埤麻腳、管事厝、白鴒厝等十四個大字{{R|市志政事篇|page1=794}}。民國三十四年（1945年）12月25日，改為「太保鄉」，屬臺南縣東石區。民國三十五年（1946年），太保鄉遍入嘉義市，改為嘉義市太保區{{R|市志政事篇|page1=791}}。民國三十九年（1950年）10月25日，復置太保鄉，改屬嘉義縣{{R|市志政事篇|page1=796}}。民國八十年（1991年），太保鄉改制為縣轄市「太保市」{{R|市志政事篇|page1=799}}。太保市的行政區劃轄有[[北新里 (嘉義縣)|北新里]]、[[南新里 (嘉義縣)|南新里]]、[[埤鄉里]]、[[麻寮里]]、[[過溝里 (嘉義縣)|過溝里]]、[[港尾里 (嘉義縣)|港尾里]]、[[田尾里 (嘉義縣)|田尾里]]、[[舊埤里]]、[[新埤里]]、[[前潭里|前潭-{里}-]]、[[後潭里|後潭-{里}-]]、[[梅埔里]]、[[後庄里 (嘉義縣)|後庄里]]、[[太保里]]、[[東勢里 (嘉義縣)|東勢里]]、[[崙頂里 (嘉義縣)|崙頂里]]、[[春珠里]]、[[安仁里 (嘉義縣)|安仁里]]等18個里，共計260鄰{{R|市志地理篇|page1=5}}。
+
+== 經濟 ==
+=== 農業 ===
+太保市地處嘉南平原，地形平坦遼闊，地層屬海岸平原之「臺南層」，地質為現代沖積層，多粘板岩與沙頁岩之混合沖積石，土壤多為砂質沈泥、砂質黏土與少量腐質土，土壤肥沃，適合農耕。地表灌溉水源不足，天然降雨不平均，雨季多集中5～9月，為七成五降雨量。日治前多旱田，僅依賴埤塘水池作為灌溉水源。日治時期，「嘉南大圳」的完工，使得旱田變水田，農作收穫量增加兩倍以上，嘉南平原成為臺灣最大穀倉{{R|市志經濟篇|page1=456}}。主要農作物以種植水稻為大宗，其次為製糖用甘蔗及食用玉米{{R|市志經濟篇|page1=460}}，普通作物生產量以甘藷收穫量最多，高達一千公噸以上，特用作物以製糖用甘蔗產量最多{{R|市志經濟篇|page1=462}}，蔬菜生產以甘藍為大宗，其次為花椰菜、竹筍、蘆筍等{{R|市志經濟篇|page1=463}}。水果產量以西瓜最多，鳳梨居次，柑橘類僅有十公噸產量，其它如香蕉、荔枝則屬零星的種植{{R|市志經濟篇|page1=463}}。
+
+=== 工業 ===
+太保市的工業主要的產業類別以食品及飲料製造業為最多，其次是機械設備製造修配業、金屬製品製造業、塑膠製品製造業及化學材料製造業等。1960年代工業是以碾米業為主，到1970年代化學材料製造業、機械設備製造修配業以及金屬製品製造業等三項產業，佔近六成設廠數，奠定了工業發展基礎。1990年代是工業發展最興盛逢博時期，食品及飲料製造業是唯一不受影響，能繼續穩定成長的產業{{R|市志經濟篇|page1=454}}。此外由於太保市對外交通便利，且境內與鄰近鄉鎮設有多座大型建設，中央政府也在2021年9月5日正式宣布[[南部科學園區#嘉義園區|南科嘉義園區]]將設置於嘉義縣政府附近之台糖太保農場<ref>{{cite news |url=https://www.ey.gov.tw/Page/AF73D471993DF350/5f8c0ef5-efc1-49f0-a676-6bd6fc089c2e |title=2021年9月5日行政院長蘇貞昌視察「嘉義科學園區」 |publisher=行政院新聞傳播處 |date=2021-09-06 |access-date=2021-09-06 |language=zh-tw |archive-date=2022-03-20 |archive-url=https://web.archive.org/web/20220320010533/https://www.ey.gov.tw/Page/AF73D471993DF350/5f8c0ef5-efc1-49f0-a676-6bd6fc089c2e }}</ref>，2023年5月22日，嘉義園區正式動工並同時招商<ref>{{cite news |url=https://www.cna.com.tw/news/afe/202305220194.aspx |title=科學園區動土招商 陳建仁：嘉義將有美好未來 |author=蔡智明 |date=2023-05-22 |access-date=2024-02-06 |publisher=中央社 CNA |language=zh-tw |archive-date=2024-02-06 |archive-url=https://web.archive.org/web/20240206054740/https://www.cna.com.tw/news/afe/202305220194.aspx |dead-url=no }}</ref>，2024年5月，[[台灣積體電路製造]]AP7廠於嘉義園區動工興建。
+
+=== 商業 ===
+太保市最貼近民生的商業是俗稱雜貨店的食品什貨批發零售業，以小資本獨資經營為主，約佔有八成，僅有比較鄉村型聚落如崙頂里、田尾里外，都有食品什貨批發零售業設立{{R|市志經濟篇|pages=454、547}}。1970年代以前，農產品批發零售業大多販售屠宰獸肉，且以小資本額獨資經營為主，1982年開始有較大資本額的有限公司前來經營農產品零售業、蔬果批發業、水產品批發零售業、其他農、畜、水產品批發零售業、飼料批發零售業以及國際貿易業等{{R|市志經濟篇|page1=548}}。
+
+=== 金融業 ===
+太保市的金融業並不發達，雖有臺灣銀行太保分行與京城銀行太保分行的設立，但一般農民仍然依賴太保市農會的信用部，南新辦事處、後潭辦事處、新埤辦事處、安東辦事處、嘉太辦事處等{{R|市志經濟篇|page1=454}}。
+
+太保市農會創立於1918年11月，名太保-{庄}-信用組合，1944年2月改組太保-{庄}-農業會，期間經歷太保市各階段改制變更，經歷過太保鄉農業會、嘉義市太保區合作社、嘉義市太保區農會、太保鄉農會，1991年7月，改名太保市農會{{R|市志經濟篇|page=468、550}}。為擴大服務以應民眾需求，設有信用、會計、稽核、保險、會務、供銷、推廣等部門，除信用部外，並陸續成立南新辦事處、後潭辦事處、新埤辦事處、安東辦事處、嘉太辦事處等{{R|市志經濟篇|page1=550}}。
+
+=== 服務業 ===
+太保市的服務業以作物栽培業、運輸業與環保清潔業為主{{R|市志經濟篇|page1=553—554}}。太保市農業相當發達，周遭有許多種植甘蔗的農場，作物栽培業相當興盛，早期以甘蔗之栽培、採收、搬運及蔗渣搬運為主。近來隨著臺糖農場甘蔗種植數量減少，已慢慢轉型為種苗零售、花卉栽培銷售，及其他畜水產批發等經營項目{{R|市志經濟篇|page1=553}}。運輸業產業區位多位於北部工業發達的區域，早期多為計程車客運業，在工業起飛後再發展出汽車貨運業，然後才有遊覽車客運業的出現{{R|市志經濟篇|page1=553}}。隨著嘉太工業區周遭工廠密集的設立，北部區域工業城現象越發顯著，伴隨著廢棄物清理的問題也急待處理；接著嘉義縣政府等大型辦公機構在祥和新村陸續設立，也讓住宅及建築服務業有了新興的市場{{R|市志經濟篇|page1=554}}。
+
+==文化==
+太保市的[[臺灣民間信仰|民間宗教信仰]]，傳承了漢人的傳統民間信仰的內容與宗廟文化內涵，無論是神祗信仰內容、宗廟建築、廟會活動、神民會組織等，均與臺灣其他地區同，主要融合了大量的儒、釋、道等宗教之教義與祭儀{{R|市志宗教篇|page1=595}}。其主要有[[天上聖母]]、[[七星娘娘]]、[[保生大帝]]、王爺千歲、[[清水祖師]]、[[玄天上帝]]、[[三山國王]]、[[城隍爺]]、女媧娘娘、[[關聖帝君]]、[[神農大帝]]、元帥爺、[[觀世音菩薩]]、[[福德正神]]、太子爺、牛神、紫薇大帝等十七位神祗{{R|市志宗教篇|page1=596}}。太保市特有的信仰型態，傳說與鄭氏拓墾有關的[[慧明牛將軍廟|牛將軍廟]]、福濟宮的七星娘娘祭典、為數不少的三山國王信仰、三座同名的「保安宮」廟宇等{{R|市志宗教篇|page1=595}}。法隆寺為太保市唯一的[[佛教]]寺院{{R|市志宗教篇|page1=665—666}}。太保市的[[基督新教]]信仰分為[[台灣基督長老教會]][[過溝教會]]、[[嘉義祥和教會|祥和教會]]以及[[基督教台灣信義會]]太保教會，還有嘉南臺福基督教會、太保火把大會等五個教會{{R|市志宗教篇|page1=668—675}}。太保市的[[一貫道]]信仰分為發一崇德與寶光建德等二大祖線，發一崇德祖線在新埤里設有聖惠佛堂，寶光建德祖線則以北新里的張氏佛堂為主{{R|市志宗教篇|page1=667—668}}。
+
+{{multiple image
+| align = left
+| header = 
+| footer = {{small|魚寮遺址地標（左）魚寮遺址願景館（右）。}}
+| image1 = Yu Liao Relics.jpg
+| width1 = 200
+| alt1 = 
+| caption1 = 
+| image2 = 魚寮遺址願景館.jpg
+| width2 = 200
+| alt2 = 
+| caption2 = 
+}}
+
+[[魚寮遺址]]是嘉義縣縣定[[台灣考古遺址列表|考古遺址]]，乃代表嘉義平原在[[新石器時代]]晚期晚期的文化樣貌<ref name=":0">{{Cite web|url=https://nchdb.boch.gov.tw/web/cultureassets/Archeology/info_upt.aspx?p0=8436|title=魚寮遺址|accessdate=2017-01-24|author=文化部文化資產局|date=2009-06-03|publisher=|archive-date=2017-02-02|archive-url=https://web.archive.org/web/20170202030600/https://nchdb.boch.gov.tw/web/cultureassets/Archeology/info_upt.aspx?p0=8436|dead-url=no}}</ref>，約於1940年前後由[[國立嘉義大學|嘉義農學校]]教諭吉田茂所發現，並首見於[[鹿野忠雄]]在《東南亞細亞民族學先史學研究》中對該遺址命名為「魚寮型遺址」<ref>{{Cite web|url=http://edresource.nmns.edu.tw/ShowObject.aspx?id=0b81d9e9c00b81d9e9d00b81e3ae58|title=新石器時代晚期魚寮遺址的古環境|accessdate=2017-01-29|author=何傳坤、劉克竑|date=|publisher=國立自然科學博物館|archive-date=2016-03-23|archive-url=https://web.archive.org/web/20160323054231/http://edresource.nmns.edu.tw/ShowObject.aspx?id=0b81d9e9c00b81d9e9d00b81e3ae58|dead-url=no}}</ref><ref name=":0"/>，將[[白鴒厝|白鴿厝]]小段等14筆土地，東西長560公尺，南北寬560公尺，共計313,600平方公尺之面積，採縣定遺址對魚寮遺址保存<ref>{{Cite web|url=http://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/12265/127097/%E5%98%89%E7%BE%A9%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B198%E5%B9%B4%E7%AC%AC7%E6%9C%9F.pdf|title=嘉義縣政府公報九十八年第七期|accessdate=2017-01-29|author=嘉義縣政府|date=2009-07-15|publisher=嘉義縣政府|archive-date=2017-02-02|archive-url=https://web.archive.org/web/20170202050657/http://ws-tm.cyhg.gov.tw/001/Upload/1330/relfile/12265/127097/%E5%98%89%E7%BE%A9%E7%B8%A3%E6%94%BF%E5%BA%9C%E5%85%AC%E5%A0%B198%E5%B9%B4%E7%AC%AC7%E6%9C%9F.pdf|dead-url=yes}}</ref>。
+
+[[File:嘉義縣立棒球場.JPG|thumb|right|嘉義縣立棒球場]]
+[[嘉義縣立棒球場]]位於太保市的縣府特區內，因民國八十六年（1997年）嘉義縣承辦[[中華民國全國運動會|第二十四屆臺灣區運動會]]而建造，場地可容納觀眾9,000人，場地大小為左外野322英呎、中外野403英呎以及右外野322英呎，擁有現代化的電子分看板，在職棒七年成為第七個職棒所使用的場地，也為這個棒球風氣鼎盛的地區帶來職業棒球的活力<ref>{{cite web|language=zh-tw|url=http://www.cpbl.com.tw/footer/stadium/F14|title=嘉義縣立棒球場-中華職棒大聯盟全球資訊網 The Official Site of CPBL|publisher=中華職棒大聯盟|date=|accessdate=2020-07-20|archiveurl=https://web.archive.org/web/20200216091705/http://www.cpbl.com.tw/footer/stadium/F14|archivedate=2020-02-16|deadurl=no}}</ref>。民國一百零八年（2019年）起，取代[[屏東縣立棒球場]]成為[[樂天桃猿]]職業棒球隊的春訓場地<ref>{{cite web |language=zh-tw |url=https://sports.ltn.com.tw/news/breakingnews/3025987 |author=倪婉君 |title=中職》樂天桃猿1.7開訓 「正在開闢春訓第二場地」 |publisher=自由時報 |date= |accessdate=2019-12-31 |archiveurl=https://web.archive.org/web/20200101130432/https://sports.ltn.com.tw/news/breakingnews/3025987 |archivedate=2020-01-01 |deadurl=no }}</ref>。
+{{clear}}
+
+== 教育 ==
+{{see also|嘉義縣各級學校列表}}
+[[File:Taibao Campus, Tatung Institute of Technology 20140223.jpg|thumb|大同技術學院太保校區]]
+太保開發甚早，仕紳家庭極重要子女教育。有先賢水師王得祿將軍，平林爽文之亂有功，為清廷重用；王家書香門第，曾祖父王奇生，奉長官之命來臺，平[[朱一貴]]之亂，為七品武官，死後追贈恩騎尉（六品武官）；父親王必敬為諸羅縣貢生，曾赴府城孔廟明倫堂就學，返鄉後便在家鄉開辦私塾，招收青少年教授；王家注重子女教育，勵志向學，地方上受其薰染，學風頗盛，太保公學校創立之初，便是借用「王氏家廟」作為授課教室，為清代私塾延師授課的情形{{R|市志教育篇|page1=238}}。清代教育乃為追求科舉功名而設，各地普遍存有「漢學先」在家授課的私塾教育。然此傳統漢學教育措施，因日治時期建立西式新教育制度，而隨之消失{{R|市志教育篇|page1=239}}。
+
+1895年日本治臺後，[[臺灣總督府|總督府]]學務部開始推動日語教育，研擬教育制度。1896年，設立14所「[[國語傳習所]]」，為臺灣近代初等教育鋪路。1898年，改設[[公學校]]（臺籍兒童就讀）、[[小學校 (台灣)|小學校]]（日籍兒童就讀）官制，取代「國語傳習所」，確立初等教育的基礎{{R|市志教育篇|page1=240—241}}。日本在太保市共設立兩所公學校，分別是1900年7月太保公學校（今太保國小）{{R|市志教育篇|page1=248—251}}、1914年4月嘉義公學校（今嘉義市崇文國小）水虞厝分教場，1921年嘉義公學校水虞厝分教場獨立為水虞厝公學校（今南新國小）{{R|市志教育篇|page1=253—255}}。
+
+1945年，戰後初期的教育目標，以[[三民主義]]為教育宗旨，清楚日治時期的思想文化，建立公平的教育制度；對於國民教育的改革為首要工作，乃將日治時期的公學校、小學校一律改制為[[國民學校]]{{R|市志教育篇|page1=281、294}}。太保市原有公學校二所改為太保國民學校{{R|市志教育篇|page1=294、295—298}}、水虞厝國民學校{{R|市志教育篇|page1=294、299—303}}，1946年，太保國民學校設立新埤分校，1949年，太保國民學校設立崙頂分校，新埤分校獨立為新埤國民學校{{R|市志教育篇|page1=281、294、303—308}}，1958年，太保國民學校設立後潭分校，1960年，崙頂分校獨立為安東國民學校{{R|市志教育篇|page1=281、294、309—316}}。1967年6月，推行[[九年國民教育]]，將國民教育分為兩階段，前六年為[[國民小學]]，後三年為[[國民中學]]，國民學校即改為國民小學{{R|市志教育篇|page1=294}}。配合政府一鄉鎮一國中政策與實施九年國民教育{{R|市志教育篇|page1=294}}，1968年成立太保國民中學及南新分部{{R|市志教育篇|page1=316、320}}，1970年太保國中南新分部獨立為嘉新國民中學{{R|市志教育篇|page1=320}}。2003年，因應少子化，裁併太保國小後潭分校<ref>{{cite web | language = zh-tw | publisher = 嘉義縣政府教育處 | title = 太保市-後潭校區 | url = https://edu.cyhg.gov.tw/cp.aspx?n=955A032EC78E4296 | author =  | date =  | accessdate = 2020-06-13 | archiveurl = https://web.archive.org/web/20191202094024/https://edu.cyhg.gov.tw/cp.aspx?n=955A032EC78E4296 | archivedate = 2019-12-02 | deadurl = yes }}</ref>。2024年8月，成立國立嘉科實中<ref>{{cite news |title=嘉義科學園區迎新學府國立嘉科實中揭牌 |url=https://newstaiwan.net/2024/09/20/227939/ |author=吳瑞興 |date=2024-09-20 |publisher=台灣好報 |language=zh-tw |access-date=2026-01-04 }}</ref>。
+
+目前太保市擁有兩所公立高級中等學校，分別為[[嘉義縣立永慶高級中學]]<ref>{{cite web |title=地圖查詢-太保市 |url=https://schbase.cyc.edu.tw/schbase/pub/map.php?rg_id=taibao |website=嘉義縣學校資料庫 |language=zh-tw |access-date=2026-01-04 |publisher=嘉義縣政府教育處 |archive-date=2025-07-16 |archive-url=https://web.archive.org/web/20250716233504/https://schbase.cyc.edu.tw/schbase/pub/map.php?rg_id=taibao |dead-url=no }}</ref>、[[國立嘉科實驗高級中等學校]]<ref>{{cite web |title=國立嘉科實驗高級中等學校 |url=https://www.nehs.cyc.edu.tw/home |language=zh-tw |access-date=2026-01-05 |archive-date=2023-12-11 |archive-url=https://web.archive.org/web/20231211075419/https://www.nehs.cyc.edu.tw/home |dead-url=no }}</ref>。其他公立教育機構計有[[嘉義縣立太保國民中學]]、[[嘉義縣立嘉新國民中學]]等二所國民中學{{R|市志教育篇|page1=316}}，[[嘉義縣太保市太保國民小學]]、[[嘉義縣太保市南新國民小學]]、[[嘉義縣太保市新埤國民小學]]、[[嘉義縣太保市安東國民小學]]等四所國民小學{{R|市志教育篇|page1=295}}。原有大專院校為[[大同技術學院|大同技術學院（太保校區）]]一校{{R|市志教育篇|page1=323}}，已決議自2022年8月起停辦停招<ref>{{cite web|language=zh-tw|url=https://news.ltn.com.tw/news/life/breakingnews/3833420 |author=吳柏軒、林曉雲、王善嬿|title=獨家》大同技術學院因欠債被假扣押 遭教育部勒令停招|publisher=自由時報電子報|date=2022-02-17|accessdate=2022-02-17|archiveurl=https://web.archive.org/web/20220217195830/https://news.ltn.com.tw/news/life/breakingnews/3833420|archivedate=2022-02-18|deadurl=yes}}</ref>。
+
+==交通==
+=== 鐵路 ===
+==== 高鐵 ====
+[[File:THSR-Chiayi.JPG|thumb|高鐵嘉義站]] 
+[[高速鐵路]]以混泥土高架建築貫穿太保市西側，並設有[[高鐵嘉義站]]，為[[台灣高鐵|台灣高速鐵路]]的[[鐵路車站]]{{R|市志經濟篇|page1=578}}，位於「高鐵嘉義車站特定區」，與嘉義市中心直線距離約12公里，涵蓋嘉義縣、市與臺南新營生活圈{{R|市志住民篇|page1=182}}。透過高鐵橋下道路、省道臺1線、臺18線、臺19線、臺82線及縣道163號、164號、167號、168號等重要道路交通系統，市民可以快速轉往嘉義縣、市與臺南北隅地區所有重要城鎮{{R|市志住民篇|page1=182}}。已於民國96年（2007年）1月試營運，3月正式通車營運{{R|市志經濟篇|page1=578}}。東北距嘉義市約五公里，縣道168號橫貫期間，為主要聯外道路；東往中山高速公路水上交流道約五公里，西往嘉義縣政府約三公里，朴子市約十公里{{R|市志經濟篇|page1=578}}。
+
+==== 捷運 ====
+*[[嘉義捷運]]
+**藍線（推動中）
+***B9-B13站
+**紅線（規劃中）
+
+==== 糖鐵 ====
+*[[蔗埕線]]
+
+=== 巴士 ===
+{{main|嘉義公車捷運}}
+[[File:Chiayi BRT bus at THSR Chiayi Station 20140908.JPG|thumb|路線編號7212的嘉義BRT公車停靠於[[高鐵嘉義站]]外。（2014年）]]
+*嘉義公車捷運
+**7211：[[朴子轉運站]]－[[嘉義公園]]
+**7212：[[國立故宮博物院南部院區|故宮南院]]－[[嘉義市私立宏仁女子高級中學|宏仁女中]]
+嘉義公車捷運是台灣第一（首例引進，為公車捷運示範路線）且現有唯一的一條[[BRT|公車捷運系統]]，於2008年1月31日開始啟用<ref name="大">{{cite web|language=zh-tw|publisher=大紀元|title=全國首創公路捷運通車|url=http://www.epochtimes.com/b5/8/1/31/n1997749.htm|date=2008-01-31|accessdate=2011-02-25|archiveurl=https://web.archive.org/web/20170504053308/http://www.epochtimes.com/b5/8/1/31/n1997749.htm|archivedate=2017-05-04|deadurl=no}}</ref>，除了有嘉義縣治銜接線、嘉義市區銜接線（合為7211路線公車），另有主線（7212路線公車）行駛於臺灣高鐵[[嘉義車站 (高鐵)|嘉義站]]和臺鐵[[嘉義車站]]之間，具有公車專用道、停站數少、站間距離長、公車動態顯示系統及專屬候車亭、公車優先號誌系統、[[低底盤公車]]等特色，與一般公車系統不盡相同，故有嘉義公車捷運之稱<ref>{{cite web | language = zh-tw | publisher = 嘉義市公車 | title = 嘉義BRT公車捷運系統 | url = http://e-bus.chiayi.gov.tw/ | author =  | date =  | accessdate = 2011-02-25 | archiveurl = https://web.archive.org/web/20170504053904/http://e-bus.chiayi.gov.tw/ | archivedate = 2017-05-04 | deadurl = yes }}</ref>。搭乘[[嘉義公車捷運|嘉義BRT]]前往[[嘉義車站 (高鐵)|高鐵嘉義站]]免費，在高鐵站上車需憑高鐵票根可免費搭往其他站<ref>{{cite web|language=zh-tw|url=http://www.thsrc.com.tw/tw/News/Detail/0f940534-3d10-4ae0-9202-152667c8c401/24|title=台灣高鐵企業網站最新消息-台灣高鐵|publisher=台灣高鐵 Taiwan High Speed Rail|date=|accessdate=2017-03-11|archiveurl=https://web.archive.org/web/20170504053859/http://www.thsrc.com.tw/tw/News/Detail/0f940534-3d10-4ae0-9202-152667c8c401/24|archivedate=2017-05-04|deadurl=no}}</ref>。
+
+[[嘉義縣公共汽車管理處|嘉義縣公車]]經過太保市區主要的路線有嘉義至布袋、嘉義至雙溪口、嘉義至朴子、嘉義至新港等四條路線，提供市民搭乘及嘉義市、朴子市、新港鄉、溪口鄉及布袋鎮等鄰近鄉鎮轉運之用{{R|市志經濟篇|page1=581}}，另有數條[[嘉義縣市區公車]]可供民眾搭乘。
+
+另有[[大台南公車]]黃9線、黃16-1線、33路可前往南靖車站、後壁車站、新營車站、菁寮、白河站、關子嶺等地，橘9線及橘9-1線則行駛國道一號至新營轉運站、麻豆轉運站、學甲及佳里站<ref>{{Cite web |url=https://tourguide.tainan.gov.tw/newtnbusweb/IframeUrl.aspx?0 |title=大台南公車-即時動態 |publisher=臺南市政府交通局 |access-date=2021-09-18 |language=zh-tw |archive-date=2020-11-29 |archive-url=https://web.archive.org/web/20201129034708/https://tourguide.tainan.gov.tw/newtnbusweb/IframeUrl.aspx?0 |dead-url=no }}</ref>。
+
+=== 公路 ===
+{{main|嘉義縣公路列表}}
+[[中華民國國道|國道]][[中山高速公路]]由北向南穿越太保市東側，並在鄰近設有[[嘉義交流道 (國道1號)|嘉義交流道]]（264）及[[水上交流道 (國道1號)|水上交流道]]（270），為太保市主要的南北向對外交通要道{{R|市志經濟篇|page1=579}}、<ref name="國道">{{cite web|url=http://www.freeway.gov.tw/way_net.aspx|title=高速公路局中文版 > 路網交通指南 > 國道地圖 > 路網示意圖|publisher=交通部臺灣區國道高速公路局|archiveurl=https://web.archive.org/web/20170504054922/http://www.freeway.gov.tw/way_net.aspx|archivedate=2017-05-04|deadurl=no|access-date=2020-05-31}}</ref>。中山高速公路經由嘉義交流道可以[[縣道159號]]（[[北港路 (臺灣)|北港路]]）通往嘉太工業區，是嘉太工業區所生產的產品主要流通管道；更可連接南北向的麻太路與太保市境內其他鄉村聚落作為連繫{{R|市志經濟篇|page1=579}}、<ref name="國道"/>。中山高速公路經由水上交流道亦可連接[[縣道168號]]（[[嘉朴公路|嘉-{朴}-公路]]）聯絡太保都市計畫區及嘉義縣治都市計畫區，更可遠接朴子市、東石鄉甚至是布袋鎮等嘉義縣西部沿海區域{{R|市志經濟篇|page1=579}}、<ref name="國道"/>。亦可轉由東西向道路（[[台82線]]）[[鹿草交流道]]（18）下[[縣道167號]]由南部進入太保市區{{R|市志經濟篇|page1=580}}。
+
+太保市境內共有2條[[臺灣省道|省道]]。[[台18線|省道台18線]]起點為高鐵嘉義站，是聯絡高鐵嘉義站到嘉義市區的東西向50米道路，路線自高鐵嘉義站東行接嘉義市的[[世賢路]]延伸至吳鳳路口時可連接原臺18線，除連結高鐵乘客至周邊市鎮外，更是通往[[阿里山森林遊樂區|阿里山遊樂區]]的重要道路{{R|市志經濟篇|page1=580}}、<ref name="省道">{{cite web|url=http://www.thb.gov.tw/sites/ch/modules/expressway/general?node=bb88772d-35c3-4b18-86f8-d2a8f6772143|title=公路總局-省道公路路線|publisher=中華民國交通部公路總局|archiveurl=https://web.archive.org/web/20170504054925/http://www.thb.gov.tw/sites/ch/modules/expressway/general?node=bb88772d-35c3-4b18-86f8-d2a8f6772143|archivedate=2017-05-04|deadurl=no|access-date=2020-05-31}}</ref>。[[台37線|省道台37線]]為高鐵聯外公路嘉義段，途中經過高鐵嘉義站<ref name="省道"/>。
+
+太保市現有[[中華民國縣道|縣道]]3條。[[縣道159號]]穿越太保市的東北端，為中山高速公路嘉義交流道的聯絡道路。東可接中山高速公路嘉義交流道，或進嘉義市區；西通新港鄉，甚至可遠達雲林縣北港鎮，故稱北港路。縣道159號道路在太保市境內連接中山高速公路嘉義交流道附近特定區計畫與嘉太工業區，道路兩旁商業活絡{{R|市志經濟篇|page1=580}}、<ref name="縣市道">{{cite web|url=http://www.thb.gov.tw/sites/ch/modules/expressway/county?node=81f6a0db-8899-4d5a-83a2-2e6672a467f7|title=公路總局-市道及縣道公路路線|publisher=中華民國交通部公路總局|archiveurl=https://web.archive.org/web/20160521171842/http://www.thb.gov.tw/sites/ch/modules/expressway/county?node=81f6a0db-8899-4d5a-83a2-2e6672a467f7|archivedate=2016-05-21|deadurl=no|access-date=2020-06-01}}</ref>。[[縣道167號]]道路位於太保市南部邊區，是太保、朴子、鹿草之聯絡道路，與縣道168號道路形成一三角路網，自後潭聚落縣道168號道路向南岔出，可經嘉義東西向臺82線道路鹿草交流道至鹿草鄉，並可遠接義竹鄉、布袋鎮等嘉義縣南部鄉鎮。昔因道路狹窄，民眾利用較少，臺82線道路的通車已儼然成為進入太保市區的重要交通孔道{{R|市志經濟篇|page1=580}}、<ref name="縣市道"/>。[[縣道168號]]道路為中山高速公路水上交流道的聯絡道路，係嘉義生活圈東西向重要道路之一，列為生活圈道路系統之主要道路。縣道168號道路貫穿太保市南部中間地帶，又稱為嘉朴公路。東可接中山高速公路水上交流道，西可近朴子市區，是附近鄉鎮如水上鄉、朴子市、東石鄉與太保市連接的主要交通要道，連接太保都市計畫區及嘉義縣治所在地都市計畫區，是太保市目前最主要的東西向道路{{R|市志經濟篇|page1=580}}、<ref name="縣市道"/>。
+
+太保市境內最主要的道路，是由嘉49號、嘉56號、嘉62號等所組成的麻太路，為12米寬的兩線雙向道路，南起太保里，更可遠接春珠里，途經新埤聚落東側，再右轉嘉56號道路，可與北港路（縣道159號）相交。麻太路連貫太保都市計畫區、新埤聚落及高速公路嘉義交流道附近特定區三處主要聚落，為太保市境內南北向往來的重要幹道。往南尚可接縣道167號通往鹿草鄉，往北也可連接縣道159號通往嘉義市區。其餘市區內的道路，多為路寬較窄的兩線車道，作為聯絡各社區鄰里之用{{R|市志經濟篇|page1=581}}。
+
+=== 公共自行車 ===
+{{see also|嘉義縣公共自行車租賃系統站點列表#太保市}}
+[[嘉義縣公共自行車租賃系統|嘉義縣]][[YouBike微笑單車|YouBike 2.0]]於2024年7月3日正式營運，截至2025年2月19日於太保市內設置29處站點<ref>{{cite web |url=https://www.youbike.com.tw/region/cyhg/stations/list/ |title=嘉義縣-站點資訊-站點列表 |access-date=2024-12-06 |publisher=YouBike微笑單車 |language=zh-tw |archive-date=2024-12-13 |archive-url=https://web.archive.org/web/20241213130457/https://www.youbike.com.tw/region/cyhg/stations/list/ |dead-url=no }}</ref>。
+
+==休閒旅遊==
+[[File:太保牛將軍廟.jpg|thumb|right|250px|[[水牛厝牛將軍廟]]]]
+太保市鐵馬道環繞太保市區約39公里，乃利用臺糖廢鐵道改建而成，起點從水牛公園到田尾站，全長約8.5公里，沿途有涼亭、休閒導覽設施，有美麗田園生態景觀等特色{{R|市志住民篇|page1=179}}。[[水虞厝水牛公園|太保市水牛公園]]前身為大嘉義主題樂園，原為農村文物公園改建而來，園區承續以農村風情為主題的造景設計，並設有各式遊樂器材，加上交通十分便利，成為嘉義地區旅遊的熱門去處。園內有水池環繞，並有以水牛車輪構築的造型步橋，廟前則有水牛造型的雕塑為襯景。廟裡供奉一尊以一般水牛雕塑而成的牛將軍，牛旁立著手持牛鞭之牧童，牛前石臼長年供奉一桶清水及新鮮牧草或甘蔗。[[水牛厝牛將軍廟|牛將軍廟]]為原農村文物公園時所建，相傳是明末延平郡王鄭成功派葉觀美大夫從大陸帶來八頭水牛，在當時「虞溪」附近（約今[[朴子溪]]南岸）進行屯墾拓殖活動，後因牛隻超勞過度病逝，將之厚葬後，不久傳出有全身發亮的金牛出沒，經人發現當地乃是水牛靈穴，為感謝牠們辛勞，決定建立廟宇以供奉祀{{R|市志住民篇|page1=178}}<ref name="陳麗卿"/>。
+
+[[File:嘉義アジア芸術文化博物館.jpg|thumb|left|250px|[[國立故宮博物院南部院區]]]]
+
+[[國立故宮博物院南部院區|故宮南院]]是一座以亞洲藝術為主題的博物館，從亞洲歷史、文化的宏觀角度，提供民眾認識亞洲多元文化的機會，為臺灣創造一個新的藝術文化景點{{R|市志住民篇|page1=180}}。其佔地約703,334平方-{zh-hant:公尺;zh-cn:米}-<ref>{{Cite book |author=林國顯等著 |title=《臺灣西部地區運輸系統發展策略——南部區域》 |publisher=交通部運輸研究所 |date=2011-12 |location=臺北 |pages=2-47 |ISBN=9789860305227}}{{zh}}</ref>，20公頃土地為主體建築，50公頃為亞洲文化藝術園區，內容包括日本、韓國和印度等亞洲國家的文化藝術主題，成為一個帶動週邊整體發展的國際觀光景點。整個故宮南院的建築將呼應嘉南平原的風光，藉用對比的形式，把嘉南的好山好水融入其中。例如象徵平原的水景荷花池、用來詮釋玉山山脈的玻璃高塔等，而塔下的叢竹中庭和水氣則代表著阿里山森林的山嵐。方庭外則用帶有厚重感的博物館建築加以圍繞，稟持著「厚重展館、輕盈中庭」的概念。整個博物館的空間與動線設計也形同書法藝術一樣，充滿詩意的流動感{{R|縣志經濟志|page1=595}}。<!--以及品皇咖啡觀光工廠，是台灣少數以[[咖啡]]為展覽主題的觀光工廠。-->
+
+==相關條目==
+*[[太保庄|太保-{庄}-]]
+*[[嘉義縣 (清朝)]]
+*[[嘉義縣]]
+
+== 注釋 ==
+<!--<div class="references-2column">-->
+{{notefoot}}
+<!--</div>-->
+
+==參考資料==
+;引用來源
+<div class="references-small">
+{{reflist|3|refs=<!--
+請依來源形式編排，方便後來編者copy Cite模板 --><!--
+論文 -->
+<ref name="縣志政事志">{{Cite book|editor=陳淳斌|title=《嘉義縣志·卷四·政事志》|publisher=嘉義縣政府|location=嘉義縣|year=2009|pages=|language=zh-tw}}</ref>
+<ref name="縣志經濟志">{{Cite book|editor=張建俅、張秀蓉|title=《嘉義縣志·卷七·經濟志》|publisher=嘉義縣政府|location=嘉義縣|year=2009|pages=|language=zh-tw}}</ref>
+<ref name="縣志人物志">{{Cite book|editor=楊維真、楊宇勛|title=《嘉義縣志·卷十二·人物志》|publisher=嘉義縣政府|location=嘉義縣|year=2009|pages=|language=zh-tw}}</ref>
+<ref name="市志地理篇">{{Cite book|editor=池永歆|title=《太保市志·第一篇·地理篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志歷史篇">{{Cite book|editor=黃阿有|title=《太保市志·第二篇·歷史篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志住民篇">{{Cite book|editor=汪天成|title=《太保市志·第三篇·住民篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志教育篇">{{Cite book|editor=王玫珍|title=《太保市志·第四篇·教育篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志經濟篇">{{Cite book|editor=林燊祿、潘是輝|title=《太保市志·第六篇·經濟篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志宗教篇">{{Cite book|editor=李明仁|title=《太保市志·第七篇·宗教篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>{{#time:Y年Fj日 H:i}}
+<ref name="市志政事篇">{{Cite book|editor=吳昆財|title=《太保市志·第九篇·政事篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="市志人物篇">{{Cite book|editor=翁麗雪|title=《太保市志·第十篇·人物篇》|publisher=太保市公所|language=zh-tw|isbn=|location=太保市|date=}}</ref>
+<ref name="陳麗卿">{{Cite news|url=|title=感念水牛恩德 三百餘年不絕－水虞厝的牛故事|author=陳麗卿|language=zh-tw|publisher=《民生報》|date=1981-11-28|accessdate=}}</ref>
+
+
+
+}}
+</div>
+
+;書籍
+{{refbegin}}
+* {{cite book |author=施添福等編纂 |year=2008 |chapter=第三章·太保市 |title=《臺灣地名辭書·卷八·嘉義縣》 |language=zh-tw |location=南投市 |publisher=國史館臺灣文獻館 |isbn=978-986-01-6259-2 |ref={{sfnref|施添福|2008}} }}
+* {{cite book |author=李明仁等編纂 |year=2009 |title=《太保市志》 |language=zh-tw |location=太保市 |publisher=太保市公所 |isbn=978-986-02-0969-3 |ref={{sfnref|李明仁|2009}} }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Taibao City, Chiayi County |n=no |q=no |s=no |author=no |b=no |v=no |voy=太保 }}
+*[http://taibao.cyhg.gov.tw/ 太保市公所]{{Wayback|url=http://taibao.cyhg.gov.tw/ |date=20060429003851 }}
+*[http://www.npm.gov.tw/sbranch/c_p.htm 國立故宮博物院南部院區]{{Wayback|url=http://www.npm.gov.tw/sbranch/c_p.htm |date=20110219063720 }}
+
+{{嘉義縣行政區劃}}
+{{臺灣建制市列表}}
+
+{{Good article}}
+{{Authority control}}
+
+[[Category:台灣縣轄市]]
+[[Category:臺灣縣治]]
+[[Category:太保市| ]]
+[[Category:嘉義市已撤銷行政區劃]]
+[[Category:1991年台灣建立]]

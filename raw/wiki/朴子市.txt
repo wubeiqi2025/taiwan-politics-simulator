@@ -1,0 +1,560 @@
+{{Multiple issues|
+{{Original research|time=2024-07-27T06:07:43+00:00}}
+{{Refimprove|time=2024-07-27T06:07:43+00:00}}
+}}
+{{coord|23.433899|N|120.250671|E|format=dec|name=Puzih|display=title}}
+{{redirect|朴子|其他名為朴子的地名}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[嘉義縣]]
+|行政區名稱= 朴子市
+|外文名稱= Puzi City
+|外文語言= [[威妥瑪拼音]]+英語
+|旗文件名= 
+|徽文件名= 
+|代表圖像= {{multiple image |border=infobox |total_width=280 |image_style=border:1; |perrow=1/2/2 |image1=Mei-Ling Fine Arts Museum 20180603.jpg |image2=朴子配天宮01.JPG |image3=嘉義長庚紀念醫院 04.jpg |image4=嘉義縣警察局朴子分局 20110220.jpg |image5=PuzihTrainPark.jpg }}
+|代表圖像名稱= 上：[[梅嶺美術館]]<br>中：[[朴子配天宮]]、[[長庚紀念醫院|嘉義長庚紀念醫院]]<br>下：[[東石郡役所|嘉義縣警察局朴子分局]]、朴子火車頭公園
+{{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 市旗
+|徽= 市徽
+|行政機關首長職稱= 市長
+|行政區類別= [[縣轄市]]
+|行政機關首長姓名= [[吳品叡]]
+|舊稱= 樸仔樹腳<ref>諸羅縣志-1685年樸仔樹腳</ref>、樸仔腳
+|簡稱= 
+|設立始年= 1901年（設立「樸仔脚區」，轄屬[[嘉義廳]]樸仔脚支廳）<br>1920年（改制為[[朴子街]]，轄屬[[臺南州]][[東石郡]]）<br>1945年（日本投降，改制朴子鎮，轄屬[[臺南縣]][[縣轄區 (中華民國)|東石區]]）<br>1950年（嘉義設縣，改隸[[嘉義縣]]）<br>1992年（縣議會遷此，改制為縣轄市「朴子市」）
+|區劃= 27[[村里|里]]430[[鄰]]
+|government=[[嘉義縣朴子市公所|朴子市公所]]
+|legislature=[[嘉義縣朴子市民代表會|朴子市民代表會]]
+|行政機關網站={{url|https://puzi.cyhg.gov.tw/}}
+|總面積= {{TWTSData|A|613}}
+|總人口= {{TWTSData|P|613}}<ref name="puzih-hro">{{cite web |url=https://puzih-hro.cyhg.gov.tw/News.aspx?n=3141&sms=16078 |title=人口統計-村里鄰人口數-朴子市村里鄰人口數 |access-date=2025-02-03 |publisher=嘉義縣朴子戶政事務所 |language=zh-tw }}</ref><ref name="civil.cyhg">{{cite web |url=https://civil.cyhg.gov.tw/News6.aspx?n=960E6AF4E0D04C0A&sms=EF2A0194AD2D3967 |title=最新消息-公告資訊 |publisher=嘉義縣政府民政處 |access-date=2025-02-03 |language=zh-tw |archive-date=2021-01-20 |archive-url=https://web.archive.org/web/20210120040528/https://civil.cyhg.gov.tw/News6.aspx?n=960E6AF4E0D04C0A&sms=EF2A0194AD2D3967 |dead-url=yes }}</ref><ref name="ris.gov.tw">{{cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |author=內政部戶政司 |access-date=2025-02-03 |publisher=中華民國 內政部戶政司 全球資訊網 |language=zh-tw |archive-date=2021-03-19 |archive-url=https://web.archive.org/web/20210319074202/https://www.ris.gov.tw/app/portal/346 |dead-url=no }}</ref>
+|population_rank = 嘉義縣的第4位
+|總人口年份= {{TWTSData|P|date}}
+|household= {{TWTSData|H|613}}<ref name="puzih-hro"/><ref name="civil.cyhg"/><ref name="ris.gov.tw"/>
+|postal_code=613
+|adjacent= [[六腳鄉]]、[[東石鄉 (台灣)|東石鄉]]、[[布袋鎮]]、[[義竹鄉]]、[[鹿草鄉]]、[[太保市]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Phúchṳ́ - Phohchú - (Puzi, Chiayi County).svg|center|300px|朴子市位置圖]]
+</div>
+}}
+[[File:朴子市中心.JPG|thumb|200px|朴子市中心]]
+'''朴子市'''{{NoteTag|「朴子」一名來自[[朴樹]]，「朴」字做樹名時發音為-{zh-tw:ㄆㄛˋ;zh-cn:pò;}-，發音為-{zh-tw:ㄆㄨˊ;zh-cn:pú;}-時為「質-{樸}-」的-{樸}-的通同字<ref>{{cite web |url=https://dict.revised.moe.edu.tw/dictView.jsp?ID=617 |title=朴 |publisher=中華民國教育部 |work=《重編國語辭典修訂本》臺灣學術網路第六版 |date= |accessdate=2025-01-04 |language=zh-tw |archive-date=2023-04-13 |archive-url=https://web.archive.org/web/20230413155912/https://dict.revised.moe.edu.tw/dictView.jsp?ID=617 |dead-url=no }}</ref>。然而作為「朴子市」時，仍發為-{zh-tw:ㄆㄨˊ;zh-cn:pú;}-音<ref>{{cite web |url=https://dict.revised.moe.edu.tw/dictView.jsp?ID=26368 |title=朴子市 |publisher=中華民國教育部|work=《重編國語辭典修訂本》臺灣學術網路第六版 |date= |accessdate=2025-01-04|language=zh-tw }}</ref>。}}，舊稱「樸仔樹腳」，後稱「樸仔腳」，得名自[[朴子配天宮]]<ref>余文儀《續修臺灣府志》：「朴仔腳街，舊為猴樹港街，今更名。」</ref>，前身「朴子鎮」，位於[[臺灣]][[嘉義縣]]西部，嘉義縣海線地區的中心城鎮，是一個因[[媽祖]]而興起的聚落<ref name="history">{{cite web |url=http://puzih.cyhg.gov.tw/html/sec_8.html |title=樸仔腳的故事-嘉義縣朴子市公所全球資訊網 |publisher=朴子市公所 |date= |accessdate=2015-11-01 |archiveurl=https://web.archive.org/web/20150511064643/http://puzih.cyhg.gov.tw/html/sec_8.html |archivedate=2015-05-11 |language=zh-tw }}</ref>，由於地理位置關係而與[[北港鎮 (台灣)|北港鎮]]往來密切。
+
+1945年將[[朴子街]]改制[[臺南縣]][[東石郡|東石區]]朴子鎮，1950年改隸嘉義縣，1992年因[[嘉義縣議會]]遷設於該地，成為嘉義縣治的一部份，改制為縣轄市。在[[高鐵嘉義站]]、[[嘉義BRT]]開通後，往[[嘉義市]]通勤比例逐漸成長，交流愈趨頻繁。
+
+==歷史==
+舊名猴樹，[[荷治時期]]《[[熱蘭遮城日誌]]》中即出現「Causieu」，即猴樹（kâu-tshīu）之[[閩南語]]音。[[臺灣清治時期|清領時代]]1747年（[[乾隆]]12年）《重修台灣府志》記載為「猴樹港街」，清乾隆29年《續修台灣府志》則記載：「朴仔腳街，舊為猴樹港街，今更名。」清朝年間，樸仔腳<ref name="history"/>地區僅有數間農舍及數株[[朴樹|樸仔樹]]。樸仔樹蒼翠成蔭，樹下逐漸成為旅途者或居民所休息乘涼好地方。1682年（[[康熙]]21年），林馬從湄洲祖廟迎請媽祖，欲至居住地布袋嘴半月庄供祀，經牛稠溪{{〈}}朴子溪{{〉}}南岸樸仔樹下休息。當地民眾聞訊聚集參拜，並奉神意指示要停住此地，故在此樹下立廟稱為樸樹宮。清乾隆54年（1789年），樸樹宮奉令改為「配天宮」。當地便以媽祖廟為中心，逐漸發展成市鎮，當地因於樸仔樹下建廟，奉祀媽祖而發跡，於是取名「樸仔腳」。指樸仔樹下的意思，「腳」是台語「下」的意思。而[[樸樹]]也因而成為朴子市的市樹。
+
+清治時期各街-{庄}-分屬：
+*[[大槺榔西堡]]內之樸仔腳街、下竹圍-{庄}-、雙溪口-{庄}-、大槺榔-{庄}-、小槺榔-{庄}-；
+*[[大坵田西堡]]內之應菜埔-{庄}-、崁前-{庄}-、崁後-{庄}-、龜仔港-{庄}-、鴨母藔-{庄}-、吳竹仔腳-{庄}-、新-{庄}-；
+*[[白鬚公潭堡]]內之牛挑灣-{庄}-、南勢竹-{庄}-。
+
+1901年11月23日'''樸仔腳抗暴事件'''，黃茂松率眾進攻樸仔腳街官署。<ref>{{Cite web |title=讀冊絕不是簡單的事（二）－樸仔腳事件 |url=https://www.samsiugarden.com/post/%E8%AE%80%E5%86%8A%E7%B5%95%E4%B8%8D%E6%98%AF%E7%B0%A1%E5%96%AE%E7%9A%84%E4%BA%8B%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%8D%E6%A8%B8%E4%BB%94%E8%85%B3%E4%BA%8B%E4%BB%B6 |website=三秀園 |date=2026-08-16 |language=zh |last=Un-Hông） |first=傅恩弘（Pòo |access-date=2026-10-20}}</ref> 1911年[[蒜頭糖廠]][[台灣糖業鐵路|運蔗鐵道]][[朴子線]]通車。1911年設立樸仔腳區，隸屬[[嘉義廳]]樸仔腳支廳，管轄[[大槺榔西堡]]內之[[樸仔腳街]]、[[下竹圍]]-{庄}-、[[雙溪口 (嘉義縣朴子市)|雙溪口]]-{庄}-、[[大槺榔 (嘉義縣)|大槺榔]]-{庄}-、[[小槺榔]]-{庄}-、[[下雙溪 (嘉義縣)|下雙溪]]-{庄}-、[[溪墘厝]]-{庄}-；[[大坵田西堡]]內之[[𧃽菜埔]]-{庄}-、[[崁前]]-{庄}-、[[崁後]]-{庄}-、[[龜子港 (嘉義縣)|龜仔港]]-{庄}-、[[鴨母寮 (嘉義縣)|鴨母藔]]-{庄}-、[[吳竹仔腳]]-{庄}-、[[新庄 (嘉義縣朴子市)|新-{庄}-]]、[[馬稠後 (嘉義縣)|馬稠後]]-{庄}-。([[牛挑灣 (嘉義縣)|牛挑灣]]-{庄}-、[[南勢竹]]-{庄}-屬南勢竹區)
+
+[[File:PuzihPrecinctOfChiayiCountyPoliceBureau.jpg|thumb|250px|[[嘉義縣警察局]]朴子分局]]
+1920年（大正9年），[[臺灣總督府]]實施州廳－郡市—街-{庄}-三級地方區劃，改樸仔腳為朴子，'''樸仔腳區'''下雙溪、溪墘厝改隸-{[[六腳庄]]}-，馬稠後改隸-{[[鹿草庄]]}-，其餘改制[[朴子街]]隸屬[[臺南州]][[東石郡]]，並為'''東石郡役所'''駐地（今[[中華民國警察分局列表#嘉義縣警察局|朴子警分局]]廳舍）。(牛挑灣、南勢竹屬-{[[義竹庄]]}-)1932年-{[[六腳庄]]}-下雙溪居民因[[朴子溪]]洪水氾濫集體遷村，在'''樸仔腳'''與'''雙溪口'''間重建家園，建成'''新吉-{庄}-'''（新結-{庄}-仔）與'''下寮仔'''。1934年興建朴子水塔，塔高35公尺，至今仍為朴子最顯著的地標。1936年（昭和11年）9月10日東石神社鎮座。（今朴子藝術公園）
+
+[[臺灣戰後時期|戰後]]1945年10月，[[中華民國政府]]接管臺灣，將日治時期的五州三廳改為八縣九省轄市二縣轄市{{r|市志卷之二|p=114}}。12月11日，朴子街改為朴子鎮，屬[[臺南縣]]東石區<ref name="history"/>。1950年10月，將[[嘉義市 (1945年—1950年)|嘉義市]]與嘉義、東石兩區合併設立[[嘉義縣]]，並裁撤區署{{r|市志卷之二|p=114}}，朴子鎮改隸嘉義縣<ref name="history"/>。1962年，朴子鎮將原屬[[義竹鄉]]的梅華村、松華村和南竹村等3個村納入鎮域{{sfn|施添福|2008|p=70}}。1982年7月1日，嘉義市改制為[[嘉義市|省轄市]]，嘉義新縣治所在地選擇跨越[[太保市|太保]]、朴子兩地的台糖東勢寮農場地，其中[[嘉義縣議會|縣議會]]位於朴子鎮內{{r|市志卷之二|p=114}}。1992年6月9日，嘉義縣議會臨時會議提案〈擬將本縣朴子鎮改制為縣轄市〉議決通過，報奉[[臺灣省政府]]。8月24日，臺灣省政府核定提案。9月10日，朴子鎮改制為[[縣轄市]]「朴子市」{{r|市志卷之二|p=115}}。
+
+== 地理 ==
+=== 地形 ===
+朴子市位於嘉義縣西部，距離[[台灣海峽]]12公里，東接[[太保市]]、[[鹿草鄉]]，西連[[東石鄉]]和[[布袋鎮]]，南毗[[義竹鄉]]，北隔[[朴子溪]]與[[六腳鄉]]相望。地處[[嘉南平原]]西北端，海拔高度平均約為5公尺，整體地勢低而平緩，地層上皆由沖積層所構成，土壤則以砂質壤土及粘土為主{{r|市志卷之一|p=17}}。
+
+=== 氣候 ===
+朴子市氣候為[[熱帶季風氣候]]，年平均溫度皆在攝氏20度以上。根據1985年至1994年[[行政院農業委員會臺南區農業改良場|臺南農業改良場]]朴子分場農業氣象站的資料顯示，朴子市的年均溫約在23.6度至26.9度間，最熱月份為7月的30.7度，最冷為1月的18.0度。年平均降雨量則介於1,100毫米至1,900毫米之間，雨季集中於4月至9月{{r|市志卷之一|pp=17－19}}。
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|location = 朴子(平均數據2016–2023 極端數據2016至今)
+|Jan high C = 21.7
+|Feb high C = 22.2
+|Mar high C = 25.2
+|Apr high C = 27.9
+|May high C = 30.4
+|Jun high C = 32.1
+|Jul high C = 32.5
+|Aug high C = 32.0
+|Sep high C = 32.0
+|Oct high C = 30.0
+|Nov high C = 27.3
+|Dec high C = 23.1
+|year high C = 
+|Jan mean C = 17.1
+|Feb mean C = 17.5
+|Mar mean C = 20.4
+|Apr mean C = 23.5
+|May mean C = 26.5
+|Jun mean C = 28.3
+|Jul mean C = 28.9
+|Aug mean C = 28.4
+|Sep mean C = 28.0
+|Oct mean C = 25.6
+|Nov mean C = 22.7
+|Dec mean C = 18.8
+|year mean C = 
+|Jan low C = 14.3
+|Feb low C = 14.4
+|Mar low C = 16.9
+|Apr low C = 20.2
+|May low C = 23.5
+|Jun low C = 25.3
+|Jul low C = 25.9
+|Aug low C = 25.7
+|Sep low C = 25.2
+|Oct low C = 22.7
+|Nov low C = 19.7
+|Dec low C = 15.9
+|year low C =  
+|Jan record high C = 29.2 |Jan record low C = 4.9
+|Feb record high C = 31.4 |Feb record low C = 7.3
+|Mar record high C = 31.1 |Mar record low C = 9.4
+|Apr record high C = 32.1 |Apr record low C = 12.7
+|May record high C = 34.5 |May record low C = 15.8
+|Jun record high C = 35.3 |Jun record low C = 22.9
+|Jul record high C = 35.2 |Jul record low C = 21.8
+|Aug record high C = 34.9 |Aug record low C = 22.7
+|Sep record high C = 34.9 |Sep record low C = 21.2
+|Oct record high C = 34.2 |Oct record low C = 15.3
+|Nov record high C = 32.4 |Nov record low C = 12.0
+|Dec record high C = 29.8 |Dec record low C = 8.6
+|year record high C =   |year record low C = 
+|precipitation colour = green
+|Jan precipitation mm = 30.4
+|Feb precipitation mm = 21.8
+|Mar precipitation mm = 49.3
+|Apr precipitation mm = 82.2
+|May precipitation mm = 155.4
+|Jun precipitation mm = 253.3
+|Jul precipitation mm = 210.2
+|Aug precipitation mm = 326.9
+|Sep precipitation mm = 115.3
+|Oct precipitation mm = 17.2
+|Nov precipitation mm = 11.8
+|Dec precipitation mm = 29.4
+|year precipitation mm = 1303.1
+|Jan precipitation days = 4.4
+|Feb precipitation days = 3.7
+|Mar precipitation days = 6.1
+|Apr precipitation days = 6.3
+|May precipitation days = 8.9
+|Jun precipitation days = 12.8
+|Jul precipitation days = 11.9
+|Aug precipitation days = 15.1
+|Sep precipitation days = 5.6
+|Oct precipitation days = 3.0
+|Nov precipitation days = 2.6
+|Dec precipitation days = 3.4
+|year precipitation days = 
+|Jan humidity = 80.4
+|Feb humidity = 79.7
+|Mar humidity = 79.2
+|Apr humidity = 79.6
+|May humidity = 82.7
+|Jun humidity = 83.4
+|Jul humidity = 81.7
+|Aug humidity = 84.3
+|Sep humidity = 80.1
+|Oct humidity = 78.4
+|Nov humidity = 80.3
+|Dec humidity = 78.3
+|source 1 = Central Weather Administration<ref name= CWA>{{cite web 
+|url = https://codis.cwa.gov.tw/StationData 
+|title = 月報表(逐日資料) : 朴子 (C0M650) 
+|publisher = Central Weather Administration 
+|access-date = 20 January 2025 
+|archive-date = 2024-10-07 
+|archive-url = https://web.archive.org/web/20241007104245/https://codis.cwa.gov.tw/StationData 
+|dead-url = no 
+}}</ref>
+|source 2 = Atmospheric Science Research and Application Databank (precipitation days and humidity 2015–2024)<ref name= ASRAD>{{cite web 
+|url = https://asrad.pccu.edu.tw/catalog/clim/ 
+|title = 中央氣象署 測站氣候資料 : 嘉義朴子 C0M650 
+|publisher = Atmospheric Science Research and Application Databank 
+|access-date = 20 January 2025 
+|archive-date = 2025-06-10 
+|archive-url = https://web.archive.org/web/20250610103726/https://asrad.pccu.edu.tw/catalog/clim/ 
+|dead-url = no 
+}}</ref>
+}}
+
+=== 人口 ===
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{cite web |url=https://puzih-hro.cyhg.gov.tw/cp.aspx?n=3146 |title=人口統計-歷年人口數-朴子市歷年人口數 |access-date=2025-02-03 |publisher=嘉義縣朴子戶政事務所 |language=zh-tw }}
+# {{cite web|url=http://sowf.moi.gov.tw/stat/month/list.htm |publisher=[[中華民國內政部|內政部]] |title=內政部統計月報-各鄉鎮市區人口數 |deadurl=yes |archiveurl=https://web.archive.org/web/20141026121339/http://sowf.moi.gov.tw/stat/month/list.htm |archivedate=2014-10-26 }}
+|1946	|30989
+|1951	|30515
+|1956	|34182
+|1961	|38814
+|1966	|48277
+|1971	|50430
+|1976	|48856
+|1981	|46855
+|1986	|45892
+|1991	|45046
+|1996	|44667
+|2001	|44296
+|2006	|44329
+|2011	|43895
+|2016	|42585
+|2021	|41256
+
+}}
+戰後初期，1946年朴子市的人口計有30,989人，至1970年代之前由於自然增加的因素，人口持續正成長<ref name="黃"/>。1971年時，朴子市人口達到50,430人，是戰後以來的最高值<ref name="pzhro3146">{{cite web |url=https://puzih-hro.cyhg.gov.tw/cp.aspx?n=3146 |title=人口統計-歷年人口數-朴子市歷年人口數 |access-date=2025-02-03 |publisher=嘉義縣朴子戶政事務所 |language=zh-tw }}</ref>。其後隨著都市化的因素，人口開始外流<ref name="羅"/>。1992年底時朴子市尚有45,018人，至2016年時已下滑至42,585人<ref>{{Cite web |author=吳佳蓉、謝惠伃 |url=https://enews.ccu.edu.tw/%E5%BB%BA%E8%A8%AD%E6%95%B4%E5%90%88%E8%A8%88%E7%95%AB-%E6%9C%B4%E5%AD%90%E5%B8%82%E7%9B%BC%E8%BD%89%E5%9E%8B-9709eae87489 |title=建設整合計畫 朴子市盼轉型 |publisher=中正E報 |date=2017-11-29 |access-date=2020-03-18 |language=zh-tw |archive-date=2020-12-02 |archive-url=https://web.archive.org/web/20201202073221/https://enews.ccu.edu.tw/%E5%BB%BA%E8%A8%AD%E6%95%B4%E5%90%88%E8%A8%88%E7%95%AB-%E6%9C%B4%E5%AD%90%E5%B8%82%E7%9B%BC%E8%BD%89%E5%9E%8B-9709eae87489 |dead-url=no }}</ref><ref name="pzhro3146"/>。根據嘉義縣朴子戶政事務所及嘉義縣政府民政處統計，2025年底朴子市戶數約1.7萬戶，人口約4萬人<ref name="puzih-hro"/>，是嘉義縣海線地區的最大城市<ref name="civil.cyhg"/>。
+
+與嘉義縣其他地區相同，朴子市面臨嚴重[[人口老化]]與[[少子化]]的問題<ref name="ris.gov.tw"/>。朴子市的人口金字塔由戰後初期的等腰三角形，至1970年時已呈現燈籠形。在2010年時，進入高齡社會<ref name="黃"/>，到了2022年2月老年人口達到20%，進入超高齡社會<ref name="ris.gov.tw"/>。2025年底時，朴子市人口的年齡構成中，有11.28%的人口年齡在0至14歲，66.55%是15至64歲人口，65歲以上人口則有22.17%，老化指數約為196.56%<ref>{{Cite web |url=https://puzih-hro.cyhg.gov.tw/News.aspx?n=3143&sms=16080 |title=人口統計-性別年齡人口數-朴子市性別年齡層人口數 |access-date=2025-02-03 |publisher=嘉義縣朴子戶政事務所 |language=zh-tw }}</ref>，是臺灣老年人口比例最高、老化指數最高的縣轄市<ref name="ris.gov.tw"/>。朴子市的性別比例，戰後初期主要為女多於男，在1969年之後則是男多於女<ref name="黃"/>，至2025年底時男對女性別比約為100.13%<ref name="puzih-hro"/>，為嘉義縣最低<ref name="civil.cyhg"/>。
+
+朴子市的人口分布上，早期人口主要集中在市街，之後則是逐漸往東、西與南方等地移動，市街南邊的竹圍里在1950年至2010年間，人口成長超過8倍，是人口遷入的重心所在<ref name="黃"/>。朴子市的朴子、下竹圍、𧃽菜埔、大槺榔及部分的祥和新村等5個聚落是人口集中區，此5個聚落的總人口數，佔全市人口數的一半左右<ref name="羅"/>。除市街地區外，其他各-{里}-由於面積相對較大，人口密度相對偏低<ref name="黃"/>。2025年底時，朴子市內人口最多與最少的里分別是竹圍里與順安里，兩里人口分別為5,033人與235人<ref name="puzih-hro"/>；人口密度最高與最低的里分別是平和里與順安里，兩里人口密度分別為每平方公里11,343人與154人<ref>{{cite web |url=https://puzi.cyhg.gov.tw/cp.aspx?n=9568 |title=觀光導覽-村里導覽 |access-date=2025-01-27 |publisher=嘉義縣朴子市公所 |language=zh-tw }}</ref><ref name="puzih-hro"/>。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Puzi population.chart|data=Puzi population.tab}}
+</div>{{clear}}
+
+== 政治 ==
+===歷任市長===
+{{see also|朴子市市長}}
+{| style="text-align:center" class="wikitable" width="50%"
+!width="3%" | 屆次
+!width="5%" | 姓名
+!width="7%" | 黨籍
+!width="17%"| 任職期間
+!width="8%" | 備註
+|-
+| 1
+| 王朝榮
+|rowspan=4|{{NONP}}
+| 1992年9月10日－1994年2月8日
+| 末任鎮長改聘
+|-
+| 2
+| 吳國禎
+| 1994年3月1日－1998年2月28日
+| 
+|-
+| 3
+|rowspan=2|黃純真
+| 1998年3月1日－2002年2月28日
+| 
+|-
+| 4
+| 2002年3月1日－2006年2月28日
+| 
+|- style="background:#99FF66
+| 5
+| 黃麗貞
+|rowspan=3|{{DPP}}
+| 2006年3月1日－2010年2月28日
+| 
+|- style="background:#99FF66
+| 6
+|rowspan=2|王如經
+| 2010年3月1日－2014年12月25日
+| 
+|- style="background:#99FF66
+| 7
+| 2014年12月25日－2018年12月25日
+| 
+|-
+| 8
+|rowspan=2|吳品叡
+|rowspan=2|{{NONP}}
+| 2018年12月25日－2022年12月25日
+|
+|-
+| 9
+| 2022年12月25日－現任
+|
+|}
+{{clear}}
+
+=== 市政組織 ===
+[[File:PuzihCityOffice.jpg|thumb|250px|舊朴子市公所，已於2021年拆除<ref>{{cite news|url=https://www.chinatimes.com/newspapers/20210327000515-260107?chdtv |author=張毓翎 |title=〈朴子公所舊廳舍將拆除 員工不捨〉|publisher=中國時報 |date=2021-03-27}}</ref>]]
+[[File:朴子市日據時代風格警局(光復路).jpg|thumb|朴子分局（原東石郡役所）]]
+'''朴子市公所'''是朴子市最高層級的地方[[行政機關]]，在中華民國政府架構中為縣轄市自治的行政機關，同時負責執行縣政府及中央機關委辦事項，朴子市的自治監督機關為[[嘉義縣政府]]。市長由全體市民直接選舉產生，任期為四年，可連選連任一次。朴子市公所並置市政會議，為市政最高決策機構，在市長之下，設有5課4室等9個內部單位及4個附屬機關<ref>{{cite web| language=zh-tw| url=http://puzih.cyhg.gov.tw/content/index.aspx?Parser=1,4,31| title=公所簡介-組織架構-嘉義縣朴子市公所全球資訊網| publisher=朴子市公所| date=| accessdate=2017-04-20| archive-url=https://web.archive.org/web/20170421195118/http://puzih.cyhg.gov.tw/content/index.aspx?Parser=1,4,31| archive-date=2017-04-21| dead-url=yes}}</ref>。
+
+[[嘉義縣朴子市民代表會|朴子市民代表會]]是朴子市的最高[[民意機關]]，代表朴子市全體市民立法和監察市政。市民代表由公民直選選出，任期為四年，可連選連任。朴子市民代表會共有11位市民代表，分別為第一選區5席市民代表、第二選區4席市民代表、第三選區2席市民代表，主席、副主席由11位市民代表互選產生<ref>{{cite web| language=zh-tw| url=http://puzih.cyhg.gov.tw/content/index.aspx?Parser=1,7,53| title=市民代表會-嘉義縣朴子市公所全球資訊網| publisher=朴子市公所| date=| accessdate=2017-04-19| archive-url=https://web.archive.org/web/20170421195042/http://puzih.cyhg.gov.tw/content/index.aspx?Parser=1,7,53| archive-date=2017-04-21| dead-url=yes}}</ref>。
+
+[[臺灣嘉義地方法院]]是朴子市的第一級[[司法機關]]，負責初審的司法案件，並在市內設有朴子簡易庭，為嘉義海線地區小型訴訟的申訴機關。
+
+=== 行政區 ===
+現今朴子市行政範圍的確立，來自於1962年調整行政區域，將原屬義竹鄉的松華村、梅華村、南竹村等3村劃入朴子鎮{{R|縣志政事志|p=37}}。1992年7月1日，朴子鎮改制為「朴子市」{{r|市志卷之二|p=115}}。
+
+朴子市共轄27里，依據朴子市民代表會的選區劃分，可分為三個區域，其行政區域分布情形為：
+
+{| class="wikitable"
+!次分區
+! colspan="10" |里名
+|-
+!第一選區
+|安福里||內厝里||平和里||開元里||順天-{里}-||博厚里||文化里||中正里||竹圍里||永和里
+|-
+!第二選區
+| -{双}-溪里||溪口-{里}-||仁和里||德興里||大鄉里||大葛里||佳禾里||新寮里||||
+|-
+!第三選區
+|竹村里||崁前里||順安里||崁後里||德家-{里}-||新-{庄里}-||梅華里||松華里||南竹里||
+|}
+
+== 經濟 ==
+朴子市的產業結構上，一級產業人口最多，三級產業居中，二級產業墊底<ref name="羅"/>。
+
+=== 工業 ===
+* [[朴子工業區]]
+
+== 文化 ==
+=== 宗教 ===
+*台灣基督長老教會朴子教會:創立於1899年
+*[[朴子配天宮]]:台灣嘉義縣現存著名且淵源古老的媽祖廟之一。
+*[[朴子鎮安宮]]：創建於清道光年間，奉祀林府九千歲、魏蕭雷三府千歲及同祀五年千歲。
+*龍樹亭：創立於1662年，奉尊[[觀世音菩薩]]並合祀太子爺。
+*寶龍宮：創立於1821年，奉祀主神為[[吳府千歲]]，係分靈於[[南鯤鯓代天府]]。
+*新福宮：創立於1840年，主祀[[五府千歲]]。
+*保安宮：創立於1856年，主祀王爺公。
+*山西宮：創立於1902年，主祀[[關聖帝君]]。
+*大槺榔鎮安宮：創立於1902年，主祀金府千歲，發祥於褒忠[[馬鳴山鎮安宮]]。
+*大槺榔無極應天宮：主祀南極太子祖師。
+*永安宮：創立於1946年，主祀[[邢府千歲]]。
+*聖善寺：前身名為「妙德寺」。<ref>{{Cite web |url=http://www.fjdh.cn/ffzt/fjhy/jxhjsl2012/11/121424194685.html |title=聖善寺 |access-date=2021-05-08 |archive-date=2021-08-24 |archive-url=https://web.archive.org/web/20210824073645/http://www.fjdh.cn/ffzt/fjhy/jxhjsl2012/11/121424194685.html |dead-url=no }}</ref>
+*財團法人臺灣省嘉義縣朴子高明寺<ref>{{Cite web |url=http://www.gaoming.org.tw/chinese/about.php |title=正心山高明寺 |access-date=2021-05-08 |archive-date=2021-08-24 |archive-url=https://web.archive.org/web/20210824073709/http://www.gaoming.org.tw/chinese/about.php |dead-url=no }}</ref>
+*靜修精舍<ref>{{Cite web |url=http://www.fjdh.cn/ffzt/fjhy/jxhjsl2012/11/121514194686.html |title=靜修精舍 |access-date=2021-05-08 |archive-date=2021-05-08 |archive-url=https://web.archive.org/web/20210508094426/http://www.fjdh.cn/ffzt/fjhy/jxhjsl2012/11/121514194686.html |dead-url=no }}</ref>
+
+=== 文化資產 ===
+*[[朴子配天宮]]（縣定古蹟）
+*[[東石郡役所]]（縣定古蹟，今朴子警分局）
+*[[朴子水道配水塔]]（縣定古蹟）
+*[[朴子日新醫院|日新醫院]]（縣定古蹟）
+*[[牛挑灣吳杯初濟生病院]]（歷史建築）
+*[[朴子國小舊禮堂]]（歷史建築）
+*[[原牛挑灣公學校校長宿舍]]（歷史建築）
+*[[東石神社|朴子原東石神社]]（歷史建築）
+
+=== 體育 ===
+*嘉義縣立體育館
+
+== 教育 ==
+1898年9月8日設立嘉義國語傳習所樸仔腳分教場，同年10月1日改為樸仔腳公學校，朴子新式教育之始。
+1972年9月，鎮內兩所國中協議實施男女分校，[[嘉義縣立東石國民中學|東石國中]]限收男生，[[嘉義縣立朴子國民中學|朴子國中]]專收女生，至今兩校招收學生的性別比仍然可見痕跡。
+1979年朴子國小少棒隊奪得全國少棒冠軍、遠東區少棒冠軍及[[世界少棒大賽]]冠軍。
+
+=== 大專院校 ===
+{| align="center" class="toc" width="100%"
+|----- style="background:#DDFF78"
+| align ="center" width="5%" | #
+| align ="center" width="30%" | 學校名稱
+| align ="center" width="35%" | 學校地址
+|-----
+| align ="center" | 1 || [[稻江科技暨管理學院]]
+|朴子市學府路二段51號
+|-----
+| align ="center" | 2 ||[[長庚科技大學]](嘉義校區)
+|朴子市嘉朴路西段2號
+|-----
+|}
+
+=== 高級中等學校 ===
+{| align="center" class="toc" width="100%"
+|----- style="background:#DDFF78"
+| align ="center" width="5%" | #
+| align ="center" width="20%" | 學校名稱
+| align ="center" width="10%" | 學校類型
+| align ="center" width="35%" | 學校地址
+|-----
+| align ="center" | 1 || [[國立東石高級中學]]
+| align ="center" width="10%" | 普通型
+| 朴子市大鄉里大槺榔253號
+|-----
+| align ="center" | 2 || [[嘉義縣私立弘德高級工商職業學校|私立弘德高級工商職業學校]]
+| align ="center" width="10%" | 技術型
+| 朴子市崁後里54之2號
+|-----
+| align ="center" | 1 || [[國立嘉科實驗高級中等學校]]<ref>{{cite news |title=政院核定嘉義科學園區85億開發啟動 實驗中學後年招生 |url=https://udn.com/news/story/7326/6004037 |accessdate=2022-01-23 |archive-date=2022-01-27 |archive-url=https://web.archive.org/web/20220127193815/https://udn.com/news/story/7326/6004037 |dead-url=no }}</ref>
+| align ="center" width="10%" | 
+| 朴子市學府路二段51號
+|}
+
+=== 國民中學 ===
+{| align="center" class="toc" width="100%"
+|----- style="background:#DDFF78"
+| align ="center" width="5%" | #
+| align ="center" width="30%" | 學校名稱
+| align ="center" width="34%" | 學校地址
+| align ="center" width="30%" | 備註
+|-----
+| align ="center" | 1 || [[嘉義縣立朴子國民中學]]
+| 朴子市大同路245號
+|女校
+|-----
+| align ="center" | 2 || [[嘉義縣立東石國民中學]]
+| 朴子市山通路6號
+|男校
+|}
+
+=== 國民小學 ===
+{| align="center" class="toc" width="100%"
+|----- style="background:#DDFF78"
+| align ="center" width="18%"|學校名稱
+| align ="center" width="7%"|所在地
+| align ="center" width="20%"|學區
+|-----
+|嘉義縣朴子市朴子國民小學
+|市區東
+| 
+|-
+|嘉義縣朴子市松梅國民小學
+|牛挑灣
+| 松華里、梅華里、南竹里
+|-
+|嘉義縣朴子市大同國民小學
+|市區西
+| 
+|-
+|嘉義縣朴子市竹村國民小學
+|鴨母寮
+| 竹村-{里}-、崁前里、崁後里、順安里、新-{庄里}-、德家-{里}-
+|-
+|嘉義縣朴子市雙溪國民小學
+|雙溪口
+| 
+|-
+|嘉義縣朴子市大鄉國民小學
+|大槺榔
+|大鄉里、大葛里、佳禾里
+|-
+|嘉義縣朴子市祥和國民小學
+|祥和新村
+| 
+|}
+
+== 醫院 ==
+[[File:嘉義長庚紀念醫院 20110220.jpg|thumb|250px|嘉義長庚紀念醫院]]
+1985年4月7日，省立朴子醫院開業（今[[衛生福利部|衛福部]]朴子醫院）。
+2001年1月16日[[長庚醫院]]嘉義院區開業。
+*[[長庚紀念醫院|嘉義長庚紀念醫院]]
+*[http://www.puzih.mohw.gov.tw/  衛生福利部朴子醫院] {{Wayback|url=http://www.puzih.mohw.gov.tw/ |date=20141113150333 }}
+
+== 交通 ==
+=== 公路 ===
+*[[File:TW PHW82.svg|23px|省道]][[台82線]]（東西向快速公路 東石嘉義線）
+**{{TWFreewayIC|10|朴子}}[[朴子交流道]]
+*[[File:TW PHW19.svg|23px]][[台19線]]：[[六腳鄉]]－'''朴子市'''－[[義竹鄉]]
+*[[File:TW_CHW157.svg|23px|縣道]][[縣道157號]]：六腳朴子界 -朴子公園（與縣道168號共線起點）－朴子市－[[布袋鎮]]過溝 
+*[[File:TW_CHW161.svg|23px|縣道]][[縣道161號]]：0k應菜埔（縣道168號岔路）－崁後－龜仔港－朴子布袋界
+*[[File:TW_CHW167.svg|23px|縣道]][[縣道167號]]：0k朴子（縣道168號岔路）－大槺榔－苦瓜寮－朴子鹿草界
+*[[File:TW_CHW168.svg|23px|縣道]][[縣道168號]]：東石鄉－朴子市－太保市
+*[[File:TW_CHW170.svg|23px|縣道]][[縣道170號]]：布袋鎮－朴子市－鹿草鄉
+
+=== 鐵路 ===
+1999年3月6日[[蒜頭糖廠]][[台灣糖業鐵路|運蔗鐵道]][[朴子線]]停止營運，並陸續拆除鐵軌。
+
+=== [[File:BRT Chiayi CIS (English Type 1).svg|30px]][[嘉義BRT]] ===
+[[嘉義公車捷運]]（嘉義BRT）為朴子市最主要的聯外交通方式，於朴子市境內設有多個站點，可快速連通[[嘉義市]]、[[嘉義車站]]、[[嘉義交流道 (國道1號)|嘉義交流道]]、[[高鐵嘉義站]]、[[太保市]]等地
+*縣政府站：位於朴子市與太保市的交界
+*長庚醫院站
+*長庚醫院新站
+*大槺榔站
+*東石國中站（往嘉義縣立體育館方面單邊設站）
+*東石高中站（往[[嘉義公園]]方面單邊設站）
+*[[朴子轉運站]]
+[[File:嘉義公車捷運路網圖_Route_Map_of_Chiayi_BRT_with_road_name.svg|居中|缩略图|1000x1000像素|{{small|嘉义公车捷运路网图}}]]
+
+=== 公車資訊 ===
+*[[嘉義縣公車處]]
+**{{color|red|'''105'''}} 嘉義交流道－溪厝村
+**{{color|red|'''166'''}} 高鐵嘉義站－鹽水
+**{{color|red|'''7303'''}} 嘉義－雙溪口－長庚紀念醫院
+**{{color|red|'''7320'''}} 嘉義－新埤－雙溪口
+**{{color|red|'''7324'''}} 嘉義－水上－朴子
+**{{color|red|'''7326'''}} 嘉義－雙溪口－朴子
+**{{color|red|'''7327'''}} 嘉義－朴子－布袋
+*[[統聯客運]]
+**{{color|red|'''1638'''}} 臺北－朴子－東石
+**{{color|red|'''1639'''}} 臺北－布袋
+*[[嘉義客運]]
+**{{color|red|'''7205'''}} 嘉義－太保－朴子
+**{{color|red|'''7206'''}} 嘉義－塭港
+**{{color|red|'''7209'''}} 嘉義－朴子－布袋
+**{{color|red|'''7211'''}} 朴子轉運站－嘉義公園[[File:BRT Chiayi CIS (English Type 1).svg|30px]]
+**{{color|red|'''7213'''}} 嘉義－'''牛挑灣'''－樹林頭
+**{{color|red|'''7225'''}} 朴子－海埔地
+**{{color|red|'''7227'''}} 朴子－網寮
+**{{color|red|'''7228'''}} 朴子－副瀨－港墘厝
+**{{color|red|'''7231'''}} 北港－六腳－朴子
+**{{color|red|'''7233'''}} 朴子－塭港
+**{{color|red|'''7234'''}} 朴子－過溝－布袋
+*[[大台南公車]]（[[新營客運]]）
+**{{color|#a52a2a|'''棕4'''}} 新營－鹽水－朴子轉運站
+*台一大車隊
+**{{color|red|'''幸福朴子1路'''}} 朴子轉運站－樹林頭
+**{{color|red|'''幸福朴子1路A'''}} 長庚醫院－朴子轉運站－樹林頭
+**{{color|red|'''幸福朴子2路'''}} 朴子轉運站－朴子轉運站（環狀線）
+**{{color|red|'''幸福東石1路'''}} 朴子轉運站－東石漁人碼頭
+**{{color|red|'''幸福東石1路A'''}} 長庚醫院－朴子轉運站－東石漁人碼頭
+**{{color|red|'''幸福布袋1路'''}} 武聖宮－布袋轉運站－朴子轉運站－長庚醫院
+*捷乘交通
+**{{color|red|'''幸福義竹1路'''}} 東榮村－義竹－朴子轉運站－長庚醫院
+**{{color|red|'''幸福義竹2路'''}} 西竿仔寮－義竹－朴子轉運站－長庚醫院
+
+=== 公共自行車 ===
+{{see also|嘉義縣公共自行車租賃系統站點列表#朴子市}}
+[[嘉義縣公共自行車租賃系統|嘉義縣]][[YouBike微笑單車|YouBike 2.0]]於2024年7月3日正式營運，截至2025年2月19日於朴子市內設置33處站點<ref>{{cite web |url=https://www.youbike.com.tw/region/cyhg/stations/list/ |title=嘉義縣-站點資訊-站點列表 |access-date=2024-12-06 |publisher=YouBike微笑單車 |language=zh-tw |archive-date=2024-12-13 |archive-url=https://web.archive.org/web/20241213130457/https://www.youbike.com.tw/region/cyhg/stations/list/ |dead-url=no }}</ref>。
+
+== 旅遊 ==
+[[File:PuzihTrainPark.jpg|thumb|250px|朴子火車頭公園]]
+[[File:統一超商朴站門市 20190903.jpg|thumb|250px|具有庭園風格的7-11「朴站門市」]]
+*朴子清木外科咖啡屋
+*1935玉勝巷自家烘焙咖啡
+*朴子夜市（體育館夜市）
+*[[朴子鎮安宮]]
+*朴子鐵支路公園
+*朴子藝術公園（前身為日本神社）
+*速食麵之父故居（[[安藤百福]]故居）
+*朴子火車頭公園
+*嘉義縣立梅嶺美術館
+*朴子溪生態步道
+*牛挑灣埤
+*朴子刺繡文化館
+*下寮石碼宮（劉侯同宗為祖籍晉江）
+*[[石車堂]]
+*蒜頭大橋（157縣道）
+*水道頭文創聚落
+
+== 相關條目 ==
+* [[朴子街]]
+* [[:Category:朴子市人|分類:朴子市人]]
+
+== 注釋 ==
+{{notefoot}}
+
+== 參考資料 ==
+;引用來源
+{{Reflist|3|refs=
+<ref name="市志卷之一">{{Cite book |author=邱奕松 |year=1998 |chapter=自然·卷之一 |title=《朴子市志》 |language=zh-tw |location=朴子市 |publisher=嘉義縣朴子市公所 }}</ref>
+<ref name="市志卷之二">{{Cite book |author=邱奕松 |year=1998 |chapter=政事·卷之二 |title=《朴子市志》 |language=zh-tw |location=朴子市 |publisher=嘉義縣朴子市公所 }}</ref>
+<ref name="縣志政事志">{{Cite book|editor=陳淳斌|title=《嘉義縣志·卷四·政事志》|publisher=嘉義縣政府|location=嘉義縣|year=2009|pages=|language=zh-tw}}</ref>
+<ref name="黃">{{Cite thesis |author=黃上旻 |title=嘉義縣朴子市人口變遷之研究(西元1905~2018年) |year=2022 |degree=碩士 |publisher=國立臺中教育大學 |language=zh-tw }}</ref>
+<ref name="羅">{{cite thesis |author=羅郁捷 |title=朴子地區的形成與發展 |year=2013 |degree=碩士 |publisher=國立高雄師範大學 |language=zh-tw }}</ref>
+}}
+
+;書籍
+{{refbegin}}
+* {{Cite book |author=邱奕松 |year=1998 |title=《朴子市志》 |language=zh-tw |location=朴子市 |publisher=嘉義縣朴子市公所 |ref={{SfnRef|邱奕松|1998}} }}
+* 《朴樹之蔭》，朴子公學校教師群合著，施嘉明譯
+* {{cite book |author=施添福等編纂 |year=2008 |chapter=第四章·朴子市 |title=《臺灣地名辭書·卷八·嘉義縣》 |language=zh-tw |location=南投市 |publisher=國史館臺灣文獻館 |isbn=978-986-01-6259-2 |ref={{sfnref|施添福|2008}} }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Puzih City, Chiayi County |n=no |q=no |s=no |author=no |b=no |v=no |voy=朴子 }}
+*[http://puzih.cyhg.gov.tw 朴子市公所] {{Wayback|url=http://puzih.cyhg.gov.tw/ |date=20200805213816 }}
+
+{{嘉義縣行政區劃}}
+{{臺灣建制市列表}}
+{{Authority control}}
+
+[[Category:嘉義縣行政區劃]]
+[[Category:台灣縣轄市]]
+[[Category:朴子市| ]]
+[[Category:源自日本統治的台灣地名]]
+[[Category:1992年台灣建立]]

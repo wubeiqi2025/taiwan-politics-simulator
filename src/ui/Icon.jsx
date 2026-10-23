@@ -1,0 +1,60 @@
+// 统一线性图标（1.6px 线宽、圆角端点）
+const P = {
+  map: 'M3 6.5 9 4l6 2.5L21 4v13.5L15 20l-6-2.5L3 20V6.5Zm6-2.5v13.5m6-11v13.5',
+  parliament: 'M3 19h18M5 19a7 7 0 0 1 14 0M8 19a4 4 0 0 1 8 0M12 5v3',
+  person: 'M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Zm-7 8c.8-3.6 3.6-5.5 7-5.5s6.2 1.9 7 5.5',
+  ballot: 'M5 10h14v9a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-9Zm3-1 3-5 6 3-2 3M9 15h6',
+  history: 'M4 12a8 8 0 1 0 2.3-5.6M4 4v4h4M12 8v4l3 2',
+  party: 'M5 21V4m0 0h11l-2 4 2 4H5',
+  layers: 'm12 4 9 5-9 5-9-5 9-5Zm-9 9 9 5 9-5',
+  edit: 'M4 20h4L19 9l-4-4L4 16v4Zm10-14 4 4',
+  save: 'M5 4h11l3 3v12a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4Zm3 0v5h7V4M8 20v-6h8v6',
+  camera: 'M4 8h3l2-3h6l2 3h3v11H4V8Zm8 9a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z',
+  undo: 'M9 14 4 9l5-5M4 9h10a6 6 0 0 1 0 12h-3',
+  redo: 'm15 14 5-5-5-5m5 5H10a6 6 0 0 0 0 12h3',
+  close: 'M6 6l12 12M18 6 6 18',
+  min: 'M6 12h12',
+  max: 'M6 6h12v12H6z',
+  play: 'M8 5v14l11-7L8 5Z',
+  pause: 'M8 5v14M16 5v14',
+  step: 'M6 5v14l9-7-9-7Zm12 0v14',
+  back: 'M18 5v14l-9-7 9-7ZM6 5v14',
+  restart: 'M4 12a8 8 0 1 0 2.4-5.7M4 4v5h5',
+  end: 'M5 5l7 7-7 7M13 5l7 7-7 7',
+  search: 'M11 18a7 7 0 1 0 0-14 7 7 0 0 0 0 14Zm5-2 4 4',
+  home: 'M4 11 12 4l8 7v9h-5v-6H9v6H4v-9Z',
+  chevronL: 'M15 5l-7 7 7 7',
+  chevronR: 'M9 5l7 7-7 7',
+  chevronD: 'M5 9l7 7 7-7',
+  plus: 'M12 5v14M5 12h14',
+  trash: 'M5 7h14M10 7V4h4v3M7 7l1 13h8l1-13',
+  copy: 'M8 8h11v12H8zM5 16V4h11',
+  download: 'M12 4v11m-5-5 5 5 5-5M5 20h14',
+  upload: 'M12 20V9m-5 5 5-5 5 5M5 4h14',
+  branch: 'M6 4v10m0 0a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm12-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm0 0c0 5-6 4-12 8',
+  info: 'M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0-11v6m0-9v.5',
+  warn: 'M12 4 2.5 20h19L12 4Zm0 6v5m0 3v.5',
+  check: 'M5 12.5 10 17l9-10',
+  clock: 'M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0-13v4l3 2',
+  eye: 'M2 12s3.6-6 10-6 10 6 10 6-3.6 6-10 6-10-6-10-6Zm10 3a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z',
+  eyeOff: 'M3 3l18 18M10.6 6.1A10 10 0 0 1 12 6c6.4 0 10 6 10 6a17 17 0 0 1-3.2 3.7M6.3 6.4C3.8 8 2 12 2 12s3.6 6 10 6c1.6 0 3-.4 4.3-1',
+  crop: 'M6 2v16h16M2 6h16v16',
+  locate: 'M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14Zm0-4a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM12 2v3m0 14v3M2 12h3m14 0h3',
+  grid: 'M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z',
+  lock: 'M7 11V8a5 5 0 0 1 10 0v3M5 11h14v9H5z',
+  unlock: 'M7 11V8a5 5 0 0 1 9.6-2M5 11h14v9H5z',
+  sparkle: 'M12 3v4m0 10v4M3 12h4m10 0h4M6 6l2.5 2.5m7 7L18 18M6 18l2.5-2.5m7-7L18 6',
+  flag: 'M5 21V4h12l-2 4 2 4H5',
+  settings: 'M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Zm7.4-3a7.4 7.4 0 0 0-.1-1.2l2-1.6-2-3.4-2.4 1a7 7 0 0 0-2-1.2L14.5 3h-4l-.4 2.6a7 7 0 0 0-2 1.2l-2.4-1-2 3.4 2 1.6a7.4 7.4 0 0 0 0 2.4l-2 1.6 2 3.4 2.4-1a7 7 0 0 0 2 1.2l.4 2.6h4l.4-2.6a7 7 0 0 0 2-1.2l2.4 1 2-3.4-2-1.6c.1-.4.1-.8.1-1.2Z',
+  doc: 'M6 3h9l4 4v14H6V3Zm9 0v4h4M9 12h7M9 16h7',
+  link: 'M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1',
+  filter: 'M4 5h16l-6 7v6l-4 2v-8L4 5Z',
+};
+export function Icon({ name, size = 18, stroke = 1.6, style, title }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width={stroke} stroke-linecap="round" stroke-linejoin="round" style={style} aria-hidden={title ? undefined : 'true'}>
+      {title && <title>{title}</title>}
+      <path d={P[name] || P.info} />
+    </svg>
+  );
+}

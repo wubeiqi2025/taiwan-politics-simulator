@@ -1,0 +1,546 @@
+{{NoteTA
+|G1=Unit
+}}
+{{coord|24.839589|N|121.004025|E|format=dec|name=Zhubei|display=title}}
+{{Otheruses|subject=台灣當今的竹北市|other=日治時代的竹北|竹北庄|竹北-{庄}-}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃 = [[新竹縣]]
+|行政區名稱 = 竹北市
+|外文名稱 = Zhubei City
+|外文語言 = [[漢語拼音]]+英語
+|徽文件名 = Jhubei logo.png
+|代表圖像 = {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1
+| perrow                 = 1/2/2
+| image1 = HSR Hsinchu station.jpg
+| image2 = 新竹縣議會.JPG
+| image3 = Zhubei Skyline from Tofu Rocks.jpg
+| image4 = 新竹縣政府文化局.jpg
+| image5 = 竹北天后宮.jpg
+}}
+|代表圖像名稱 = 上：[[高鐵新竹站]]<br />中：[[新竹縣議會]]、竹北高樓群<br />下：[[新竹縣政府文化局]]一景、[[竹北天后宮]]
+{{Infobox mapframe|zoom=09|frame-width=300}}
+|徽 = 竹北市徽
+|行政機關首長職稱 = 市長
+|行政區類別 = [[縣轄市]]
+|行政機關首長姓名 = [[鄭朝方]]
+|舊稱 = 
+|簡稱 = 
+|設立始年 = 1941年（設[[竹北庄|竹北-{庄}-]]）<br />1946年（戰後，改制竹北-{庄}-為竹北鄉，轄屬[[新竹縣 (1945年—1950年)|新竹縣]][[縣轄區 (中華民國)|新竹區]]）<br />1950年（裁撤區署，直隸[[新竹縣]]）<br />1988年（縣政府遷此，改制為[[縣轄市]]「竹北市」）
+|區劃 = 31[[村里|里]]721[[鄰]]
+|government = [[新竹縣竹北市公所|竹北市公所]]
+|legislature = [[新竹縣竹北市民代表會|竹北市民代表會]]
+|行政機關網站 = {{url|https://www.zhubei.gov.tw/}}
+|總面積 = {{TWTSData|A|302}}
+|總人口 = {{TWTSData|P|302}}<ref name="竹北戶政">{{cite web |url=https://w3.hsinchu.gov.tw/house/jhubei/statistics/ |title=人口統計-竹北市 |publisher=新竹縣竹北市戶政事務所 |access-date=2021-03-13 |language=zh-tw |archive-date=2018-02-06 |archive-url=https://web.archive.org/web/20180206190810/http://w3.hsinchu.gov.tw/house/jhubei/statistics/ |dead-url=no }}</ref><ref name="civil.hc">{{cite web |url=https://civil.hsinchu.gov.tw/cl.aspx?n=1219 |title=每月人口統計資料(108年1月起開始提供) |publisher=新竹縣政府民政處 |access-date=2021-03-11 |language=zh-tw |archive-date=2020-12-02 |archive-url=https://web.archive.org/web/20201202213018/https://civil.hsinchu.gov.tw/cl.aspx?n=1219 |dead-url=no }}</ref><ref name="ris.gov.tw">{{cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |author=內政部戶政司 |access-date=2025-01-02 |publisher=中華民國 內政部戶政司 全球資訊網 |language=zh-tw |archive-date=2011-07-26 |archive-url=https://web.archive.org/web/20110726101836/https://www.ris.gov.tw/app/portal/346 |dead-url=no }}</ref>
+|population_rank = [[臺灣行政區人口列表|臺灣的第22位／新竹縣的第1位]]
+|總人口年份 = {{TWTSData|P|date}}
+|household = {{TWTSData|H|302}}<ref name="竹北戶政"/><ref name="civil.hc"/><ref name="ris.gov.tw"/>
+|postal_code = 302
+|adjacent = [[新豐鄉 (台灣)|新豐鄉]]、[[湖口鄉]]、[[新埔鎮]]、[[芎林鄉]]、[[竹東鎮]]；[[新竹市]][[東區 (新竹市)|東區]]、[[北區 (新竹市)|北區]]
+|位置圖 = 
+<div style="position: relative; font-size:85%">
+[[File:Jhubei City3.PNG|thumb|center|150px]]
+</div>
+}}
+{{Taiwanese
+| hanji       = 竹北市
+| tsuin       = ㄓㄨˊ ㄅㄟˇ ㄕˋ
+| wg          = chu2 pei3 shih4
+| pinyin      = Zhú-běi Shì
+| tongyong    = Jhú-běi Shìh
+| poj         = Tek-pak Chhī
+| holo        = Tik-pak Tshī
+| pfs         = Chuk-pet Sṳ
+| haka        = [[海陸腔]]：zhug bed shi+<br />[[饒平腔]]：zhugˋ bedˋ shiˊ
+}}
+'''竹北市'''位於[[臺灣]][[新竹縣]]西北部，南以[[頭前溪]]與[[新竹市]]為界{{sfn|施添福|2010|p=23}}，為新竹縣[[縣治]]所在地。全市面積約為46.8341平方公里{{r|市志地理篇|p=83}}，人口約有22.1萬人<ref name="竹北戶政"/>，人口密度每平方公里約有4千7百人，是新竹縣人口最多、人口密度最高的行政區<ref name="civil.hc"/>，亦為[[臺灣行政區人口列表|臺灣人口最多]]、[[臺灣行政區人口密度表|人口密度最高]]的縣轄市<ref name="ris.gov.tw"/>。竹北市的最早前身是1941年合併[[六家庄|六家-{庄}-]]、[[舊港庄|舊港-{庄}-]]設立的[[竹北庄|竹北-{庄}-]]{{r|市志歷史篇|p=56}}，-{庄}-名源自當地位居[[新竹市 (州轄市)|新竹市]]之北端{{r|市志政治篇|p=166}}，1946年將竹北-{庄}-改制[[新竹縣 (1945年—1950年)|新竹縣]]新竹區竹北鄉{{r|市志歷史篇|p=56}}，1950年裁撤區署，直隸新竹縣{{sfn|施添福|2010|p=25}}，1982年縣市分治，[[新竹市 (縣轄市)|新竹市]]升格為省轄市{{r|市志歷史篇|p=56}}，1988年因[[新竹縣政府]]遷設於該地，改制為[[縣轄市]]{{r|市志歷史篇|p1=57|市志政治篇|p2=167}}。
+
+由於位居頭前溪以北的[[新竹平原]]地帶，早年開墾時即隨著溪南的竹塹街市發展，成為主要農業生產區域，且因平原面積比例較高，為新竹縣重要的米倉{{sfn|施添福|2010|p=29}}。隨著縣治遷設於該地後，工商業逐漸聚集，人口成長迅速{{sfn|施添福|2010|p=30}}。其東境一帶因[[高鐵新竹站]]、[[台灣鐵路|台鐵]][[六家車站]]的興設及[[新竹生物醫學園區|竹科生醫園區]]的開發進駐，成為新興住宅區，西境一帶則仍屬主要的水田稻作產區{{sfn|施添福|2010|p=31}}。而在擁有縣治地位的條件下，也帶動竹北市的文教資源成長，因此，境內有演藝廳、縣史館、美術館、[[國立陽明交通大學客家文化學院|陽明交大客家學院]]、[[新瓦屋客家文化保存區]]等文教設施{{r|市志歷史篇|pp=54－55}}。
+
+== 歷史 ==
+竹北市名稱由來，係由於1941年，為擴大新竹市而進行街-{庄}-合併，同時考慮在[[光緒]]年間設置的新竹廳分為竹南與竹北兩堡，加上以新竹市為中心，該地位於新竹市之北端，故改名為「竹北」<ref name="地方沿革">{{cite web |url=http://www.chupei.gov.tw/iframcontent_edit.php?menu=25&typeid=34 |title=地方簡介-地方沿革 |publisher=新竹縣竹北市公所 |access-date=2021-03-12 |language=zh-tw |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103123557/http://www.chupei.gov.tw/iframcontent_edit.php?menu=25&typeid=34 |dead-url=no }}</ref>。
+
+竹北市在十八世紀之前，屬於[[平埔族|平埔原住民]]的[[道卡斯族]][[竹塹社]]以及[[眩眩社]]的獵場<ref name="地方沿革"/>，當時的原住民族雖然已有粗淺的農耕技術，但由於早期的[[頭前溪]]與[[鳳山溪]]未經整治，在每年春夏兩季帶來的大量降雨之下，經常發生氾濫，受到前述自然環境的因素，致使竹北市早期不利進行農耕，人類活動並不活躍{{R|市志歷史篇|p=31}}。
+
+1624年，[[荷蘭]]軍隊自[[澎湖縣]]轉往[[大員]]（今[[臺南市]][[安平區]]）並建立殖民地，展開對臺灣的殖民統治。1646年4月底，荷蘭軍隊為確保[[新竹|竹塹]]一帶的治安與北路轉運的暢通，派遣加斯曼（Gerrit Casman）士官的軍隊前往竹塹溪長期駐紮，但由於當時的荷蘭軍隊不習慣新竹地區的風土，近一半的士兵於短短數個月內病死，因此荷蘭軍隊於數個月後立即召回駐紮竹塹溪的軍隊。荷蘭在臺的勢力於[[郭懷一事件]]爆發以後，逐漸衰弱，許多原住民聚落包括竹塹社開始轉為對抗荷蘭人。1657年9月13、14日，荷蘭軍隊從[[安平古堡|熱蘭遮城]]出發北上，依序對淡水（今[[新北市]][[淡水區]]）、八里坌（今新北市[[八里區]]）、南崁（今[[桃園市]][[蘆竹區]]）、竹塹等拒絕參加地方議會的平埔族部落進行武力征伐，是次軍事行動對竹塹社造成嚴重損害。但竹塹社的先民仍持續重建村落，繼續威脅荷蘭人在附近的統治，使得荷蘭人在1659年秋季又再次對竹塹社發動征伐，將竹塹社的房屋完全燒毀{{R|市志歷史篇|p=33－34}}。
+
+1662年2月，荷蘭人向率軍[[鄭成功攻臺之役|攻臺]]的[[鄭成功]]軍隊投降，鄭成功入臺後，將[[赤崁樓|普羅民遮城]]改為東都明京，展開[[臺灣明鄭時期|鄭氏]]在臺灣的統治{{R|市志歷史篇|p=34}}。1664年後，[[鄭經]]提升[[天興縣|天興]]、[[萬年縣 (臺灣)|萬年]]二縣政治層級，[[天興縣]]改為[[天興州]]{{R|市志政治篇|p=164}}。1681年，鄭經死後，其子[[鄭克塽]]即位。明鄭為防守[[雞籠]]而派兵修復雞籠舊城、屯駐重兵，透過陸路運輸兵餉，徵用當時的平埔族轉運糧秣，但也導致雞籠、淡水、南崁、竹塹、後壠、新港仔、蓬山等七個平埔族社聯合起義反抗，明鄭派遣軍鎮壓，部分竹塹社與眩眩社的居民不敵鄭軍，拋棄原居住地並逃往[[十八尖山]]與[[客雅山]]等山丘躲藏{{R|市志歷史篇|p=35}}。
+
+1683年，鄭氏降[[清朝|清]]。翌年（1684年），[[臺灣清治時期|臺灣被納入清國版圖]]，改為[[福建省 (清)|福建省]][[臺灣府]]並設有[[臺灣縣 (1684年－1887年)|臺灣縣]]、[[鳳山縣 (清治時期)|鳳山縣]]、[[諸羅縣]]等三縣，由於竹北位於[[新港溪]]以北，故屬諸羅縣。但由於官府人力薄弱與行政效率不高，致使官府無法有效統治[[濁水溪]]以北的區域{{R|市志歷史篇|p=35}}。1721年，[[朱一貴事件]]爆發，鎮壓[[舉事|民變]]的清軍[[藍廷珍]]之族弟[[藍鼎元]]觀察到清朝政府在對臺統治上的缺陷，因此向清朝政府提出增設行政機構的主張，清朝政府遂於1723年設置[[彰化縣 (清朝)|彰化縣]]，彰化縣為[[舊虎尾溪]]以北之區域，故竹北屬彰化縣{{R|市志歷史篇|p=36}}。1732年，[[大甲溪]]以北地區劃分至新設置的[[淡水廳]]，竹北再改屬之{{R|市志政治篇|p=165－166}}。在淡水廳治時代，包括隸屬城外東廂之[[斗崙]]、[[八張犁]]、[[六張犁]]、[[鹿場 (新竹縣)|鹿場]]、蕃仔寮、[[隘口 (大字)|隘口]]等-{庄}-，隸屬城外北廂之[[麻園 (新竹縣)|麻園]]、頂溪州、[[新庄子 (新竹縣竹北市)|新-{庄}-仔]]、[[白地粉]]、溪埔仔、[[崁頂]]、鳳鼻尾、[[鳳山崎]]等-{庄}-，隸屬城外東北廂之[[新社 (新竹縣)|新社]]、[[豆子埔|豆仔埔]]、蕃仔坡等-{庄}-，以及隸屬城外西北廂之船頭下[[溪州]]、[[魚寮]]等-{庄}-，均屬於今日竹北市的轄區。1876年，設[[新竹縣 (清朝)|新竹縣]]並分為竹南與竹北兩堡<ref name="地方沿革"/>{{R|市志政治篇|p=166}}。
+
+1895年，[[台灣日治時期|臺灣納入日本版圖]]，分三縣一廳，竹北地區隸屬[[臺北縣 (日治時期)|臺北縣]]新竹支廳。1897年6月，改三縣為六縣，屬[[新竹縣 (日治時期)|新竹縣]]，一部分屬新竹辦務署，一部分屬新埔辦務署{{r|市志歷史篇|p=55}}。1898年6月，改三縣三廳，屬臺北縣新竹辦務署{{r|市志政治篇|p=166}}。1901年，全臺分二十廳，竹北地區隸屬[[新竹廳]]，一部分屬廳直轄舊港區，一部分屬廳直轄六張犁區，一部分則屬新埔支廳紅毛港區{{r|市志歷史篇|p=55}}。1920年，地方行政改革，廢臺灣西部十廳，改為五州，竹北地區隸屬[[新竹州]][[新竹郡]]，一部分屬[[舊港庄|舊港-{庄}-]]，一部分則屬[[六家庄|六家-{庄}-]]。1941年10月1日，六家-{庄}-將頭前溪以南區域併入[[新竹市 (州轄市)|新竹市]]，其餘部分則與舊港-{庄}-合併改稱「[[竹北庄|竹北-{庄}-]]」{{r|市志歷史篇|p=56}}。
+
+[[臺灣戰後時期|戰後]]，[[中華民國政府]]接管臺灣。1946年1月26日，地方制度變革，竹北-{庄}-改為「竹北鄉」，屬[[新竹縣 (1945年—1950年)|新竹縣]]新竹區{{r|市志大事記|p1=14|市志歷史篇|p2=56}}。1950年，裁撤區署，設為新竹縣竹北鄉，下轄斗崙村、鹿場村、東平村、中興村、隘口村、東海村、十興村、竹北村、竹仁村、竹義村、番坡村（今泰和里）、新社村、新國村、聯興村、麻園村、溪洲村、白地村、新-{庄}-村、新港村、舊港村、大義村、尚義村、崇義村、大眉村等24個村{{sfn|施添福|2010|p=25}}。1953年4月1日，行政區域微調，舊港村改隸新竹市，並將大眉村北側的松柏林地區設置松林村並劃入紅毛鄉（今新豐鄉）{{r|市志大事記|p1=15|市志歷史篇|p2=56}}。1988年10月31日，[[新竹縣政府]]遷治於竹北鄉，竹北鄉成為[[縣治]]，遂改制為[[縣轄市]]「竹北市」{{r|市志大事記|p1=23|市志歷史篇|pp2=53、57}}。之後境內里數歷經三次變更{{NoteTag|2001年，斗崙里分為斗崙、新崙、北崙三里，竹義里則分為竹義、福德兩里。2013年，十興里分為十興、東興、北興、興安、文化五里<ref>{{cite news |author=廖雪茹 |url=http://www.libertytimes.com.tw/2013/new/mar/7/today-north8.htm |title=竹北十興里 3月起劃分5里 |publisher=自由時報 |date=2013-03-07 |archiveurl=https://web.archive.org/web/20130318001049/http://www.libertytimes.com.tw/2013/new/mar/7/today-north8.htm |archivedate=2013-03-18 |dead-url=yes |language=zh-tw |access-date=2013-06-30 }}</ref>。2017年，斗崙里分為斗崙、中崙兩里<ref>{{cite news |author=廖雪茹 |url=http://news.ltn.com.tw/news/life/breakingnews/1989506 |title=竹北第一大里斗崙里 今起分成2里 |publisher=自由時報 |date=2017-03-01 |archiveurl=https://web.archive.org/web/20210309090436/https://news.ltn.com.tw/news/life/breakingnews/1989506 |archivedate=2021-03-09 |dead-url=no |language=zh-tw }}</ref>。}}，至2017年起，竹北市共轄31個里{{r|市志歷史篇|p=57}}，721個鄰<ref name="地方沿革"/>。
+
+== 地理 ==
+=== 地形 ===
+竹北市位於新竹縣西北部，東北連[[新埔鎮]]，東與[[芎林鄉]]接壤，南與[[竹東鎮]]以及[[新竹市]][[北區 (新竹市)|北區]]、[[東區 (新竹市)|東區]]為界，西臨[[臺灣海峽]]，北與[[新豐鄉 (台灣)|新豐鄉]]、[[湖口鄉]]毗鄰{{R|市志地理篇|p=83}}<ref name="地理環境">{{cite web |url=https://www.chupei.gov.tw/iframcontent_edit.php?menu=1167&typeid=35&typeid2=655&menu=25&typeid=35 |title=地方簡介-地理環境 |publisher=新竹縣竹北市公所 |access-date=2021-03-14 |language=zh-tw |archive-date=2020-11-07 |archive-url=https://web.archive.org/web/20201107093713/http://www.chupei.gov.tw/iframcontent_edit.php?menu=1167&typeid=35&typeid2=655&menu=25&typeid=35 |dead-url=no }}</ref>。全境地處[[新竹平原]]之上，北臨[[湖口臺地]]，東南邊為[[飛鳳山 (新竹縣)|飛鳳山丘陵]]，平原部分係由[[鳳山溪]]、[[頭前溪]]與[[客雅溪]]沖積而成的沖積扇平原，屬第四紀現代沖積層，其岩層由礫石、砂及黏土所組成。全市海拔最高點位於東南方的[[犁頭山]]（海拔高度約180公尺），除此以外其它地區的平均海拔高度均在50公尺以下，整體地勢平坦並略呈東高西低，平原地約佔全市總面積的九成，丘陵地則僅佔不到一成，另外境內有[[湖口斷層]]、[[新竹斷層]]以及[[新城斷層]]等三條活動斷層經過{{R|市志地理篇|p=82－84、101}}。
+
+=== 水文 ===
+[[File:竹北 豆子埔溪 2021-02-05.jpg|thumb|200px|屬於頭前溪支流之一的豆子埔溪]]
+竹北市主要河川有南側的[[頭前溪]]、北面的[[鳳山溪]]，另有[[豆子埔溪]]等天然溪流流經該市。頭前溪為新竹縣市內第一大河川，主流上游有[[上坪溪]]與[[油羅溪]]等兩條溪，並在竹北市內形成與新竹市之間的天然界線{{R|市志地理篇|p=85－86}}；鳳山溪發源於新竹縣[[尖石鄉]]與[[桃園市]][[復興區 (台灣)|復興區]]交界處的外鳥嘴山西側那結山（標高1,320公尺），自新埔鎮枋寮地區流出後，貫通竹北市中北部並流經番仔陂、貓兒錠等地區，最後於魚寮入海，主要供應農業灌溉用水{{R|市志地理篇|p=89}}；豆子埔溪屬於頭前溪北岸支流之一，發源於新竹縣芎林鄉東山溪與舊港圳匯合處之淺山地區，沿-{著}-鳳山丘陵流經竹北市六家、斗崙等地區並於舊港附近匯入頭前溪出海，主要用以防洪疏濬及農田灌溉{{R|市志地理篇|p=88}}。另有[[隆恩圳 (新竹)|隆恩圳]]、[[東興圳|六張犁圳]]（東興圳）、白地粉圳（魚寮圳）等人工溝渠，但隨-{著}-都市化的現象、經濟的快速發展，流經竹北市的人工溝渠主要功能已從灌溉逐漸轉為排水{{R|市志地理篇|p=92}}。由於早年移民沿河岸階地拓墾、修築圳道引水灌田，使得竹北市水資源豐沛，是新竹縣市的重要農業生產地區{{R|市志地理篇|p=84}}。
+
+=== 氣候 ===
+竹北市由於地處[[北回歸線]]以北，且位於臺灣平地地區，故屬於[[副熱帶季風氣候]]，全年氣溫變化不大，氣候相對舒適。根據[[新竹氣象站|中央氣象局竹北氣象站]]於1981年至2010年的氣溫統計，竹北市年均溫為攝氏22.6度，月平均最高氣溫為七月的攝氏29.0度，最低氣溫為一月的攝氏15.5度。年平均總[[日照時數]]量為1,859.9小時，日照時數以八月的227.7小時最長，二月的99.0小時最短。年平均降雨量為1,718.1公釐，最多為六月的261公釐，最少為十一月的38.1公釐，而降雨量主要集中在五月至八月的[[梅雨|梅雨季節]]以及[[太平洋颱風季|颱風季節]]，年平均降水日數約為116天。秋冬以後為[[東北季風]]盛行的季節，降雨量逐漸減少，氣溫逐漸轉涼，由於頭前溪下游河谷地形屬由東南向西北呈喇叭狀開啟，氣流在季風盛吹時湧入河谷，受兩岸谷壁約束，致使風力較為強勁，故此時的竹北市常有強風，最高風速可達每秒10.15公尺（即五級風以上）{{R|市志地理篇|p=114}}<ref name="中央氣象局">{{cite web |url=https://www.cwb.gov.tw/V8/C/ |title=交通部中央氣象局 |access-date=2021-03-14 |language=zh-tw |archive-date=2021-06-18 |archive-url=https://web.archive.org/web/20210618120755/https://www.cwb.gov.tw/V8/C/ |dead-url=no }}</ref>。
+
+{{Climate chart
+|竹北市
+|12.9|18.9|64.5
+|13.4|19.4|142.0
+|15.2|21.4|168.0
+|18.8|25.2|164.0
+|21.8|28.6|233.0
+|24.4|31.0|261.0
+|25.7|32.9|141.0
+|25.6|32.6|182.0
+|24.1|31.0|214.0
+|21.6|27.8|62.0
+|18.5|24.9|38.1
+|15.0|21.2|47.7
+|float = right
+|clear = right
+}}
+
+{{Weather box|width=auto
+|location = 竹北（1981年至2010年）
+| single line = Y
+| metric first = Y
+
+|Jan high C = 18.9
+|Feb high C = 19.4
+|Mar high C = 21.4
+|Apr high C = 25.2
+|May high C = 28.6
+|Jun high C = 31.0
+|Jul high C = 32.9
+|Aug high C = 32.6
+|Sep high C = 31.0
+|Oct high C = 27.8
+|Nov high C = 24.9
+|Dec high C = 21.2
+|Year high C = 26.2
+
+|Jan mean C = 15.5
+|Feb mean C = 15.9
+|Mar mean C = 17.9
+|Apr mean C = 21.7
+|May mean C = 24.9
+|Jun mean C = 27.4
+|Jul mean C = 29.0
+|Aug mean C = 28.7
+|Sep mean C = 27.1
+|Oct mean C = 24.2
+|Nov mean C = 21.2
+|Dec mean C = 17.7
+|Year mean C = 22.6
+
+|Jan low C = 12.9
+|Feb low C= 13.4
+|Mar low C = 15.2
+|Apr low C = 18.8
+|May low C = 21.8
+|Jun low C = 24.4
+|Jul low C = 25.7
+|Aug low C = 25.6
+|Sep low C = 24.1
+|Oct low C = 21.6
+|Nov low C = 18.5
+|Dec low C = 15.0
+|Year low C = 19.8
+
+|scrain = green
+|Jan precipitation mm = 64.5
+|Feb precipitation mm = 142.0
+|Mar precipitation mm = 168.0
+|Apr precipitation mm = 164.0
+|May precipitation mm = 233.0
+|Jun precipitation mm = 261.0
+|Jul precipitation mm = 141.0
+|Aug precipitation mm = 182.0
+|Sep precipitation mm = 214.0
+|Oct precipitation mm = 62.0
+|Nov precipitation mm = 38.1
+|Dec precipitation mm = 47.7
+|Year precipitation mm = 1718.1
+
+|Jan humidity = 78.1
+|Feb humidity = 80.4
+|Mar humidity = 80.2
+|Apr humidity = 79.6
+|May humidity = 78.0
+|Jun humidity = 77.6
+|Jul humidity = 75.5
+|Aug humidity = 76.5
+|Sep humidity = 75.1
+|Oct humidity = 74.3
+|Nov humidity = 75.1
+|Dec humidity = 75.5
+|Year humidity = 77.2
+|source = [[中央氣象局]]<ref name="中央氣象局"/>
+}}
+
+=== 人口 ===
+{{main|竹北市人口}}
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{cite Web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |publisher=[[中華民國內政部|內政部]] |title=內政部統計月報-各鄉鎮市區人口數 |access-date=2019-12-19 |archive-date=2021-06-23 |archive-url=https://web.archive.org/web/20210623061641/https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |dead-url=no }}
+# {{Harvnb|邱彥貴|温宗翰|2019|pp=353－363|loc=第五篇·社會篇}}
+|1951	|26866
+|1956	|30284
+|1961	|34745
+|1966	|39228
+|1971	|44371
+|1976	|50892
+|1981	|57119
+|1986	|60920
+|1991	|67178
+|1996	|79431
+|2001	|92814
+|2006   |119720
+|2011	|146826
+|2016	|176604
+|2021	|206189
+}}
+根據新竹縣政府民政處及內政部戶政司統計，2025年底竹北市戶數約9萬戶，人口約22.1萬人<ref name="竹北戶政"/>，人口密度每平方公里約4,718人，是新竹縣人口最多、人口密度最高的行政區，也是臺灣人口最多、人口密度第二高的縣轄行政區{{NoteTag|人口密度僅次於[[宜蘭縣]][[羅東鎮 (台灣)|羅東鎮]]。}}<ref name="ris.gov.tw"/>。市內人口大多集中在東側的竹北與六家等二地區的里內，其中人口最多與最少的里分別是[[東平里 (新竹縣竹北市)|東平里]]與新-{庄里}-，2025年底兩里人口分別為19,717人與1,321人<ref name="竹北戶政"/>，其中東平里也是新竹縣的人口第一大村里，其他區內人口較多的里包括鹿場里、中興里、東興里、竹北里、竹仁里、北興里、[[十興里]]等，皆為新竹縣的人口前十大里<ref name="civil.hc"/>。
+
+由於竹北市鄰近[[新竹科學園區]]，交通較為便利，加上近年各所大專院校與研究機構的進駐計劃，使得竹北市的城市發展快速，房地產交易極為熱絡，成為人口成長快速的地區之一，由於人口持續大幅度的成長，竹北市人口於2020年8月超越原本人口排行縣轄市第二位的[[屏東市]]<ref>{{cite news |url=https://news.ltn.com.tw/news/life/breakingnews/3282049 |title=竹北人口估11月突破20萬 3幸運小市民有賞 |author=廖雪茹 |date=2020-09-04 |publisher=自由時報 |access-date=2020-09-12 |language=zh-tw |archive-date=2020-12-02 |archive-url=https://web.archive.org/web/20201202155923/https://news.ltn.com.tw/news/life/breakingnews/3282049 |dead-url=no }}</ref>，並於2020年11月20日突破20萬人<ref>{{cite news |url=https://news.ltn.com.tw/news/life/breakingnews/3373599 |title=楊文科報喜：竹縣人口數突破57萬人 |publisher=自由時報 |author=蔡孟尚 |date=2020-12-07 |access-date=2020-12-20 |language=zh-tw |archive-date=2020-12-12 |archive-url=https://web.archive.org/web/20201212091337/https://news.ltn.com.tw/amp/news/life/breakingnews/3373599 |dead-url=no }}</ref>。竹北市人口的年齡構成中，0至14歲人口佔比約20.02%，15至64歲人口佔比約70.06%，65歲以上人口佔比約9.93%，老化指數約為49.58%，是臺灣人口最年輕的城市<ref>{{cite news |url=https://www.peponews.tw/709510/ |title=新住民生活文化節竹北登場 竹北很國際 |author=黃誌寬 |date=2019-04-28 |access-date=2025-01-17 |publisher=臺灣人民報 |language=zh-tw |archive-date=2025-01-21 |archive-url=https://web.archive.org/web/20250121131115/https://www.peponews.tw/709510/ |dead-url=no }}</ref>。性別結構方面，竹北市的男女性別比在2012年2月首次低於100%<ref name="ris.gov.tw"/>，至2025年底，竹北市的性別比約是98.6%，是新竹縣性別比最低且唯一低於100%的行政區<ref name="civil.hc"/>。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Population of Zhubei City, Hsinchu County.chart|data=Population of Zhubei City, Hsinchu County.tab}}
+</div>
+{{clear}}
+
+== 政治 ==
+=== 歷任首長 ===
+{{See also|竹北市市長}}
+{| border="1" class="toc" style="text-align:center"
+|- style="background:#CCCCCC; font-weight:bold"
+|屆次
+|姓名
+|黨籍
+|任期
+|備註
+|- style="background:#73C2FB"
+|1
+|[[曾清江]]
+| rowspan="7" |{{KMT}}
+|1988年11月1日－1990年2月28日
+|
+|- style="background:#73C2FB"
+|2
+| rowspan="2" |[[陳煙標]]
+|1990年3月1日－1994年2月28日
+|
+|- style="background:#73C2FB"
+|3
+|1994年3月1日－1998年2月28日
+|
+|- style="background:#73C2FB"
+|4
+| rowspan="2" |[[葉芳雄]]
+|1998年3月1日－2002年2月28日
+|
+|- style="background:#73C2FB"
+|5
+|2002年3月1日－2006年2月28日
+|任內當選立法委員
+|- style="background:#73C2FB"
+|6
+| rowspan="2" |[[楊敬賜]]
+|2006年3月1日－2010年2月28日
+|
+|- style="background:#73C2FB"
+|7
+|2010年3月1日－2014年2月28日
+|
+|-
+|8
+| rowspan="2" |[[何淦銘]]
+| rowspan="2" |{{NONP}}
+|2014年3月1日－2018年12月25日
+|
+|-
+|9
+|2018年12月25日－2022年12月25日
+|
+|-style="background:#99FF66"
+|10
+|[[鄭朝方]]
+|{{DPP}}
+|2022年12月25日－現任
+|
+|-
+| colspan="5" |'''參考書目'''：《新修竹北市志》上冊{{R|市志歷史篇|p1=49|市志政治篇|p2=192、193}}
+|}
+
+=== 市政組織 ===
+[[File:Building of Zhubei City Office.jpg|thumb|200px|竹北市公所]]
+[[新竹縣竹北市公所|竹北市公所]]是竹北市最高層級的地方[[行政機關]]，在中華民國政府架構中為縣轄市自治的行政機關，同時負責執行縣政府及中央機關委辦事項，竹北市的自治監督機關為[[新竹縣政府]]。市長由全體市民直接選舉產生，任期為四年，可連選連任一次。竹北市公所並置市政會議，為市政最高決策機構，在市長之下，設有7課4室等11個內部單位及4個附屬機關<ref>{{cite web |url=https://www.chupei.gov.tw/iframcontent_edit.php?menu=27&typeid=40 |title=公所介紹-組織概況 |publisher=新竹縣竹北市公所 |access-date=2021-03-11 |language=zh-tw |archive-date=2020-11-02 |archive-url=https://web.archive.org/web/20201102210113/http://www.chupei.gov.tw/iframcontent_edit.php?menu=27&typeid=40 |dead-url=no }}</ref>{{R|市志政治篇|p=184}}。
+
+[[新竹縣竹北市民代表會|竹北市民代表會]]是竹北市的最高[[民意機關]]，代表竹北市全體市民立法和監察市政。市民代表由公民直選選出，任期為四年，可連選連任。竹北市民代表會共有20位市民代表，分別為第一選區（六家區）9席市民代表、第二選區（竹北區）7席市民代表、第三選區（新社區）2席市民代表、第四選區（豐田區與鳳岡區）2席市民代表，主席、副主席由20位市民代表互選產生<ref>{{cite web |url=http://www.jbc.gov.tw/about_us_01.php |title=代表會簡介-沿革與歷史 |publisher=新竹縣竹北市民代表會 |access-date=2021-03-11 |language=zh-tw |archive-date=2020-01-31 |archive-url=https://web.archive.org/web/20200131002240/http://www.jbc.gov.tw/about_us_01.php |dead-url=no }}</ref>{{R|市志政治篇|p=228}}。
+
+竹北市為[[新竹縣議會]]第一選區，在縣議會37席縣議員中，竹北市共選出12席區域縣議員（不含平地原住民與山地原住民議員）。
+
+=== 行政區 ===
+現今竹北市行政範圍的確立，來自於1953年調整行政區域，將原屬竹北鄉的舊港村劃入新竹市，同時大眉村劃分為大眉、松林兩村，其中松林村改納入紅毛鄉（今新豐鄉）鄉域{{r|市志政治篇|p=166}}，全鄉劃分為竹義村、竹仁村、竹北村、新國村、新社村、泰和村、聯興村、斗崙村、十興村、東海村、中興村、鹿場村、隘口村、東平村、尚義村、崇義村、大義村、大眉村、溪州村、白地村、新港村、麻園村、新-{庄}-村等23個村{{r|市志政治篇|pp=166－167}}。1988年10月，竹北鄉改制為竹北市{{r|市志政治篇|p=167}}。
+
+竹北市共轄31個里<ref>{{cite web |url=https://www.zhubei.gov.tw/iframcontent_edit.php?menu=25&typeid=834 |title=竹北介紹-行政區域圖 |access-date=2025-01-02 |publisher=竹北市公所 |language=zh-tw |archive-date=2022-05-21 |archive-url=https://web.archive.org/web/20220521131949/https://www.zhubei.gov.tw/iframcontent_edit.php?menu=25&typeid=834 |dead-url=no }}</ref>，其行政區域分布情形為{{r|市志政治篇|pp=199－215}}：
+
+{| border="2" cellpadding="2" cellspacing="0" class="wikitable" style="text-align:center"
+| colspan="11" style="background:#FA8000; font-size:big; font-weight:bold; text-align:left" |竹北市行政區劃
+|-
+| colspan="11" |<div style="position:relative">[[File:Zhubei villages2.svg|600px]]</div>
+|-----
+!次分區!! colspan="10" |里名
+|-
+!竹北區
+|斗崙里||中崙里||新崙里||北崙里||竹北里||竹仁里||竹義里||福德里||泰和里||
+|-
+!六家區
+|東海里||[[十興里]]||東興里||北興里||興安里||文化里||隘口-{里}-||鹿場里||中興里||[[東平里 (竹北市)|東平里]]
+|-
+!豐田區
+|麻園里||溪州里||新-{庄里}-||新港里||[[白地里]]||||||||||
+|-
+!新社區
+|新社-{里}-||新國里||聯興里||||||||||||||
+|-
+!鳳岡區
+|大眉里||大義里||尚義里||崇義里||||||||||||
+|}
+
+== 經濟 ==
+=== 農業 ===
+*主要以轉型觀光農業發展為主（經濟蔬菜水果與花卉產業）。
+*西部烏魚產銷班養殖[[鯔魚|烏魚]]，並生產[[烏魚子]]等高價經濟魚類加工產品。
+
+=== 工業 ===
+分佈於竹北市以北沿線聚落
+*舊時產業（以[[化学工业|化工]]、[[紡織]]、[[機械]]等產業類為主）。
+*近期產業（以電子封裝技術後段製程、精密機械、PCB、模具業類為主）。
+
+;科技業發展
+*[[台元科技園區]]
+*昌益科技產業園區
+*新興重劃區內分佈目前主要以企業辦公室為主。
+*臺灣知識經濟旗艦園區
+
+;生醫業發展
+*[[新竹生物醫學園區]]（園區主體及臺大醫院生醫院區完工啟用，後續開發區擴建中）
+
+=== 商業 ===
+*舊市區：泛指博愛街或中華路以西，中正東、西路以北，該區域仍保留著竹北市的傳統商業模式風貌，雖然未有重新規劃，但也成為當地一項特色。然該區域的許多市集仍保有一定之規模，包括都會區難見的許多傳統販售業者與生活化特色飲食，使愛好傳統市集者得以感受傳統市集的街景與傳統式銷售手法與各種小吃餐點的樂趣，在現今的許多城市中當大量改建市集後此種傳統市集並不多見，為當地特有的特色。
+*新興區：泛指重新規劃之重劃區或一二三期地區（或縣治一期、縣治二期、高鐵特定區，依照開發時間的不同順序，名稱並未有正式稱呼之定義，為一般人之稱呼），因[[新竹縣縣長]][[鄭永金]]於任內推動規劃之藍圖，將竹北市定位為科技與學術發展之城市，並為維護區域內之居住品質，因此禁止八大行業進駐，因此使得當地其他育樂性之商業活動並不發達，而當地主要之商業活動之發展主要以提供民生必需之商店與量販店為主，及提供新竹地區內許多從業人員休閒飲食類的各種風貌的美食大小型餐廳、休閒咖啡廳及近期盛行之單車活動而有之自行車行與如棒球打擊場、健身、游泳類之運動服務為主要之地區商業經濟模式，主要以休閒、飲食、民生三大類商業模式為主。
+*傳統市集（中正東、西路沿線與博愛街沿線）、近代市集（光明一路與縣政九路沿線）。<ref>{{cite web|title=財訊-掌握趨勢、投資未來｜最懂投資的財經媒體|url=https://www.wealth.com.tw/articles/f8df72a3-1329-479f-8003-6f0f5f42e42e|website=www.wealth.com.tw|access-date=2024-04-25|archive-date=2024-10-10|archive-url=https://web.archive.org/web/20241010103705/https://www.wealth.com.tw/articles/f8df72a3-1329-479f-8003-6f0f5f42e42e|dead-url=no}}</ref><ref>{{cite web|title=產業、商場、交通三箭齊發 竹北房市大躍進|url=https://tw.stock.yahoo.com/news/%E7%94%A2%E6%A5%AD%E3%80%81%E5%95%86%E5%A0%B4%E3%80%81%E4%BA%A4%E9%80%9A%E4%B8%89%E7%AE%AD%E9%BD%8A%E7%99%BC-%E7%AB%B9%E5%8C%97%E6%88%BF%E5%B8%82%E5%A4%A7%E8%BA%8D%E9%80%B2-003321251.html|website=Yahoo Finance|date=2023-10-27|language=zh-Hant-TW|access-date=2024-04-25}}</ref>
+
+== 文化 ==
+=== 宗教信仰 ===
+竹北市的宗教信仰是以民間信仰為核心，在都市化之前曾是新竹地區的農業重鎮，因此民間信仰主要與[[土地公|土地神]]有關{{r|市志宗教篇|p=154}}。竹北市的民間信仰早期多隱匿於民家，少有大型宮廟建設。
+
+日治時期的竹北市，除了安溪寮-{庄}-與十興-{庄}-以外，其餘各-{庄}-皆有各種不同類型的神明會組織，最主要的神明會是福德會，其次則有媽祖會與聖王會（即[[廣澤尊王]]）{{r|市志宗教篇|pp=154－155}}。其民間信仰的奉祀主神，有[[天上聖母]]、[[玄天上帝]]、[[王爺]]、廣澤尊王、[[清水祖師]]、[[關聖帝君]]、[[鄭成功|開臺國聖]]、[[地藏王菩薩]]、[[太白星君|太白神君]]、[[太子元帥]]、[[九天玄女]]、[[普庵祖師]]等12位神祇{{r|市志宗教篇|pp=158－170}}。土地神相關信仰則遍佈全市，有單一家庭祭祀、鄰近數鄰、多鄰、跨里經營的信仰社群，廟體建築樣式有分為最原始的立石型、小祠型、單殿式、三開間的大型團體等，此外尚有因應都市計劃的拆遷而演變出的「聯合辦公」型態，以及族群交融產生的新式祭祀行為{{r|市志宗教篇|p=175}}。
+
+竹北市的有應公信仰分為斗崙里的萬善廟、東平里的義靈祠、竹義里的萬善諸君、鹿場里的六善宮萬善祠、新國里的[[廖茶先生媽廟]]、東海里的蔡賢祠與陳李公有應公祠、溪洲里的招安館基靈公、白地里的三王宮、大義里的靈善祠，有萬善諸君、朱羅伯公、廖茶先生媽、有應公、張、廖、周三姓公等5位奉祀主神{{r|市志宗教篇|pp=206－210}}。
+
+竹北市發展出的進香中心或分靈中心，包括了位於尚義里、主祀清府千歲的五賢宮，其信仰影響範圍擴散到[[清水區 (台灣)|清水]]、[[和美鎮|和美]]、[[屏東縣|屏東]]等臺灣西部平原地區{{r|市志宗教篇|pp=156－157}}；[[竹北蓮華寺]]除一般法會儀式外，過年期間尚有竹北與鄰近鄉鎮民眾前來參拜祭祀；分別位於泰和里、十興里的上泰和福德宮、五福宮，在每年八月時都有不少從外地前來進香的團體，形成土地公信仰交流的網絡{{r|市志宗教篇|p=157}}。
+
+竹北市的[[佛教]]信仰分為民間佛教與空門佛教，民間佛教廟宇有位於東興里的蓮華寺、位於尚義里的蓮花寺及楊柳堂{{r|市志宗教篇|pp=210－213}}，空門佛教有位於新-{庄里}-的大智寺、位於東興里的菩提蘭若、位於福德里的竹北菩提講堂等{{r|市志宗教篇|pp=213－214}}。
+
+竹北市的[[基督教|基督]]宗教信仰分為[[天主教]]與[[新教|基督教]]，天主教有位於福德里的耶穌聖心堂與位於鹿場里的六家聖女小德蘭堂{{r|市志宗教篇|pp=214－216}}，基督教分為[[台灣基督長老教會]]竹北教會、竹北聖教會、新竹靈糧堂、中華基督教信義會竹北勝利堂、[[耶穌基督後期聖徒教會]]竹北教堂以及[[真耶穌教會]]竹北祈禱所等六個教會{{r|市志宗教篇|pp=217－220}}。
+
+竹北市的新興宗教有[[一貫道]]、[[真佛宗]]與[[台灣母娘信仰|王母信仰]]，一貫道在新港里設有發一光耀佛堂{{r|市志宗教篇|pp=222－223}}，真佛宗有位於北崙里的竹賢堂{{r|市志宗教篇|pp=223－224}}，王母信仰則以尚義里的竹北龍德慈惠堂為主{{r|市志宗教篇|pp=224－225}}。
+
+=== 古蹟與文化資產 ===
+{{See also|新竹縣文化資產}}
+{{multiple image
+| align             = right
+| footer            = 采田福地是竹北市歷史最悠久的古蹟
+| image1            = 竹北采田福地-1.jpg
+| width1            = 200
+| alt1              = 
+| caption1          = 
+}}
+
+截至2020年底，竹北市內由[[文化部文化資產局]]指定的文化資產有四處縣定古蹟、七座歷史建築以及三項一般古物{{R|市志文資篇|p=231－243}}<ref>{{cite web |url=https://www.hchcc.gov.tw/Tw/Culture/Index?filter=a72402a0-996b-437b-9384-c0919d136a05 |title=首頁 > 文化資產 > 文化資產導覽 |publisher=新竹縣政府文化局 |access-date=2021-03-28 |language=zh-tw |archive-date=2021-10-08 |archive-url=https://web.archive.org/web/20211008230551/https://www.hchcc.gov.tw/Tw/Culture/Index?filter=a72402a0-996b-437b-9384-c0919d136a05 |dead-url=no }}</ref><ref>{{cite web |url=https://nchdb.boch.gov.tw/assets/advanceSearch?limit=96&offset=0&query=%7B%22assetsClassifyType%22:null,%22classifyCode%22:null,%22govInstitutionCode%22:null,%22belongCity%22:%227%22,%22belongCityId%22:%22701%22%7D&sort=registerDate&order=desc&classifyCode= |title=首頁 > 文化資產 > 文化資產進階搜尋 |publisher=文化部文化資產局國家文化資產網 |access-date=2021-03-28 |language=zh-tw |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519202958/https://nchdb.boch.gov.tw/assets/advanceSearch?limit=96&offset=0&query=%7B%22assetsClassifyType%22%3Anull%2C%22classifyCode%22%3Anull%2C%22govInstitutionCode%22%3Anull%2C%22belongCity%22%3A%227%22%2C%22belongCityId%22%3A%22701%22%7D&sort=registerDate&order=desc&classifyCode= |dead-url=no }}</ref>，其中乾隆二十五年（1760年）建立的[[采田福地]]是竹北市歷史最悠久的三級古蹟，也是臺灣少數僅存的原住民祠堂，建築以一條龍狀的三間起厝，屋簷為翹起式燕尾造型，奉祀[[福德正神]]以及竹塹社的[[錢姓|錢]]、[[衛姓|衛]]、[[廖姓|廖]]、[[三姓 (姓氏)|三]]、[[潘姓|潘]]、[[黎姓|黎]]、[[金姓|金]]等[[七姓公|七姓歷代祖先]]<ref>{{cite web |url=http://www.chupei.gov.tw/googlemap_content.php?menu=&typeid=1249&googlemapbigtype_id=2&googlemaptype_id=12&googlemap_id=10 |title=景點導覽 > 旅遊休閒 > 古蹟 |publisher=新竹縣竹北市公所 |access-date=2021-03-28 |language=zh-tw |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519201811/https://www.chupei.gov.tw/googlemap_content.php?menu=&typeid=1249&googlemapbigtype_id=2&googlemaptype_id=12&googlemap_id=10 |dead-url=no }}</ref>{{R|市志文資篇|p=235－236}}。
+
+=== 體育 ===
+* [[新竹縣立體育場]]（竹北市光明六路東一段2號）
+* [[新竹縣體育館]]
+* [[新竹縣游泳館]]
+* [[竹北國民運動中心]] <ref>{{cite web|title=竹北國民運動中心 – 游泳 籃球 羽球 桌球 壁球 健身房 有氧 瑜伽 課程 營隊|url=https://www.zbsports.com.tw/|language=zh-TW|access-date=2024-04-25|archive-date=2025-11-19|archive-url=https://web.archive.org/web/20251119004216/https://www.zbsports.com.tw/|dead-url=no}}</ref>
+
+;職業球隊
+* [[台灣職業籃球大聯盟]] [[新竹御嵿攻城獅]]<ref>{{cite web|title=新竹御頂攻城獅籃球隊 {{!}} P. LEAGUE+|url=https://pleagueofficial.com/team/3|website=pleagueofficial.com|access-date=2024-04-25|archive-date=2020-10-24|archive-url=https://web.archive.org/web/20201024211909/https://pleagueofficial.com/team/3|dead-url=no}}</ref>
+
+== 教育 ==
+=== 教育發展 ===
+[[File:六家國小校門 2024-02-04.jpg|thumb|200px|六家國小]]
+臺灣近代化教育，始於1895年日本治臺後，總督府學務部為在臺普遍推行日語，積極推動以語文教育為核心的教育政策，同時停辦清代設立的官方儒學{{r|市志教育篇|p=15}}。對私設教導漢文的書房，則頒行〔書房義塾規程〕，規定書房除了舊有的教授漢文課程外，另需增設日語、算數等科目{{r|市志教育篇|pp=15、17－18}}。1896年，全臺設立14所[[國語傳習所]]，隨後陸續成立分教場{{r|市志教育篇|pp=15、18}}。1898年7月，頒布〔臺灣公學校令〕，廢除國語傳習所（除恆春、臺東、澎湖等3所），改設[[公學校]]，陸續在臺各地成立公學校、[[小學校 (台灣)|小學校]]及[[蕃童教育所|教育所]]等公設學校，積極展開近代化學校的建設{{r|市志教育篇|pp=15、18}}。日本在竹北市一共建立4所公學校，依序是1906年鹿場公學校（今[[新竹縣竹北市六家國民小學|六家國小]]）{{r|市志教育篇|p=20}}、1916年樹林頭公學校（今新竹市[[新竹市北區北門國民小學|北門國小]]）蔴園分校（今竹北國小）{{r|市志教育篇|p=20}}、1920年中崙公學校貓兒錠分離學校（今鳳岡國小）{{r|市志教育篇|p=20}}、1939年南寮公學校（今新竹市南寮國小）豐田分離教室（今豐田國小）{{r|市志教育篇|p=21}}。1920年，樹林頭公學校蔴園分校獨立為麻園公學校，並設立新社分教場（今[[新竹縣竹北市新社國民小學|新社國小]]）{{r|市志教育篇|p=20}}。1921年4月，中崙公學校貓兒錠分離學校改隸舊港公學校{{r|市志教育篇|p=21}}。5月，鹿場公學校改名六家公學校{{r|市志教育篇|p=20}}。1923年4月，麻園公學校遷至新社，改名新社公學校{{r|市志教育篇|p=20}}，舊港公學校貓兒錠分離教室改制為分教場{{r|市志教育篇|p=21}}。1931年4月，舊港公學校貓兒錠分教場獨立為貓兒錠公學校{{r|市志教育篇|p=21}}。1938年5月，貓兒錠公學校改名扶桑公學校{{r|市志教育篇|p=21}}。1940年10月，南寮公學校豐田分離教室改隸新社公學校{{r|市志教育篇|p=20}}。1941年3月，總督府發布〔臺灣教育令改正〕，對臺制定〔臺灣公立國民學校規則〕，將小學校與公學校更名為國民學校{{r|市志教育篇|p=24}}。4月，六家公學校改為六家國民學校，新社公學校改制並更名為竹北國民學校，扶桑公學校改為扶桑國民學校{{r|市志教育篇|p=24－25}}。
+
+戰後，臺灣省政府教育處在1945年11月7日公布〔臺灣省各級學校及教育機關接收處理暫行辦法〕，並在教育政策與方針上，以建立[[三民主義]]為主要目標，改進各級學校的教育{{r|市志教育篇|p=30}}。其主要教育行政措施分為調整學校制度、擴增學校數量、充實教育內容、編訂教材、加強社會教育、推行國語教育、培養優良師資、訓練教育行政人員、加強學術研究與改進教育視導等工作{{r|市志教育篇|p=31}}。為提升教育之普及化，陸續增設中正國民學校、[[新竹縣竹北市東海國民小學|東海國民學校]]、[[新竹縣竹北市竹仁國民小學|竹仁國民學校]]、[[新竹縣竹北市麻園國民小學|麻園國民學校]]、新港國民學校{{r|市志教育篇|p=38}}。1956年，成立新埔中學竹北分校（今[[新竹縣立竹北國民中學|竹北國中]]），為竹北市最早成立的中等學校{{r|市志教育篇|pp=62－63}}。1968年，實行[[臺灣九年國民義務教育|九年國民教育]]，初級中學與初級職業學校改為[[臺灣國中教育|國民中學]]，列入國民教育的一部分{{r|市志教育篇|pp=31、63}}，國民學校則改為[[國民小學]]{{r|市志教育篇|p=38}}。1982年新竹縣市分治後，縣治遷至竹北市，各項交通建設與研教機構的陸續完成與進駐，人口成長迅速，為解決竹北市學區的學校不足與學童就讀學校的需求，復於1990年代起陸續增設博愛國民小學、光明國民小學、[[新竹縣竹北市十興國民小學|十興國民小學]]、興隆國民小學、東興國民小學、安興國民小學{{r|市志教育篇|p=38}}。2014年8月，實施[[十二年國民基本教育]]，分為前九年的國民教育與後三年的高級中等教育，以達成普及、自願非強迫入學、免學費、公私立學校並行、免試為主、學校類型多元及普通與職業教育兼顧的教育目標{{r|市志教育篇|p=31}}。
+
+=== 各級學校 ===
+{{See also|竹北市各級學校列表}}
+竹北市現有大專院校三所，分別為[[國立臺灣大學#校區|國立臺灣大學竹北校區]]、[[國立臺灣科技大學|國立臺灣科技大學竹北校區]]、[[國立陽明交通大學六家校區]]{{R|市志教育篇|p=83}}。公私立高級中等學校三所，分別為[[國立陽明交通大學附屬竹北高級中等學校]]、[[新竹縣立六家高級中學]]、[[新竹縣私立義民高級中學]]{{R|市志教育篇|p=74－83}}。私立中小學一所，為[[新竹縣私立康乃薾國民中小學]]。其他公立教育機構計有7所國民中學以及17所國民小學{{R|市志教育篇|p=38－61}}<ref>{{cite web |url=https://depart.moe.edu.tw/ed4500/News_Content.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3&s=155B3C7750FFF647 |title=109學年各級學校名錄及異動一覽表 |date=2020-08-03 |publisher=中華民國教育部統計處 |access-date=2021-03-13 |language=zh-tw |archive-date=2020-12-05 |archive-url=https://web.archive.org/web/20201205152449/https://depart.moe.edu.tw/ED4500/News_Content.aspx?n=63F5AB3D02A8BBAC&sms=1FF9979D10DBF9F3&s=155B3C7750FFF647 |dead-url=no }}</ref><ref>{{cite web |url=http://www.chupei.gov.tw/iframcontent_edit.php?menu=31&typeid=725 |title=網站連結-竹北各級學校 |publisher=新竹縣竹北市公所 |access-date=2021-03-16 |language=zh-tw |archive-date=2020-11-27 |archive-url=https://web.archive.org/web/20201127015620/http://www.chupei.gov.tw/iframcontent_edit.php?menu=31&typeid=725 |dead-url=no }}</ref>。
+
+== 醫療 ==
+竹北市現有五座較大型的醫院，分別是:<ref>{{cite web |title=新竹縣醫院－竹北市醫院 |url=https://www.hcshb.gov.tw/cp.aspx?n=588 |publisher=新竹縣政府衛生局 |archiveurl=https://web.archive.org/web/20210616045212/https://www.hcshb.gov.tw/cp.aspx?n=588 |archivedate=2021-06-16}}</ref>
+*[[東元綜合醫院]]
+*[[國立臺灣大學醫學院附設醫院|國立臺灣大學醫學院附設醫院新竹臺大分院生醫醫院竹北院區]]
+*[[中國醫藥大學附設醫院|中國醫藥大學新竹附設醫院]]
+*大安醫院
+*新仁醫院
+
+== 交通 ==
+竹北市為新竹縣縣治，在清領時期也是臺灣南北交通必經之地。而在竹北市境內的公路運輸，除了有國道一號竹北交流道以及省道台1線、台15線以及台61線，也有縣道117號、市道118號以及縣道120號等三條縣（市）道穿越，另外大眾運輸也包括[[台灣高鐵]]、[[縱貫線 (鐵路)|縱貫鐵路]]、[[六家線]]、[[新竹客運]]、[[中壢客運]]、[[金牌客運]]、[[科技之星交通|科技之星]]、[[高鐵快捷公車]]、[[新竹縣快捷公車]]以及[[竹北市免費市民公車]]等十種，公車路線繁多且班次密集，因此交通運輸相當便捷{{R|市志經建篇|p=340、343}}。
+
+=== 鐵路 ===
+{{multiple image
+| align = left
+| caption_align = center
+| image1 = TRA Zhubei Station.jpg
+| width1 = 200
+| caption1 = 臺鐵竹北車站
+| image2 = Front of Liujia Railway Station.jpg
+| width2 = 200
+| caption2 = 臺鐵六家車站
+}}
+竹北市的鐵路運輸路線主要為[[臺灣鐵路]][[縱貫線 (北段)|縱貫線]]以及[[六家線]]，境內設有三等站[[竹北車站]]以及乙種簡易站[[六家車站]]等二處車站{{R|市志經建篇|p=340}}。
+
+竹北市鐵路始於清領時期。1887年，時任臺灣巡撫[[劉銘傳]]向清朝政府奏請修築並起建鐵路，並於1890年完成臺北至新竹段，而該鐵路跨越鳳山溪後，即穿過竹北市並往西南方延伸再跨越頭前溪進入新竹市境內，在竹北市境內原本未有設置停靠站{{R|市志大事記|p1=13|市志經建篇|p2=343}}。
+
+1895年日本治臺之後，認為劉銘傳所造鐵路斜度與曲度過高，較為不安全且不符標準，遂而拆除原有的鐵路並改良重鋪。起初原有臺北至新竹的路段通車，但由於1897年颱風來襲而沖毀跨越鳳山溪的鐵橋，導致鐵路中斷無法通行，臺灣總督府遂於同年9月10日設置「紅毛田臨時停車場」{{R|市志大事記|p1=13}}，以便旅客在該地下車改搭渡船前往新竹，臨時停車場隨著橋樑在同年12月修復完成後而被取消<ref name="竹北車站">{{cite web |url=http://trstour.com/jhu-bei.htm |title=竹北車站 |publisher=臺灣驛站之旅 |access-date=2021-03-31 |language=zh-tw |archive-date=2019-04-18 |archive-url=https://web.archive.org/web/20190418153518/http://trstour.com/jhu-bei.htm |dead-url=no }}</ref>。直到1902年，大湖口至紅毛田鐵道改良通車後，紅毛田臨時停車場恢復設立並改名「紅毛田停車場」。1920年，紅毛田停車場改名「紅毛驛」{{R|市志大事記|p1=13}}。1929年，完成紅毛驛至山崎驛（今[[新豐車站 (台灣)|新豐車站]]）路段雙軌化。1934年，完成紅毛驛至新竹驛（今[[新竹車站]]）路段雙軌化，同時紅毛驛改名「竹北驛」，並改建為磚造站房<ref name="竹北車站"/>。竹北驛在日治時期的貨物運輸主要有米、柑橘、龍眼、茶、木炭等貨品，並以柑橘最為重要，係由於新埔鎮為臺灣柑橘生產的重鎮，其所生產的柑橘大多運至竹北車站輸出，使得竹北驛成為當時臺灣最大的柑橘出貨車站，也是新竹地區僅次於新竹驛的第二大貨物集散中心{{R|市志文資篇|p=256|市志經建篇|p2=343、345}}。
+
+二戰後，竹北驛改名「竹北車站」迄今。1955年，竹北車站升為二等乙站。爾後由於竹北快速的[[城市化]]，車站周圍高樓林立，對外交通不如以往的順暢，加上隨-{著}-中山高速公路在1978年全線通車，公路運輸競爭激烈，使得出入竹北車站的旅客人數逐年減少，營運收入隨之衰退，導致未達設置車站之等級標準，因此在1985年被降為三等站。1987年，竹北車站由於站房老舊不敷使用，故改建為鋼筋混凝土站房。2011年，配合交通部「兩鐵無縫運輸」的政策，遂於[[內灣線]][[竹中車站]]新建一條延伸至高鐵新竹站的支線，設立六家車站，並於同年11月11日通車啟用。{{R|市志大事記|p1=27|市志文資篇|p2=257|市志經建篇|p3=346}}<ref>{{cite web |url=http://trstour.com/liu-jia.htm |title=六家車站 |publisher=臺灣驛站之旅 |access-date=2021-03-31 |language=zh-tw |archive-date=2016-08-25 |archive-url=https://web.archive.org/web/20160825170321/http://trstour.com/liu-jia.htm |dead-url=no }}</ref>
+
+2013年7月17日，配合鐵路捷運化建設，竹北車站改建為跨站式車站。{{R|市志文資篇|p=256|市志經建篇|p2=345}}<ref name="竹北車站"/>
+
+{{multiple image
+| align = right
+| footer = 高鐵新竹站
+| footer_align = center
+| image1 = HSR Hsinchu station.jpg
+| width1 = 250
+}}
+位於六家地區「高速鐵路新竹車站特定區」的[[高鐵新竹站]]是台灣高速鐵路的車站，啟用於2006年，並於翌年（2007年）1月5日開始停靠列車{{R|市志大事記|p1=26}}。在該車站出站後，可藉由轉乘臺鐵六家車站、公車客運、計程車等交通運輸前往新竹縣市各地，是新竹地區重要的交通門戶。{{R|市志文資篇|p=257|市志經建篇|p2=346}}<ref>{{cite web |url=https://www.thsrc.com.tw/ArticleContent/a7a04c89-900b-4798-95a3-c01c455622f4 |title=台灣高鐵-新竹站 |publisher=台灣高鐵Taiwan High Speed Rail |access-date=2021-03-31 |language=zh-tw |archive-date=2020-11-24 |archive-url=https://web.archive.org/web/20201124203556/https://www.thsrc.com.tw/ArticleContent/a7a04c89-900b-4798-95a3-c01c455622f4 |dead-url=no }}</ref>
+
+=== 公車客運 ===
+{{See also|新竹縣市區公車}}
+[[新竹縣快捷公車]]是由新竹縣政府規劃的公車系統，於2012年4月2日正式啟用<ref>{{cite web |url=https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=97673 |title=新竹縣HTS快捷公車與愛心自行車 下週一上路 改搭快捷公車 就像一年多種3萬6400棵樹 |date=2012-03-30 |publisher=新竹縣政府行政處 |access-date=2021-03-29 |language=zh-tw |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519203029/https://www.hsinchu.gov.tw/News_Content.aspx?n=139&s=97673 |dead-url=no }}</ref>，並由[[科技之星交通|科技之星]]、[[金牌客運]]及[[捷乘客運]]等三家客運公司營運，行經竹北市境內的路線有一號（新竹縣政府至科學園區）、五號（湖口工業區至高鐵新竹站）、七號（竹北市公所至高鐵新竹站）、八號（竹東至竹北，分為行駛中正大橋、興隆大橋等二條）、九號（新竹高商至勝利八街）等六條路線<ref name="新竹縣公車">{{cite web |url=http://ibus.hsinchu.gov.tw/Public/Mobile/MRouteQuery.aspx |title=路線查詢 |publisher=新竹縣智慧公車便民查詢網 |access-date=2021-03-29 |language=zh-tw |archive-date=2021-03-09 |archive-url=https://web.archive.org/web/20210309175519/http://ibus.hsinchu.gov.tw/Public/Mobile/MRouteQuery.aspx |dead-url=no }}</ref>。
+
+[[竹北市免費市民公車]]是由竹北市公所規劃的公車系統，於2010年9月1日正式啟用{{R|市志大事記|p1=27}}<ref>{{cite web |url=http://www.chupei.gov.tw/iframcirculatedview.php?menu=29&typeid=49&circulated_id=1021 |title=竹北市免費市民公車上路囉！ |date=2010-08-26 |publisher=新竹縣竹北市公所 |access-date=2021-03-29 |language=zh-tw |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519201921/https://www.chupei.gov.tw/iframcirculatedview.php?menu=29&typeid=49&circulated_id=1021 |dead-url=no }}</ref>，並由科技之星負責營運60路（六家高鐵線，先經中華路）、61路（六家高鐵線，先經福興東路）、62路（鳳岡線）、63路（新港線）、65路（麻園溪州線，先經溪州路）、66路（麻園溪州線，先經新興路）以及68路（白地尚義線）等七條路線<ref name="新竹縣公車"/><ref>{{cite web |url=http://www.chupei.gov.tw/iframcontent_edit.php?menu=842&typeid=842 |title=免費市民公車 |publisher=新竹縣竹北市公所 |access-date=2021-03-29 |language=zh-tw |archive-date=2021-01-23 |archive-url=https://web.archive.org/web/20210123043432/http://www.chupei.gov.tw/iframcontent_edit.php?menu=842&typeid=842 |dead-url=no }}</ref>。
+
+長途公路客運經過竹北市的路線有新竹至湖口、新竹至新埔、新竹至芎林、新竹至關西等111條由[[亦捷科際]]營運之路線，可提供竹北市民以及新竹市、新豐鄉、湖口鄉、芎林鄉、新埔鎮、關西鎮等鄰近鄉鎮市區居民搭乘轉運。另有由金牌客運營運的5700路（[[台灣好行#新竹縣|台灣好行獅山線]]）可前往芎林鄉、竹東鎮、[[北埔鄉]]、[[峨眉鄉]]，以及由科技之星營運的高鐵快捷公車5900路提供高鐵新竹站與竹北火車站的旅客轉運之用{{R|市志經建篇|p=343}}<ref name="新竹縣公車"/>。
+
+=== 公路 ===
+清領時期的竹北市是南北官道往來的要衝，也是進出竹塹地區的門戶，南北往來的旅客商販，都會經過該市與湖口鄉、新豐鄉交界的鳳山崎。淡水廳設治竹塹城後，竹北市對外交通主要透過大官路（或稱「鳳山崎大道」）與小官道等二條官道，其中大官道所經路線與現今的縱貫線極為相近。但清領時期的官道由於缺乏維護，頗為崎嶇難行，加上臺灣西部河川流速快、坡度大，官道在雨季時經常氾濫，因此官道淹水成河時，需要在金門厝義渡、新-{庄}-子民渡、竹塹港渡等十個渡口搭乘船隻以渡過大河。直至進入日治時期後，臺灣總督府於1916年完成長約461.7公里的南北縱貫道路，即現今的省道台一線，使得竹北市早期道路狀況不佳的情形得以大幅改善{{R|市志經建篇|p=341－342}}。
+
+竹北市境內有一條[[中華民國國道|國道高速公路]]通過。{{Jct|country=TWN|NH-ALL|1}}貫穿該市中部偏東，在縣道120號交會處設有於1996年正式通車的[[竹北交流道]]（91），是竹北市對外重要交通門戶之一{{R|市志經建篇|p=342}}<ref>{{cite web |url=http://www.freeway.gov.tw/way_net.aspx |title=國道地圖-路網示意圖 |publisher=交通部高速公路局 |access-date=2021-03-19 |language=zh-tw |archive-date=2017-05-04 |archive-url=https://web.archive.org/web/20170504054922/http://www.freeway.gov.tw/way_net.aspx |dead-url=no }}</ref>。
+
+竹北市境內有[[臺灣省道|省道]]三條。{{Jct|country=TWN|PH|1}}為縱貫公路，在竹北市境內稱為中華路，往南過頭前溪後可前往新竹市以南各縣市海線地區，往北過鳳山溪後可前往中壢區、桃園區、[[新莊區]]、[[三重區]]等北台灣的大型城市。{{Jct|country=TWN|PH|15}}為西部濱海公路北段{{efn|另一段（中南段）為{{Jct|country=TWN|PH|17}}}}，{{Jct|country=TWN|PH-ALL|61}}則是中華民國政府為改善臺灣西部濱海地區的交通而興建的快速公路，兩路線在竹北市境內採快慢車分流的方式共道，並行經竹北市西側沿海地帶，往南由竹港大橋跨越頭前溪後可進入新竹市，往北由[[鳳鼻尾隧道]]穿過鳳鼻尾山後可前往新豐鄉、桃園市[[桃園市#地域分區|西部濱海四區]]{{efn|即[[新屋區]]、[[觀音區]]、[[大園區]]、蘆竹區等四區}}以及新北市林口區、八里區、淡水區等地{{R|市志經建篇|p=343}}<ref>{{cite web |url=http://www.thb.gov.tw/sites/ch/modules/expressway/general?node=bb88772d-35c3-4b18-86f8-d2a8f6772143 |title=公路總局-省道公路路線 |publisher=中華民國交通部公路總局 |access-date=2021-03-19 |language=zh-tw |archive-date=2017-05-04 |archive-url=https://web.archive.org/web/20170504054925/http://www.thb.gov.tw/sites/ch/modules/expressway/general?node=bb88772d-35c3-4b18-86f8-d2a8f6772143 |dead-url=no }}</ref>。
+
+竹北市境內有[[中華民國縣道|縣道]]及[[中華民國市道|市道]]共三條。{{Jct|country=TWN|CH|117}}，在竹北市境內由光明六路東二段切割後其南、北兩段分別稱為自強南、北路，該縣道貫通竹北市六家地區，往北由位於北興里的褒忠橋跨越鳳山溪後可前往新埔鎮西側、湖口鄉以及新豐鄉等地，往南由[[經國大橋]]跨越頭前溪後可前往新竹科學園區、[[新竹車站|新竹火車站]]以及[[青草湖 (台灣湖泊)|青草湖]]等新竹市境內的知名地標。{{Jct|country=TWN|CH|118}}始於中正西路與長青路交叉口，在竹北市境內由中華路、縣政二路切割後分為三段，由西至東分別為中正西路、中正東路以及中山路，並貫穿竹北市境內最熱鬧繁榮的地帶，往西可由[[舊港大橋]]進入新竹市北區南寮，往東可前往新埔鎮、[[關西鎮 (台灣)|關西鎮]]以及桃園市[[復興區 (台灣)|復興區]]等地，最後連接[[北橫公路]]（即{{Jct|country=TWN|PH|7}}）。{{Jct|country=TWN|CH|120}}即光明六路（部分）以及東興路，始於光明六路與中華路交叉口，在竹北市境內以西北向東南走向並串聯新竹縣政府地區、高鐵新竹站以及新竹生物醫學園區，往東可前往芎林鄉、[[橫山鄉 (台灣)|橫山鄉]]以及[[尖石鄉]]等地{{R|市志經建篇|p=343}}<ref>{{cite web |url=http://www.thb.gov.tw/sites/ch/modules/expressway/county?node=81f6a0db-8899-4d5a-83a2-2e6672a467f7 |title=公路總局-市道及縣道公路路線 |publisher=中華民國交通部公路總局 |access-date=2021-03-19 |language=zh-tw |archive-date=2016-05-21 |archive-url=https://web.archive.org/web/20160521171842/http://www.thb.gov.tw/sites/ch/modules/expressway/county?node=81f6a0db-8899-4d5a-83a2-2e6672a467f7 |dead-url=no }}</ref>。
+
+=== 郵政 ===
+臺灣近代郵政事業始於1885年建省後，係由時任巡撫劉銘傳改革傳統舖遞制度並建立的郵政系統。在日本治臺後，臺灣的郵政系統改由日本引進並取代清朝政府的郵政系統，當時的日軍為了各類訊息的傳遞與簡易的金融活動，遂在臺灣各地設置野戰郵局（郵便局），兼管郵政與電信事業，1895年7月19日則在新竹地區設置第三野戰郵便局<ref name="新竹郵局">{{cite web |url=https://www.post.gov.tw/post/internet/Q_localpost/index.jsp?ID=12070301 |title=新竹郵局歷史簡介 |publisher=中華郵政全球資訊網 |access-date=2021-04-07 |language=zh-tw |archive-date=2017-08-10 |archive-url=https://web.archive.org/web/20170810021658/https://www.post.gov.tw/post/internet/Q_localpost/index.jsp?ID=12070301 |dead-url=no }}</ref>。1896年，臺灣總督府廢除第三野戰郵便局，改為新竹郵便電信局，屬於二等郵便局。1921年8月15日，新竹郵便電信局升格為一等郵便局。竹北市的郵務電信原由新竹郵便局辦理，直到1941年6月，正式成立竹北郵便局，是今日竹北郵局的前身{{R|市志經建篇|p=346－347}}。
+
+二戰後，1949年4月實行郵電分離，全臺灣所有郵電局改為郵局，並加入簡易儲匯金融業務，隸屬於[[中華民國交通部郵政總局|交通部郵政總局]]臺灣省郵政管理局。1956年，[[新竹郵局]]由原本的二等郵局升格為一等乙級局，翌年（1957年）再升格為一等甲級局<ref name="新竹郵局"/>。1980年，郵政管理局分為北、中、南三區，竹北市郵政業務劃歸北區郵政管理局。2003年1月1日，郵政總局實施公司化，轄下的郵務部門獨立為[[中華郵政]]。在竹北市由於經濟發展成長快速，郵政與金融業務隨之大幅成長。截至2020年底，竹北市總計有竹北郵局、中山郵局、博愛郵局、成功郵局、六家郵局、光明郵局、嘉豐郵局等七個郵局據點，以及日興郵政代辦所、高鐵郵政代辦所、中山郵政代辦所、第一郵政代辦所、台元郵政代辦所等五個郵政代辦所<ref>{{cite web |url=https://www.post.gov.tw/post/internet/I_location/index.jsp?topage=1&PreRowDatas=10&city=%E6%96%B0%E7%AB%B9%E7%B8%A3&input2=&st_7=&st_6=&is_night=&st_1_5=&zip6=&prsb_no=&city_area=%E7%AB%B9%E5%8C%97%E5%B8%82&ID=190107&post_address=&style=&keyword=&Page_Load=1 |title=首頁  > 營業據點  > 營業據點一覽  > 全國郵局查詢(含代辦所) |publisher=中華郵政全球資訊網 |access-date=2021-04-07 |language=zh-tw |archive-date=2021-05-19 |archive-url=https://web.archive.org/web/20210519203129/https://www.post.gov.tw/post/internet/I_location/index.jsp?topage=1&PreRowDatas=10&city=%E6%96%B0%E7%AB%B9%E7%B8%A3&input2=&st_7=&st_6=&is_night=&st_1_5=&zip6=&prsb_no=&city_area=%E7%AB%B9%E5%8C%97%E5%B8%82&ID=190107&post_address=&style=&keyword=&Page_Load=1 |dead-url=no }}</ref>{{R|市志經建篇|p=347}}。
+
+== 休閒旅遊 ==
+{{Main|新竹縣旅遊景點列表}}
+
+=== 人文景點 ===
+[[File:竹北斗崙里的一個都會社區公園.jpg|thumb|200px|竹北斗崙里的一個都會社區公園]]
+*[[竹北國民運動中心]]
+*[[竹北夜市]]
+*濱海遊憩區
+*鳳崎晚霞
+*楓香大道
+*[[新瓦屋客家文化保存區|新瓦屋]]假日板凳電影院
+*[[新瓦屋客家文化保存區]]
+*世興空氣品質淨化區
+*隘興空氣品質淨化區
+*頭前溪畔足球場
+*竹北豆腐岩  
+
+===公園===
+*文化中心－竹筍公園（文化公園）
+*[[中央公園 (竹北市)|中央公園]]
+*主題公園－主題分別是數學、光影、星球、12生肖、宗教、蔬菜、種子、童玩、昆蟲、植物、鳥類及石頭等。
+**縣治一期18座
+**縣治二期15座（兒7公園含[[竹北伍福宮]]、兒10公園含[[文化福德宮]]、兒24公園含竹北三福宮）
+*福興公園
+*麻園生態公園
+*河濱公園
+*竹北狗狗公園<ref>{{cite web|title=暑假帶小孩放電！新竹５大「親子公園」：瑪莉歐蘑菇城堡、２層樓高旋轉滑梯 {{!}} 食尚玩家|url=https://supertaste.tvbs.com.tw/kids/343801|website=TVBS|date=2023-07-06|last=TVBS|access-date=2024-04-25|archive-date=2024-04-25|archive-url=https://web.archive.org/web/20240425105449/https://supertaste.tvbs.com.tw/kids/343801|dead-url=no}}</ref>
+
+===宗教場所===
+*[[竹北蓮花寺]]
+*[[竹北蓮華寺]]
+*[[采田福地]]
+*[[竹北天后宮]]
+*[[十三甲伯公廟]]
+*[[十三伯公福佑宮]]
+*[[文化福德宮]]
+*[[竹北伍福宮]]
+*竹北青山弘法宮
+*[[廖茶先生媽廟]]
+*[[隘口伯公廣福宮]]
+
+===古蹟與歷史建築===
+*[[竹北蓮華寺]]
+*[[采田福地|-{采}-田福地]]
+*[[竹北泉州厝汾陽堂]]
+*[[竹北六張犁忠孝堂]]
+*[[竹北六張犁大夫第]]
+*[[竹北六張犁林家祠]]
+*[[竹北問禮堂]]
+
+== 注釋 ==
+{{NoteFoot}}
+{{Notelist}}
+
+== 參考資料 ==
+;引用來源
+{{Reflist|3|refs=
+<ref name="市志大事記">{{cite book |editor=彭瑞金、藍建春 |title=《新修竹北市志【上冊】》 |chapter=大事記 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志歷史篇">{{cite book |editor=彭瑞金、鄭欣挺 |title=《新修竹北市志【上冊】》 |chapter=第一篇·歷史篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志地理篇">{{cite book |editor=楊國禎、陳怡伶 |title=《新修竹北市志【上冊】》 |chapter=第二篇·地理篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志政治篇">{{cite book |editor=藍建春 |title=《新修竹北市志【上冊】》 |chapter=第三篇·政治篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志經建篇">{{cite book |editor=劉曜華、鄭欣挺 |title=《新修竹北市志【上冊】》 |chapter=第四篇·經建篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志社會篇">{{cite book |editor=邱彥貴、温宗翰 |title=《新修竹北市志【上冊】》 |chapter=第五篇·社會篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw |ref={{SfnRef|邱彥貴|温宗翰|2019}} }}</ref>
+<ref name="市志教育篇">{{cite book |editor=陳怡伶 |title=《新修竹北市志【下冊】》 |chapter=第六篇·教育篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref> <!--
+<ref name="市志藝文篇">{{cite book |editor=彭瑞金、邱彥貴、陳板、藍建春 |title=《新修竹北市志【下冊】》 |chapter=第七篇·藝文篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref> -->
+<ref name="市志宗教篇">{{cite book |editor=林茂賢、温宗翰 |title=《新修竹北市志【下冊】》 |chapter=第八篇·宗教篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref>
+<ref name="市志文資篇">{{cite book |editor=邱彥貴、温宗翰 |title=《新修竹北市志【下冊】》 |chapter=第九篇·文資篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref> <!--
+<ref name="市志人物篇">{{cite book |editor=邱彥貴、温宗翰 |title=《新修竹北市志【下冊】》 |chapter=第十篇·人物篇 |publisher=新竹縣竹北市公所 |year=2019 |location=新竹縣 |language=zh-tw }}</ref> -->
+}}
+
+;書籍
+{{refbegin}}
+* {{cite book |editor=施添福等 |year=2010 |chapter=第三章·竹北市 |title=《臺灣地名辭書·卷十四·新竹縣》 |language=zh-tw |location=南投市 |publisher=國史館臺灣文獻館 |isbn=978-986-02-4935-4 |ref={{sfnref|施添福|2010}} }}
+* {{cite book |editor=彭瑞金等 |title=新修竹北市志 |volume=上冊 |publisher=新竹縣竹北市公所 |date=2019年8月 |isbn=978-986-05-9847-6 |location=新竹縣 |url=https://www.chupei.gov.tw/admin/upload/twgov_file_201910151538041.pdf |format=PDF |access-date=2021-03-14 |language=zh-tw |archive-date=2021-07-20 |archive-url=https://web.archive.org/web/20210720092034/https://www.chupei.gov.tw/admin/upload/twgov_file_201910151538041.pdf |dead-url=no }}
+* {{cite book |editor=彭瑞金等 |title=新修竹北市志 |volume=下冊 |publisher=新竹縣竹北市公所 |date=2019年8月 |isbn=978-986-05-9848-3 |location=新竹縣 |url=https://www.chupei.gov.tw/admin/upload/twgov_file_201910151541561.pdf |format=PDF |access-date=2021-03-14 |language=zh-tw |archive-date=2021-07-20 |archive-url=https://web.archive.org/web/20210720091946/https://www.chupei.gov.tw/admin/upload/twgov_file_201910151541561.pdf |dead-url=no }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Zhubei City, Hsinchu County |n=no |q=no |s=no |author=no |b=no |v=no |voy=竹北 }}
+*[https://www.zhubei.gov.tw/ 竹北市公所] {{Wayback|url=https://www.zhubei.gov.tw/ |date=20210417083121 }}
+*{{youtube|user=376446400a|竹北市公所}}
+*[https://stadium.hcc.edu.tw/ 新竹縣體育場] {{Wayback|url=https://stadium.hcc.edu.tw/ |date=20210125033123 }}
+
+{{竹北市|uncollapsed}}
+{{新竹縣}}
+{{臺灣建制市列表}} 
+{{臺灣客家文化重點發展區}}
+{{Authority control}}
+{{DEFAULTSORT:Zhubei}}
+[[Category:竹北市| ]]
+[[Category:臺灣縣治]]
+[[Category:臺灣客家文化重點發展區|竹]]
+[[Category:1988年建立的行政區劃]]
+[[Category:台灣縣轄市]]
+[[Category:1988年台灣建立]]

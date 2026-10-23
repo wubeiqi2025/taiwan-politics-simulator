@@ -1,0 +1,827 @@
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[桃園市]]
+|行政區名稱= 八德區
+|外文名稱= Bade District
+|外文語言= [[威妥瑪拼音]]+英語
+|徽文件名= 
+|代表圖像= 八德都市計畫區.png
+|代表圖像名稱= 八德都市計畫區遠拍景觀 {{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 
+|徽= 八德區徽
+|行政機關首長職稱= 區長
+|行政區類別=[[區 (中華民國)|市轄區]]
+|行政機關首長姓名= 蔡豊展
+|舊稱= 八塊厝<ref name="八德尋根">{{cite web |url=https://www.bade.tycg.gov.tw/home.jsp?id=13&parentpath=0,1 |title=本區介紹-八德尋根 |publisher=桃園市政府八德區公所 |date=2019-10-08 |access-date=2020-01-31 |language=zh-tw |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190633/https://www.bade.tycg.gov.tw/home.jsp?id=13&parentpath=0%2C1 |dead-url=no }}</ref>
+|設立始年= 
+|區劃= 52[[村里|里]]1,336[[鄰]]
+|行政機關網站= {{url|https://www.bade.tycg.gov.tw/}}|{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}
+|總面積= {{TWTSData|A|334}}
+|總人口= {{TWTSData|P|334}}
+|population_rank = [[臺灣行政區人口列表|臺灣的第24位／桃園市的第4位]]
+|總人口年份= {{TWTSData|P|date}}
+|household= {{TWTSData|H|334}}
+|symbol_title=區
+|symbol_flower=[[大王仙丹花]]
+|symbol_tree=[[樟樹]]
+|postal_code=334
+|adjacent= [[桃園區]]、[[中壢區]]、[[平鎮區]]、[[大溪區]]；[[新北市]][[鶯歌區]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Bade district.png|center|300px|八德區位置圖]]
+</div>
+}}
+{{Taiwanese
+| hanji      = 八德區
+| tsuin      = ㄅㄚ- ㄉㄜˊ ㄑㄩ-
+| pinyin     = Bā Dé Qū
+| poj        = Pat-tek Khu／Peh-tè Khu|（八塊區）
+| holo       = Pat-tik Khu／Peh-tè Khu
+| pfs        = Pat-tet Khî
+| haka       = [[四縣腔]]：badˋ dedˋ kiˊ<br />[[饒平腔]]：badˋ dedˋ kiˇ<br />[[詔安客語|詔安腔]]：beedˊ dedˊ kiˇ
+| buc        = Báik-dáik Kṳ̆ 
+}}
+'''八德區'''，舊稱「八塊厝」，位於[[中華民國]][[桃園市]]東北部，為[[國防部高等軍事法院]]與[[國防部北部地方軍事法院]]所在地。北鄰[[桃園區]]，東鄰[[新北市]][[鶯歌區]]，西鄰[[中壢區]]，西南連[[平鎮區]]，南接[[大溪區]]，地勢南高北低，有[[茄苳溪 (桃園市東)|茄苳溪]]貫穿南北。行政區域東西長6,760公尺，南北長8,460公尺，面積33.7111平方公里，是桃園市面積最小的行政區<ref>{{Cite web |url=https://www.tycg.gov.tw/ch/home.jsp?id=10450&parentpath=0,10403,10449 |title=存档副本 |access-date=2022-02-07 |archive-date=2022-04-26 |archive-url=https://web.archive.org/web/20220426183537/https://www.tycg.gov.tw/ch/home.jsp?id=10450&parentpath=0%2C10403%2C10449 }}</ref>，為銜接桃園台地與台北盆地之門戶。
+
+區內人口約有21.6萬人，人口密度每平方公里約有6,369人，為桃園市人口密度僅次於桃園區排行第二高的行政區。[[桃園縣]]於2014年12月25日升格為直轄市，原縣轄八德市改制為'''八德區'''。
+
+== 歷史 ==
+[[File:Taoyuan Canal - The Water Mill.jpg|thumb|桃園大圳八德段的水車]]
+[[File:Taoyuan main Canal-3.jpg|thumb|桃園大圳在八德的水道及兩岸綠茵]]
+八德區舊名「八塊厝」<ref name="八德尋根"/>（{{lang-nan-tw|tl=Peh-tè-tshù}}）（下含小字莊頭、莊尾、稻埕頭、連城、舊城、公館、租倉、城外等八處，今八德區公所、[[八德三元宮|三元宮]]一帶地區），相傳是[[清]][[乾隆]]年間有[[謝姓|謝]]、[[蕭姓|蕭]]、[[邱姓|邱]]、[[呂姓|呂]]、[[賴姓|賴]]、[[黃姓|黃]]、[[吳姓|吳]]、[[李姓]]等八戶人家至此開墾，每姓各築一屋，因而得名，另外還有客家話的稱呼八隻屋。1920年改設「-{[[八塊庄]]}-」，劃歸[[新竹州]][[桃園郡]]管轄。戰後改名[[桃園縣]]八德鄉；1995年1月「八德鄉」改制「八德市」，同時「村」改為「里」。八德區主要商業活動聚集在[[大湳 (桃園市)|大湳]]一帶，而非八德區公所所在地。2014年12月25日桃園縣改制直轄市，八德市改制「八德區」<ref name="八德尋根"/>。
+
+=== 區內聚落 ===
+* [[大湳 (桃園市)|大湳]]
+* [[小大湳]]
+* 更寮腳
+* 麻園
+* [[茄苳]]
+* [[霄裡]]（霄裡社）
+* [[雙連坡]]
+* [[松柏林]]
+* [[打鐵店]]
+* [[大庄 (桃園市)|大-{庄}-]]
+
+=== 大事紀 ===
+* 1995年，1月1日人口滿15萬，由桃園縣八德鄉改制為桃園縣八德市。
+* 2010年，11月[[特力屋]]進駐八德。
+* 2012年，4月14日[[巧克力共和國]]開幕。
+* 2014年，5月3日[[興仁花園夜市]]於長興路開幕。11月10日，統聯1659八德（大湳）-土城（永寧）通車。12月25日，由桃園縣八德市改制為桃園市八德區。
+* 2015年，1月桃拾生活廣場開幕。10月1日統聯1659改為A/B/C三線。A/B線延長至八德擴大都計介壽路二段與豐德路口（近大溪區交界）。
+* 2016年，2月大湳交流道下福德一路往八德方向，將190公尺道路拓寬成10線道46米寬。12月，[[廣豐新天地]]試營運。2017年1月12日正式開幕。
+* 2017年，4月茄苳路(近台一線路段)多年瓶頸由3米拓寬為8米。6月，桃園市立兒童美術館於[[廣豐新天地]]5F開幕。6月16日，位於八德擴大都計的「八德區棒壘球場」落成啟用。
+* 2018年，6月20日人口突破20萬人<ref>{{Cite web |url=https://news.housefun.com.tw/news/article/164626199646.html |title=桃園升格至今人口破220萬 六都最年輕 |accessdate=2020-07-11 |archive-date=2020-07-11 |archive-url=https://web.archive.org/web/20200711223729/https://news.housefun.com.tw/news/article/164626199646.html |dead-url=no }}</ref>。8月，八德國民運動中心位在國際路與廣福路口（土地面積5,000坪）原「大湳北景雲營區」動工。9月27日桃園區延平路延伸至八德，第二期先動工（國道二號南側至和強路）長度1,150公尺，路寬20公尺。10月1日，統聯1659A/B/C移撥給桃園市政府，變更為市區公車，路線編號變更為713、715、716。10月15日桃園捷運綠線在八德擴大都計GC01標高架八德段舉辦動工典禮。11月9日延平路延伸八德第一期也動工，長度265公尺。12月位於長興路尾（[[霄裡]]與[[龍岡]]交界）的簡易綠美化公園「花舞霄裡HAKKA」落成<ref>{{Cite web |url=http://news.ltn.com.tw/news/life/breakingnews/2639736 |title=花舞霄裡HAKKA進行曲 七彩花海迎賓 |accessdate=2018-12-25 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190639/https://news.ltn.com.tw/news/life/breakingnews/2639736 |dead-url=no }}</ref>。興豐路榮興路口至八德埤塘公園之間增設約600公尺人行道。
+* 2019年，1月人口密度每平方公里突破6,000人大關。2月，茄苳溪成功橋改建工程完成，橋體拓寬到長30公尺、寬8公尺。3月4日新增統聯717龍岡經大湳到永寧站班次。5月17日交通部通過三鶯線延伸桃園八德段，可行性研究報告，8月26日獲國發會同意支持<ref>{{Cite web |url=https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=69132a474a6cc2422650f2007baea4ed |title=三鶯線延伸桃園八德段 獲國發會審查通過 |accessdate=2019-09-03 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190650/https://www.ntpc.gov.tw/ch/home.jsp?id=e8ca970cde5c00e1&dataserno=69132a474a6cc2422650f2007baea4ed |dead-url=no }}</ref>，11月13日獲行政院同意。9月6日～9月22日展出[[2019桃園地景藝術節|桃園地景藝術節]]<ref>{{Cite web |url=http://taoyuanlandart.com.tw/ |title=2019桃園地景藝術節 |access-date=2019-09-03 |archive-url=https://web.archive.org/web/20190915033412/http://taoyuanlandart.com.tw/ |archive-date=2019-09-15 |dead-url=yes }}</ref>。10月11日桃園捷運綠線GC02標地下段（八德到桃園車站地下段）舉行動工儀式<ref>{{Cite web |url=https://news.ltn.com.tw/news/life/paper/1324188 |title=桃園捷運綠線GC02標地下段開工 2026年完工 |accessdate=2019-10-12 |archive-date=2020-11-16 |archive-url=https://web.archive.org/web/20201116115751/https://news.ltn.com.tw/news/life/paper/1324188 |dead-url=no }}</ref>。10月29日國道3號增設大鶯豐德交流道獲交通部高公局審議核定。
+* 2020年，1月9日與中壢區交界的桃園北區客家會館動工。8月3日桃園區延平路延伸至八德區和強路段第二期先行通車。8月7日大鶯豐德交流道獲行政院國發會同意，10月20日行政院最後確認興建。12月24日桃園區延平路延伸第一期通車(樹仁三街至國道二號橋下)。
+* 2021年，9月24日八德國民運動中心試營運開幕。10月24日北區客家會館開幕。
+* 2022年，3月1日由福興里分出福元里、福德里；興仁里分出興中里，全區48里改為51里。8月19日位於和強路與和平路口的八德大湳轉運站舉行動工典禮。
+* 2023年，1月底人口達21萬。6月28日北二高增設八德交流道環評通過。7月19日三鶯線延伸桃園八德段環評通過。11月24日國發會通過捷運綠線延伸中壢。12月11日八德區延平路第三期工程（和強路延伸至和平路）動工。
+* 2024年，1月5日，綠線高架橋下新闢道路（建德路延伸至介壽路段）動工，2月19日和強路八德轉運站啟用。
+* 2025年，4月30日綠線高架橋下建德路延伸至建國路段約750公尺(德和路一段)先行通車。
+* 2026年，3月1日從大和里分出大盛里，全區51里改成52里。5月11日延平路第三期通車（和強路延伸至和平路）。
+
+== 人口 ==
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{Cite web |url=https://www.bade-hro.tycg.gov.tw/home.jsp?id=22&parentpath=0,19,20 |title=其他人口統計 |publisher=桃園市八德區戶政事務所 |access-date=2020-07-08 |language=zh-tw |archive-date=2020-07-08 |archive-url=https://web.archive.org/web/20200708191605/https://www.bade-hro.tycg.gov.tw/home.jsp?id=22&parentpath=0,19,20 |dead-url=yes }}
+# {{cite web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |publisher=[[中華民國內政部|內政部]] |title=內政部統計月報-各鄉鎮市區人口數 |access-date=2019-12-19 |archive-date=2021-06-23 |archive-url=https://web.archive.org/web/20210623061641/https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html }}
+|1946	|11632
+|1951	|12720
+|1956	|14632
+|1961	|17105
+|1966	|22310
+|1971	|29889
+|1976	|53338
+|1981	|95934
+|1986	|117487
+|1991	|135897
+|1996	|151759
+|2001	|166355
+|2006	|171697
+|2011	|177435
+|2016	|192922
+|2021   |209665
+}}
+根據桃園市政府民政局及桃園市八德區戶政事務所統計，2025年底八德區戶數約8.8萬戶，人口21.6萬人，區內人口最多與最少的里分別是大和里（2026年3月拆為大和里、大盛里）與大慶里，2025年底兩里人口分別為9,606人與1,604人<ref>{{Cite web |url=https://cab.tycg.gov.tw/home.jsp?id=10596&parentpath=0,10580 |title=桃園市政府民政局-人口統計 |accessdate=2020-06-28 |archive-date=2020-06-28 |archive-url=https://web.archive.org/web/20200628030123/https://cab.tycg.gov.tw/home.jsp?id=10596&parentpath=0,10580 |dead-url=no }}</ref>。
+
+八德區居民以[[臺灣閩南人|閩南籍]]、[[臺灣客家人|客家人]]、外省眷村等為主，加上少數[[臺灣原住民族|原住民]]及[[外籍配偶 (臺灣)|外籍配偶]]等族群。另外，八德區為臺灣本島最多[[馬祖列島|馬祖]]人聚居的行政區，人數將近兩萬人，是馬祖人的新故鄉<ref>{{Cite web |url=http://tw.news.yahoo.com/%E5%85%A9%E8%80%81%E7%94%A8%E9%A6%AC%E7%A5%96%E8%A9%B1%E7%9F%AD%E6%9A%AB%E7%88%AD%E5%90%B5-%E9%84%B0%E4%B8%8D%E4%BB%A5%E7%82%BA%E6%84%8F-213000269.html |title=兩老用馬祖話短暫爭吵 鄰不以為意 |accessdate=2020-12-20 |archive-date=2019-10-11 |archive-url=https://web.archive.org/web/20191011003303/https://tw.news.yahoo.com/%E5%85%A9%E8%80%81%E7%94%A8%E9%A6%AC%E7%A5%96%E8%A9%B1%E7%9F%AD%E6%9A%AB%E7%88%AD%E5%90%B5-%E9%84%B0%E4%B8%8D%E4%BB%A5%E7%82%BA%E6%84%8F-213000269.html |dead-url=no }}</ref>。而全國規模最大的[[榮民]]就養機構—[[桃園榮民之家]]也位於該區，使八德區成為一個多元文化色彩的城市。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Population of Bade  District, Taoyuan.chart|data=Population of Bade  District, Taoyuan.tab}}
+</div>
+{{clear}}
+
+== 政治 ==
+=== 歷任首長 ===
+{| class="wikitable"
+! colspan="6" |八德鄉時期
+|-
+!屆別||姓名||黨籍||就任日期||卸任日期||備註
+|-
+|1||尤清山||||1946年3月||1948年||首任官派鄉長
+|-
+|2||邱創乾||||1948年||1951年||官派
+|-
+|1||邱創乾||||1951年||1953年||首任民選鄉長
+|-
+|2||邱創乾||||1953年||1956年||
+|-
+|3||邱創乾||||1956年||1960年||
+|-
+|4||邱盛||||1960年||1963年||
+|-
+|5||邱盛|| ||1964年3月1日||1968年2月28日||
+|-
+|6||呂昌有|| ||1968年3月1日||1973年3月31日||
+|-
+|7||呂昌有|| ||1973年4月1日||1977年12月31日||
+|-
+|8||呂吉助|| ||1978年1月1日||1982年2月28日||
+|-
+|9||李詩水|| ||1982年3月1日||1986年3月1日||
+|-
+|10||李詩水|| ||1986年3月1日||1990年3月1日||呂新民代理
+|-
+|11||[[呂新民]]||{{KMT}} ||1990年3月1日||1994年3月1日||
+|-
+|12||李金水||{{KMT}} ||1994年3月1日||1994年12月31日||1995年市鎮改制續任
+|-
+! colspan="6" |八德市時期（民選）
+|-
+|1||李金水||{{KMT}} ||1995年1月1日||1998年3月1日||首任民選市長
+|-
+|2||張春松||{{KMT}} ||1998年3月1日||2002年3月1日||
+|-
+|3||張春松||{{KMT}} ||2002年3月1日||2006年3月1日||
+|-
+|4||何正森||{{KMT}}||2006年3月1日||2010年3月1日||
+|-
+|5||何正森||{{KMT}}||2010年3月1日||2014年12月25日||末任民選市長
+|-
+! colspan="6" |八德區時期（指派）
+|-
+|1||黃啟賓|| ||2014年12月25日||2015年4月10日||首任市長指派
+|-
+|2||陳玉明|| ||2015年4月10日||2019年1月9日||
+|-
+|3||蔡志揚|| ||2019年1月9日||2019年9月30日||轉任蘆竹區長
+|-
+|4||邱瑞朝|| ||2019年10月1日||2022年6月29日||由蘆竹區調任
+|-
+|5||黃全成|| ||2022年6月29日||2022年12月24日||由桃園市政府工務局養工處總工程師調任
+|-bgcolor="#a4d4ff"
+|6||蔡豊展|| ||2022年12月25日||現任||由副區長升任
+|}
+{{clear}}
+
+=== 區政組織 ===
+[[File:Bade City Office, Taoyuan County 20080502.jpg|thumb|2008年5月的八德市公所（現已改制為八德區公所）]]
+[[八德區公所]]是[[桃園市政府]]在八德區的派出機關，在中華民國政府架構中為市政府綜理區政的執行機關，上級業務監督機關為桃園市政府。[[区长]]由[[桃園市市長|市長]]任命，其任期為無任期保障。在區長、副區長及主任秘書之下，設有5課4室等9個內部單位<ref>{{Cite web |url=https://www.bade.tycg.gov.tw/home.jsp?id=11&parentpath=0,1,9 |title=本區介紹-本所組織介紹-組織架構圖 |publisher=桃園市政府八德區公所 |access-date=2021-09-26 |language=zh-tw |archive-date=2022-03-19 |archive-url=https://web.archive.org/web/20220319011125/https://www.bade.tycg.gov.tw/home.jsp?id=11&parentpath=0%2C1%2C9 }}</ref>。八德區為[[桃園市議會]]第三選區，在市議會的63席市議員中，八德區共選出5席區域市議員（不含平地原住民與山地原住民議員）<ref>{{Cite web |url=https://www.tycc.gov.tw/content/intro/intro_main.aspx?wtp=1&wnd=204&town=%e7%ac%ac%e4%b8%89%e9%81%b8%e5%8d%80 |title=議員介紹-本屆議員-第三選區 八德區 |publisher=桃園市議會 |access-date=2021-09-26 |language=zh-tw |archive-date=2022-03-19 |archive-url=https://web.archive.org/web/20220319011031/https://www.tycc.gov.tw/content/intro/intro_main.aspx?wtp=1&wnd=204&town=%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80 }}</ref>。
+
+=== 行政區 ===
+現今八德區行政範圍的確立，來自於1920年，日本將臺灣十二廳改為五州二廳，設八塊-{庄}-屬新竹州桃園郡{{r|市志政治篇|p=78}}。八塊-{庄}-轄八塊、大湳、小大湳、下-{庄}-子、茄苳溪、霄裡等6個大字{{sfn|施添福|2009|pp=176－178}}。1945年，改為「八塊鄉」，屬新竹縣桃園區。1946年4月，改名「八德鄉」。1950年，調整行政區域並裁撤區署，八德鄉改隸新成立的桃園縣。1995年1月1日，八德鄉改制為「八德市」{{r|市志政治篇|p=78}}。2014年12月25日，桃園縣改制為直轄市，八德市改制為市轄區「八德區」，隸屬桃園市<ref name="八德尋根"/>。
+
+八德區共轄52里<ref>{{Cite web |url=https://www.bade-hro.tycg.gov.tw/home.jsp?id=21&parentpath=0,19,20 |title=業務資訊-統計資訊-人口統計-各里人口統計 |publisher=桃園市政府-八德區戶政事務所 |access-date=2023-01-06 |language=zh-tw |archive-date=2023-01-06 |archive-url=https://web.archive.org/web/20230106142607/https://www.bade-hro.tycg.gov.tw/home.jsp?id=21&parentpath=0,19,20 |dead-url=no }}</ref>，其行政區域分布情形為：
+
+[[File:八德各里行政區域.png|thumb|500px|八德區行政區劃]]
+[[File:八德區各里人口密度.png|thumb|500px|八德區各里人口密度]]
+{|class="wikitable" 
+|-align=center 
+|rowspan="2" style="height: 30px ; width: 100px;" | '''桃澗堡'''<br /><small>街-{庄}-名</small> || rowspan="2" style="height: 30px ; width: 100px;" | '''八塊-{庄}-'''<br /><small>大字</small> || colspan="3" style="height: 30px;" | '''八德鄉''' ||rowspan="2" style="height: 30px ; width: 180px;" | '''八德市 - 八德區'''<br /><small>改制後</small>||rowspan="2" style="height: 30px ; width: 100px;" | '''面積統計'''<br /><small>km²</small>
+|-align=center
+|style="width: 80px;"| <small>舊小地名</small> || style="width: 100px;"|<small>初設村</small> || style="width: 100px;"|<small>改制前</small> 
+|-align=center
+|rowspan="15"|'''小大湳-{庄}-'''||rowspan="15"|'''小大湳'''||rowspan="15"|<small>大坑仔<br />紅陂腳<br />後壁厝<br /></small>||rowspan="15"| 大福村 ||rowspan="2"| 大同村 ||陸光里||0.0691
+|-align=center
+| 大同里 || 0.0530
+|-align=center
+| 大忠村 || 大忠里 || 0.2537  
+|-align=center
+| 大勇村 || 大勇里 || 0.4666
+|-align=center
+|rowspan="3"| 大強村 || 大漢里 || 0.0596
+|-align=center
+| 大千里 || 0.1233
+|-align=center
+| 大強里 || 0.9225 
+|-align=center
+|rowspan="2"| 大義村 || 大榮里 || 0.0689
+|-align=center
+| 大義里 || 0.1221
+|-align=center
+|rowspan="2"| 大成村 || 大慶里 || 0.0559
+|-align=center
+| 大成里 || 0.1663  
+|-align=center
+|rowspan="2"| 大智村 || 大宏里 || 0.2004
+|-align=center
+| 大智里 || 0.2104
+|-align=center
+| 大正村 || 大正里 || 0.3636  
+|-align=center
+| 大福村 || 大福里 || 0.3099
+|-align=center
+|rowspan="14"|'''大湳-{庄}-'''||rowspan="14"|'''大湳'''||rowspan="14"|<small>'''麻園'''<br />松柏林<br />羊稠仔<br />磚仔窯<br />大草厝<br />立紅陂<br />湖仔埤腳<br />中陂腳<br />西陂腳<br />竹篙厝<br />大安陂<br />樹仔陂</small>||rowspan="4"| 大湳村 || 大明村 || 大明-{里}-|| 0.2027
+|-align=center
+| 大仁村 || 大仁里 || 0.3948
+|-align=center
+| 大發村 || 大發里 || 1.1806
+|-align=center
+| '''大湳村''' || 大湳里 || 1.3511
+|-align=center
+|rowspan="2"| 大安村 || 大竹村 || 大竹里 || 1.3227
+|-align=center
+| 大安村 || 大安里 || 1.4421
+|-align=center
+|rowspan="8"| 大興村 || 大昌村 || 大昌里 || 0.1419
+|-align=center
+|rowspan="2"| 大和村 || 大和里 ||
+|-align=center
+| 大盛里 ||
+|-align=center
+| 大信村 || 大信里 || 1.4853
+|-align=center 
+|rowspan="2"| 大華村 || 大順里 || 0.2995
+|-align=center
+| 大華里 || 0.2706
+|-align=center
+|rowspan="2"|大興村 || 大愛里 || 0.2165
+|-align=center
+| 大興里 || 1.3695
+|-align=center
+|rowspan="6"|'''茄苳溪-{庄}-'''||rowspan="6"|'''茄苳溪'''||rowspan="6"|<small>三界廟<br />石厝<br />水尾<br />水井<br />鴨仔店<br />瓦厝<br />大圳橋</small>||rowspan="5"| 茄苳村 ||rowspan="2"| 高明村 || 高城-{里}-|| 0.1288
+|-align=center
+| 高明-{里}-|| 0.1917
+|-align=center
+|rowspan="3"|'''茄苳村''' || 茄明-{里}-|| 0.5163
+|-align=center
+| 茄苳里 || 0.7195
+|-align=center
+| 永豐里 || 1.5869
+|-align=center
+| colspan="2"| 白鷺村 || 白鷺里 || 2.8848
+|-align=center 
+|rowspan="3"|'''下-{庄}-仔-{庄}-'''||rowspan="3"|'''下-{庄}-子'''||rowspan="3"|<small>打鐵店<br />雙連陂<br />下庄仔<br />城仔面前<br />店尾<br />阿桃店</small>||rowspan="3"| 廣興村 || 廣隆村 || 廣隆里 || 0.4869
+|-align=center
+|rowspan="2"| 廣興村 || 廣興里 || 1.9969
+|-align=center
+| 廣德里 || 1.3420
+|-align=center
+|rowspan="11"|'''八塊厝-{庄}-'''||rowspan="11"|'''八塊'''||rowspan="11"|<small>大-{庄}-、-{庄}-肚<br />橋頭、溝後<br />更寮腳<br />田心仔<br />公館、連城<br />土地後<br />廟仔埤<br />稻埕頭<br />租倉、舊城<br />面前厝、崙仔<br />龍眼宅</small>||colspan="2" rowspan="2"| 興仁村 || 興仁里 || 0.2538
+|-align=center
+| 興中里 || 0.3812
+|-align=center
+|colspan="2" rowspan="3"| 福興村 || 福興里 || 0.4253
+|-align=center
+| 福元里 || 0.3621
+|-align=center
+| 福德里 || 1.0411
+|-align=center
+|rowspan="6"| 瑞豐村 || 瑞泰村 || 瑞泰里 || 0.5890
+|-align=center
+| 瑞發村 || 瑞發里 || 0.3212
+|-align=center
+| 瑞德村 || 瑞德里 || 0.6119
+|-align=center
+| 瑞祥村 || 瑞祥里 || 0.3567
+|-align=center
+|rowspan="2"| 瑞豐村 || 瑞興里 || 1.1227
+|-align=center
+| 瑞豐里 || 0.3946 
+|-align=center
+|rowspan="3"|'''霄裡-{庄}-'''||rowspan="3"|'''霄裡'''||rowspan="3"|<small>廟前<br />官路缺<br />營盤、竹巷<br />大車路<br />大火 (伙) 房<br />竹頭坡<br />山下店</small>||colspan="2"| 竹園村 || 竹園里 || 2.2039
+|-align=center
+|colspan="2" rowspan="2"|'''霄裡村''' || 霄裡里 || 2.1581
+|-align=center
+| 龍友里 || 0.2824
+|}
+
+註：舊地名中的「坡」，同「陂」，是指[[埤塘]]、[[水塘]]的意思。
+
+註：「更寮」又稱「望寮」，意指守更的簡陋屋舍；為防匪盜之施設而漸成聚落。
+
+註：「麻園」以農作物為名，早期八德這個地區因為遍植[[胡麻]]作物製做麻油，因而稱為「麻園」。
+
+=== 警政消防 ===
+{{col|
+;警政
+*[[桃園市政府警察局]]八德分局 興豐路1216號
+**四維派出所 重慶街148號
+**八德派出所 中山路23號
+**大安派出所 和平路頂僑巷25號
+**高明派出所 永豐路160號
+**廣興派出所 廣興路829號
+|
+;消防
+*[[桃園市政府消防局]]第一大隊 桃園區力行路280號
+**八德分隊 介壽路二段685巷10號
+**大湳分隊 福國北街69號
+**茄苳分隊 茄苳路950號
+}}
+
+== 都市計劃 ==
+[[File:2019八德擴大都計.jpg|thumb|250px|八德擴大都市計劃]]
+
+=== 大湳地區都市計劃 ===
+八德大湳地區都市計畫區範圍以[[大成國小]]附近大湳市場、民和戲院之舊商圈及廣豐新天地、國賓影城新興商圈等商業區為中心，包括介壽路兩旁，南至大潤發賣場，北至桃園都市計畫界線，總面積約409.27[[公頃]]；目前為八德區人口聚集的主要地區。2016年桃園市政府整併全市33處都市計畫區，將此區整併入桃園都會區都市計畫。
+
+範圍：大福里、大正里、大宏里、大智里、大勇里、大榮里、大義里、大漢里、大千里、大忠里、大慶里、大同里、大成里、陸光里、大和里、大部分（大盛里、大愛里）、部分（大強里、大湳里、大興里、大華里、廣隆里、桃園區中德里）。
+
+==== 古蹟 ====
+* [[八塊無線送信所]]（市定古蹟）
+* [[八德餘慶堂|八德邱氏餘慶堂]]（歷史建築）
+* [[八德敦德堂|八德邱氏敦德堂]]（歷史建築）
+
+=== 八德地區 (擴大) 都市計劃 ===
+[[File:八德都市計畫區.png|thumb|250px|八德都市計畫區全景圖；左後[[林口臺地]]及遠處的[[觀音山 (新北市)|觀音山]]；右後為[[陽明山]]]]
+[[File:新潤御丰莊園.jpg|thumb|八德擴大都市計畫區的知名最高地標]]
+==== 沿革 ====
+本特定區原是配合[[高鐵桃園站]]與[[國家衛生研究院 (台灣)|國衛院]]等兩大基礎建設將在該區設立而規劃，惟後來皆未在該區設立。目前則是以八德區公所為中心，1994年起由地方開始規劃，2003年送交[[中華民國內政部|內政部]]審議，經過無數次的溝通協調，擴大都市計畫面積由原來650公頃驟減至164.78公頃（扣除舊市區面積49.16公頃，實際擴大面積115.62公頃）。2009年1月內政部審核通過第一期116公頃的開發計劃案（土地變更），已於2010年初完成，未來還將持續規劃進行第2期、第3期的都市計劃開發案。2016年桃園市政府整併全市33處都市計畫區，將此區與大溪埔頂都市計畫區整合。
+
+==== 規模 ====
+範圍：大部分（福興里、瑞豐里）、部分（興仁里、瑞興里）。
+===== 第一期 =====
+[[八德擴大都市計劃區]]內，目前有二條寬達50米的大道（建德路、豐德路），以及建置長達28公里的寬頻管道，還有[[桃園捷運]]綠線的捷運車站專區，形成環狀的捷運網絡系統，並與大台北捷運系統接軌（目前尚在規劃中）。八德擴大都市計畫廣置公園，瑞興、福興、興仁、瑞豐、瑞德等里都畫設公園用地，還特意保存區內4口水利會大池塘，讓它成為自然生態公園，成為八德區主要特色。還有總長8公里多環區的自行車道。區內西邊還保留2.4公頃作為[[國立中央大學|中央大學]]八德校區。東側豐德路介壽路口增設國道三號大鶯豐德交流道（暫名）可行性評估市政府已於2018年9月送交通部高公局審議。<ref>{{Cite web |url=http://www.tycg.gov.tw/ch/home.jsp?id=9&parentpath=0,1&mcustomize=news_view.jsp&dataserno=201605020004&aplistdn=ou=news,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y |title=八德第二交流道可行性研究送中央審議 |accessdate=2018-01-08 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190730/https://www.tycg.gov.tw/ch/home.jsp?id=9&parentpath=0%2C1&mcustomize=news_view.jsp&dataserno=201605020004&aplistdn=ou%3Dnews%2Cou%3Dchinese%2Cou%3Dap_root%2Co%3Dtycg%2Cc%3Dtw&toolsflag=Y |dead-url=no }}</ref>
+八德擴大都計的第三條大道（園三），路寬40米，本為生活圈六號道路，現更名為「八德區介壽路至建德路新闢道路」。長度約1.7公里，未來會從八德擴大都市計畫建德路、仁德一路口沿仁德一路，穿越建國路、豐田路沿著產業道路，最後再連接介壽路二段六八五巷（伍陽農場）旁，新闢道路會配合捷運綠線土木工程，將會委託捷運施工單位一併施工，預定2019年12月施工，2025年11月完工。
+
+==== 與文化資產的衝突 ====
+葉金萬是桃園八塊厝當地人，生於[[清代]][[道光]]21年（1841年），歿於[[台灣日治時期|日治時代]][[昭和]]5年（1930年），享年89歲，是台灣當時著名的建廟老師傅，八德三元宮殿內的木樑及雕飾，古樸典雅，就是出自此名木作大師葉金萬之手。其故居「樹德堂」，原為葉氏祖厝宗祠，就位於三元宮旁；古厝建造於[[咸豐]]4年（1854年），為傳統三合院格局。卻在此次八德擴大都市計劃中，古厝被拆除，夷為平地。<ref>{{Cite web |url=http://www.tonyhuang39.com/tony0531/tony0531.html |title=桃園八德．三元宮．呂氏著存堂．日本神風特攻隊隊長駐所舊址 【Tony的自然人文旅記 】 |accessdate=2012-07-13 |archive-date=2020-10-30 |archive-url=https://web.archive.org/web/20201030215741/http://www.tonyhuang39.com/tony0531/tony0531.html |dead-url=no }}</ref>。
+
+==== 重要指標 ====
+* 八德區最高樓：25層/98.5m《昇捷天沐》
+
+==== 其他相關 ====
+* [[合宜住宅弊案]]
+
+=== [[龍岡#都市計畫區|龍岡地區都市計劃]] ===
+計畫涵蓋八德區龍友里。
+
+=== 縱貫路桃園內壢間都市計劃 ===
+計畫涵蓋八德區高明里、高城里、茄苳里、茄明里。
+
+=== 八德區大勇市地重劃區工程 ===
+此處原為中華電信公司所有，位於介壽路旁，距離桃園捷運綠線G5站僅200公尺，距離國道2號大湳交流道也僅約3公里，升格後經市府協調，同意以公辦重劃的方式重新規劃，2022年11月15日動工，工程預計2024年底完工。
+
+=== 埔頂地區都市計劃 ===
+計畫涵蓋八德區瑞德里部分及興仁里部分，與八德地區都市計畫相鄰。
+
+== 公共建設 ==
+=== 圖書館、親子館 ===
+[[File:桃園市八德區大湳圖書館.jpg|thumb|250px|桃園市立圖書館大湳分館]]
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!地址
+!休館日
+|-
+|[[桃園市立圖書館]]八德分館
+|興豐路264號
+|國定假日及每月最後一個星期四（清潔日）
+|-
+|[[桃園市立圖書館大湳分館]]
+|重慶街53巷2號
+|國定假日及每月最後一個星期四（清潔日）
+|-
+|桃園市立圖書館景雲分館
+|廣福路218號
+|2021年11月1日開幕
+|-
+|桃園市立圖書館八德三號社宅分館
+|豐德路452號2樓（三號社宅CD棟）
+|2024年3月1日開幕
+|-
+|桃園市立圖書館兒童玩具圖書館
+|重慶街36號
+|2021年4月開始試營運
+|-
+|八德北青親子館
+|建德路358號3樓
+|每週一及國定假日休館，2023年4月23日開幕
+|-
+|八德親子館
+|福國北街220號2樓
+|每週一及國定假日休館
+|-
+|八德興豐親子館及公托中心
+|興豐路287號
+|舊市代會改建，2020年7月2日啟用
+托嬰時間為07:00～18:00，每週一及國定假日休館
+|-
+|桃園北區客家會館
+|崁頂路60號
+|週二至週日09：00～17：00
+2020年1月9日動工，2021年10月24日開幕
+|-
+|}
+
+=== 運動、公園 ===
+[[File:桃園市八德區廣豐公園.jpg|thumb|250px|大湳[[置地生活廣場]]旁的廣豐公園]]
+[[File:桃園市八德區八德擴大都計.jpg|thumb|250px|八德擴大都計建德公園]]
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!地址
+!備註
+|-
+|八德國民運動中心
+|廣福路230號
+|2018年8月動工，2021年9月24日啟用
+|-
+|桃園市北區青少年活動中心-桃漾館
+|建德路360號
+|2025年2月22日啟用
+|-
+|[[八德埤塘自然生態公園]]
+|興豐路1315號（八德分局附近）
+|<ref>{{Cite web |url=http://blog.xuite.net/akao_chen/mntnsea/55284818-%E5%85%AB%E5%BE%B7%E5%9F%A4%E5%A1%98%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92%EF%BC%88%E5%85%AB%E5%BE%B7%EF%BC%89/ |title=八德埤塘生態公園 |accessdate=2017-11-20 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190749/https://blog.xuite.net/akao_chen/mntnsea/55284818-%E5%85%AB%E5%BE%B7%E5%9F%A4%E5%A1%98%E7%94%9F%E6%85%8B%E5%85%AC%E5%9C%92%EF%BC%88%E5%85%AB%E5%BE%B7%EF%BC%89 |dead-url=no }}</ref>
+|-
+|廣豐公園
+|公園路與廣豐路交叉路口（[[桃園大圳]]旁）
+|
+|-
+|大湳森林公園
+|重慶街
+|2023年7月20日正式開園
+|-
+|西坡埤塘生態公園
+|和義二街
+|
+|-
+|}
+
+=== 其他 ===
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!地址
+!備註
+|-
+|桃園市消防訓練中心和防災教育館
+|介壽路二段901巷49弄35號
+|2018年9月營運<ref>{{Cite web |url=https://www.google.com.tw/search?q=%E6%A1%83%E5%9C%92%E5%B8%82%E6%B6%88%E9%98%B2%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83&oq=%E6%A1%83%E5%9C%92%E5%B8%82%E6%B6%88%E9%98%B2&aqs=chrome.3.69i57j0l2j35i39.12654j0j7&client=ms-android-asus&sourceid=chrome-mobile&ie=UTF-8 |title=桃園防災教育館超好玩 |access-date=2018-09-29 |archive-date=2024-11-30 |archive-url=https://web.archive.org/web/20241130233625/https://www.google.com.tw/search?q=%E6%A1%83%E5%9C%92%E5%B8%82%E6%B6%88%E9%98%B2%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83&oq=%E6%A1%83%E5%9C%92%E5%B8%82%E6%B6%88%E9%98%B2&aqs=chrome.3.69i57j0l2j35i39.12654j0j7&client=ms-android-asus&sourceid=chrome-mobile&ie=UTF-8 |url-status=live }}</ref>
+|-
+|}
+
+== 商業 ==
+=== 夜市 ===
+[[File:2024興仁花園夜市.jpg|thumb|250px|[[興仁花園夜市]]]]
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!地址
+!備註
+|-
+|[[興仁花園夜市]]
+|長興路與中正路口
+|每週二、五、六、日
+|-
+|}
+
+=== 市場 ===
+{| class="wikitable sortable"
+|-
+! 名稱 !! 地址 !! 備註
+|-
+| 大湳公有零售市場 || 四維路、信義街 ||早市，桃園市第二大傳統市場 <ref>{{Cite web |url=http://market.cto.moea.gov.tw/Market/table.asp?id=334-0001 |title=桃園市八德區大湳公有零售市場 |accessdate=2016-03-30 |archive-date=2016-04-09 |archive-url=https://web.archive.org/web/20160409041324/http://market.cto.moea.gov.tw/Market/table.asp?id=334-0001 |dead-url=yes }}</ref>
+|-
+| 八德公有零售市場 || 建國路45號 ||早市
+|-
+| 三德民有零售市場（民營） || 介壽路二段1141巷14之1號 ||早市
+|-
+| 東勇黃昏市場 || 東勇街43號 ||黃昏市場
+|-
+|}
+
+== 教育 ==
+[[File:R.O.C(Taiwan) NDU side gate on Shingfeng Road.jpg|thumb|[[國防大學 (中華民國)|國防大學]]]]
+=== 軍事院校 ===
+* [[國防大學 (中華民國)|國防大學]]（校本部）
+* [[陸軍化生放核訓練中心]]
+* [[陸軍後勤訓練中心]]（補運分部）
+
+=== 大學院校 ===
+* [[元智大學]]（校門位於[[中壢區]]，大部份校區位於'''八德區'''內）
+
+=== 宗教學校 ===
+* [[中華福音神學院]]八德校本部
+
+=== 高級中等學校 ===
+* [[桃園市立永豐高級中等學校]]
+* [[桃園市私立新興高級中學]]
+
+=== 國民中學 ===
+* [[桃園市立八德國民中學]]
+* [[桃園市立大成國民中學]]
+* [[桃園市立永豐高級中等學校|桃園市立永豐高級中等學校附設國中部]]
+
+=== 國民小學 ===
+* [http://www.bdes.tyc.edu.tw/ 桃園市八德區八德國民小學] {{Wayback|url=http://www.bdes.tyc.edu.tw/ |date=20200525190851 }}
+* [http://www.dches.tyc.edu.tw/ 桃園市八德區大成國民小學]{{Wayback|url=http://www.dches.tyc.edu.tw/ |date=20081208101120 }}
+* [http://www.typs.tyc.edu.tw/ 桃園市八德區大勇國民小學] {{Wayback|url=http://www.typs.tyc.edu.tw/ |date=20150706183903 }}
+* [http://www.slies.tyc.edu.tw/ 桃園市八德區霄裡國民小學] {{Wayback|url=http://www.slies.tyc.edu.tw/ |date=20200419003755 }}
+* [http://www.kuhes.tyc.edu.tw/ 桃園市八德區廣興國民小學] {{Wayback|url=http://www.kuhes.tyc.edu.tw/ |date=20201031010953 }}
+* [http://www.daes.tyc.edu.tw/ 桃園市八德區大安國民小學] {{Wayback|url=http://www.daes.tyc.edu.tw/ |date=20150420075343 }}
+* [http://www.djes.tyc.edu.tw/ 桃園市八德區大忠國民小學] {{Wayback|url=http://www.djes.tyc.edu.tw/ |date=20150831001552 }}
+* [http://www.jdes.tyc.edu.tw/ 桃園市八德區茄苳國民小學] {{Wayback|url=http://www.jdes.tyc.edu.tw/ |date=20200525190929 }}
+* [http://www.rfes.tyc.edu.tw/home 桃園市八德區瑞豐國民小學] {{Wayback|url=http://www.rfes.tyc.edu.tw/home |date=20201124042628 }}
+* [[桃園市八德區仁德國民小學]] (規劃中)
+
+=== 市立幼兒園 ===
+* 桃園市立八德幼兒園：興豐路2212號
+* 桃園市立八德幼兒園大成分班：建國路1199號
+* 桃園市立八德幼兒園大勇分班：自強街60號
+* 桃園市立八德幼兒園大同分班：陸光街50巷24號
+
+== 醫療體系 ==
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!醫療劃分
+!地址
+!備註
+|-
+|<span style="color:#888888;">桃園市立醫院</span>
+| 近準醫學中心
+| 龍岡新生路霄裡公園現址
+|400多床的準醫學中心規模設計，初估將在2033年完成營運<ref>https://tyenews.com/2025/02/803718/?fbclid=IwY2xjawIZW2pleHRuA2FlbQIxMAABHfDwunL0izL7NC8JZx7w0iDgzfFlmjJHdivcxFLDtc2IYtF4EpCTGlE_RA_aem_CNMYlZ9bXsLw0ba4-bXpKA8 {{Wayback|url=https://tyenews.com/2025/02/803718/?fbclid=IwY2xjawIZW2pleHRuA2FlbQIxMAABHfDwunL0izL7NC8JZx7w0iDgzfFlmjJHdivcxFLDtc2IYtF4EpCTGlE_RA_aem_CNMYlZ9bXsLw0ba4-bXpKA8 |date=20250221055913 }} }} 桃園市立醫院選址確定 打造逾400床準醫學中心]</ref>
+|-
+|<span style="color:#888888;">八德長榮醫院</span>
+| 地區醫院
+| 建國路與建興街口
+|2022年10月29日動土典禮，預計2026年完工，共計9層樓13科<ref>https://m.ltn.com.tw/news/local/paper/1269359 {{Wayback|url=https://m.ltn.com.tw/news/local/paper/1269359 |date=20200525190808 }} 市醫有譜 市府規劃2處設置]</ref>
+|-
+|}
+
+== 交通 ==
+=== 國道 ===
+* {{Jct|country=TWN|NH|2}}（桃園環線）
+** {{TWFreewayIC|18|大湳}}[[大湳交流道]]
+* {{Jct|country=TWN|NH|3}}（福爾摩沙高速公路）
+** {{TWFreewayIC|57|八德}}[[八德交流道|{{Gray|八德交流道}}]]（規劃中，預計2030年通車）
+
+=== 省道 ===
+* [[File:TW_PHW1.svg|23px]][[台1線]]：<span style="font-size:small;">桃園區（中山路）－八德區（中華路）－中壢區（中華路一段）</span>
+* [[File:TW_PHW4.svg|23px]][[台4線]]：<span style="font-size:small;">桃園區（介壽路）－八德區（介壽路一～二段）－大溪區（介壽路）</span>
+
+=== 市道 ===
+* [[File:TW_CHW110.svg|23px]][[市道110號]]：<span style="font-size:small;">桃園區（桃鶯路）－八德區（桃鶯路）－新北市鶯歌區（鶯桃路二段）</span>
+* [[File:TW_CHW110b.svg|23px]][[市道110號|市道110乙號]]：<span style="font-size:small;">新北市鶯歌區（福德一路）－八德區（福德一路）；為大湳交流道聯絡道</span>
+* [[File:TW_CHW112.svg|23px]][[市道112號]]：<span style="font-size:small;">平鎮區（龍南路）－八德區（龍南路）－大溪區（仁和路二段）</span>
+* [[File:TW_CHW114.svg|23px]][[市道114號]]：<span style="font-size:small;">中壢區（中山東路四段）－八德區（長興路－興豐路）－新北市鶯歌區（八德路）</span>
+
+=== 區道 ===
+* [[桃園市區道列表|桃48線]]：<span style="font-size:small;">八德區（廣福路）－中壢區（新中北路二段）</span>
+* 桃53線：<span style="font-size:small;">桃園區（國際路一段）－八德區（國際路—廣福路—福國街—建國路—中山路—中山一路）—大溪區（埔頂路二段）</span>
+* 桃55線：<span style="font-size:small;">桃園區（介新街）－八德區（東勇街）</span>
+* 桃72線：<span style="font-size:small;">楊梅區－平鎮區（南平路二段～平東路）－八德區（新生路）</span>
+
+=== 客運 ===
+====桃園市區公車====
+* [[桃園客運]]
+** 1：中壢－桃園
+** 102：桃園－景雲新村
+** 103：桃園－和平路
+** 107：桃園－大湳（經國際路）
+** 109：桃園－新興高中
+** 157：桃園－八德－新興高中
+** 201：蘆竹－八德
+** 265：桃園－鶯歌（經尖山）
+** 502：台灣好行小烏來線景點接駁
+** 5008：中壢－龍岡－桃園
+** 5010：中壢－仁美－桃園
+** 5044：桃園－十一份－龍潭
+** 5053：桃園－九龍村－龍潭
+** 5053A：桃園－804醫院－龍潭
+** 5069：桃園－榮民之家－龍潭
+** 5096：桃園－更寮腳－大溪
+** 5112：大溪－八德－中壢
+** GR2：桃園－八德區公所
+* [[中壢客運]]
+** 130：桃園－榮民之家（經八德區公所）
+* [[統聯客運]]
+** 208：捷運高鐵桃園站－豐德介壽路口（經大江購物中心、內壢火車站、八德區公所）<ref>{{Cite web |url=http://www.ubus.com.tw/html/bus/bus.php?num=81&route=208 |title=統聯客運路線查詢 |access-date=2017-12-13 |archive-url=https://web.archive.org/web/20171213144401/http://www.ubus.com.tw/html/bus/bus.php?num=81&route=208 |archive-date=2017-12-13 |dead-url=yes }}</ref>
+** 208A：捷運高鐵桃園站－溪濱公園（經大江購物中心、啟英高中、內壢火車站、桃園醫院、大湳、八德區公所）
+** 713：八德豐德路（經建國路）（經國道3號）－土城（捷運永寧站）<ref>{{Cite web |url=http://www.ubus.com.tw/UrbanBus/TaoyuanBus/713 |title=713路線查詢 |accessdate=2019-10-07 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190817/https://www.ubus.com.tw/UrbanBus/TaoyuanBus/713 |dead-url=no }}</ref>
+** 715：八德豐德路（經更寮腳）（經國道3號）－土城（捷運永寧站）<ref>{{Cite web |url=http://www.ubus.com.tw/UrbanBus/TaoyuanBus/715 |title=715路線查詢 |accessdate=2019-10-07 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190822/https://www.ubus.com.tw/UrbanBus/TaoyuanBus/715 |dead-url=no }}</ref>
+** 716：八德轉運站（經國道3號）－ 土城（捷運永寧站）<ref>{{Cite web |url=http://www.ubus.com.tw/UrbanBus/TaoyuanBus/716 |title=716路線查詢 |accessdate=2019-10-07 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190833/https://www.ubus.com.tw/UrbanBus/TaoyuanBus/716 |dead-url=no }}</ref>
+** 717：龍岡圓環（經廣福路）（經國道3號）－土城（捷運永寧站）<ref>{{Cite web |url=http://www.ubus.com.tw/UrbanBus/TaoyuanBus/717 |title=717路線查詢 |accessdate=2019-10-07 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525191010/https://www.ubus.com.tw/UrbanBus/TaoyuanBus/717 |dead-url=no }}</ref>
+** 724：八德轉運站－桃園長庚轉運站
+* [[桃園市公車路線列表#八德區|桃園市免費社區巴士]]
+**紅線(L113)、(L115)
+**藍線(L116)、(L117)
+**紫線(L118)、(L119)
+**綠線(L120)、(L121)
+
+====[[新北市新巴士|新北市免費社區巴士]]（經八德區邊界）====
+*鳳吉理想線(F656)
+*鳳鳴長庚線(F657)
+
+=== 客運轉運站 ===
+[[File:八德轉運站.jpg|thumb|250px|和強路上的八德轉運站]]
+==== [[八德轉運站]] ====
+離國道2號大湳交流道僅400公尺，八德區和強路與和平路口，定位為市區客運及國道客運轉乘站，基地面積1250坪，共設置4席停靠月台、122席機車停車位、3席汽車臨停接送區、2席計程車排班區及17席公共自行車位，提供乘客無縫轉乘其他運具。於2024年2月19日啟用。
+
+==== <span style="color:#888888;">八德豐德轉運站</span> ====
+預定在八德區豐德路上，未來能連接國道三號大鶯豐德交流道。
+
+=== YouBike自行車租賃系統 ===
+* [[桃園市公共自行車租賃系統]]至2024年3月，在八德區已設有36站：
+{| class="wikitable" align="middle"
+|- bgcolor="#CCCCCC"
+!名稱
+!位置
+!名稱
+!位置
+|-
+|'''君臨公園'''
+|忠勇六街，籃球場旁
+|'''思源公園'''
+|正福街
+|-
+|'''大和休閒廣場'''
+|銀和街
+|'''廣豐公園'''
+|公園路
+|-
+|'''大湳公園'''
+|福國北街
+|'''重慶公園'''
+|重慶街
+|-
+|'''桃園假日農業創意市集'''
+|介壽路、國道二號高架橋下
+|'''和盛公園'''
+|大和路
+|-
+|'''同福公園'''
+|和義街
+|'''大勇國小'''
+|忠勇街
+|-
+|'''元聖宮'''
+|東泰街
+|'''大明公園'''
+|興隆街
+|-
+|'''茄明里集會所'''
+|中華路
+|'''建德公園'''
+|長興路
+|-
+|'''霖園公園'''
+|介壽路一段16巷
+|'''豐德公園'''
+|豐田一路
+|-
+|'''溪濱公園'''
+|廣興二路廣興五街口旁公園
+|'''仁德公園'''
+|建國路仁德路口
+|-
+|'''大仁里遊樂場'''
+|國道二號高架橋下與仁和街211巷交岔路口
+|'''八德藝文廣場'''
+|瑞發街興豐路825巷口
+|-
+|'''大忠停車場'''
+|大忠街
+|<s>'''楓樹腳公園'''</s>
+|施工停用
+|-
+|'''茄明公園'''
+|明光街
+|'''八德區衛生所'''
+|介壽路二段361巷內
+|-
+|'''興豐公園'''
+|興豐路與豐田路口
+|'''八德埤塘自然生態公園'''
+|興豐路1315號
+|-
+|'''大安果樹公園'''
+|長安街
+|'''八德區公所'''
+|中山興豐路口
+|-
+|'''瑞泰公園'''
+|介壽路二段583巷16弄
+|'''廣豐新天地'''
+|大智路
+|-
+|'''高城公園'''
+|高城六街48巷
+|'''八德國民運動中心'''
+|廣福路與福國街口
+|-
+|'''大發休閒公園'''
+|興豐路2182-1號
+|'''永豐路519巷口'''
+|永豐路490號西北側
+|-
+|'''中大公園'''
+|建德路與興豐路口
+|'''八德大湳轉運站'''
+|和強路近和平路口
+|-
+|}
+
+=== 未來 ===
+[[File:綠線G01興建中.jpg|thumb|250px|桃園捷運綠線G01站施工中]]
+
+==== 鐵路、捷運 ====
+;{{ric|臺鐵|name=y}}
+* [[縱貫線 (北段)|縱貫線]]：[[桃園醫院車站|<span style="color:#888888;">桃園醫院車站</span>]]（興建中）
+; [[桃園捷運]]
+* {{ric|桃園捷運|G|name=y}}（興建中）：[[建德興豐站|<span style="color:#888888;">建德興豐站</span>]] – [[仁德公園站|<span style="color:#888888;">仁德公園站</span>]] – [[巧克力站|<span style="color:#888888;">巧克力站</span>]] – [[大湳站|<span style="color:#888888;">大湳站</span>]] – [[小大湳站|<span style="color:#888888;">小大湳站</span>]]
+* {{ric|桃園捷運|G|name=y}}中壢延伸段（規劃中）：[[建德興豐站|<span style="color:#888888;">建德興豐站</span>]] – <span style="color:#888888;">G30站</span>
+;[[新北捷運]]
+* {{ric|新北捷運|LB|name=y}}桃園八德段（規劃中）：<span style="color:#888888;">LB12a站</span> – <span style="color:#888888;">LB13站</span> – [[大湳站|<span style="color:#888888;">大湳站</span>]]
+
+== 旅遊 ==
+[[File:Danan Humanities Marketplace.jpg|thumb|250px|夜晚的大湳形象商圈標示牌]]
+[[File:桃園市八德區巧克力共和國.jpg|thumb|250px|[[巧克力共和國]]]]
+[[File:Bade City Sanyuan gong.jpg|thumb|250px|八德區最古老的寺廟-三元宮]]
+{| class="wikitable sortable"
+|-
+! 名稱 !! 地址 !! 備註
+|-
+| [[巧克力共和國]] || 巧克力街177號 || <ref>{{Cite web |url=http://www.republicofchocolate.com.tw/ |title=宏亞巧克力共和國 |accessdate=2016-03-31 |archive-date=2016-04-02 |archive-url=https://web.archive.org/web/20160402141938/http://www.republicofchocolate.com.tw/ |dead-url=no }}</ref>
+|-
+| [[八塊厝民俗藝術村]] || 重慶街36-1號 || 2022年10月22日開幕
+|-
+| 馬祖文化會館 || 介壽路二段973巷15號 || <ref>{{Cite web |url=http://www.bade-land.tycg.gov.tw/home.jsp?id=228&parentpath=0%2C1%2C225%2F |title=馬祖會館 |access-date=2022-06-02 |archive-date=2020-05-25 |archive-url=https://web.archive.org/web/20200525190948/https://www.bade-land.tycg.gov.tw/home.jsp?id=228&parentpath=0%2C1%2C225%2F }}</ref>
+|-
+| 八德落羽松森林 || 浮筧街底 || 
+|-
+| 大湳形象商圈 || 忠孝街 || 
+|-
+| 霄裡湧泉（浣衣空間） || 霄裡國小旁 || 
+|-
+| [[中祥食品]] || 廣福路613號 || 
+|-
+| [[八德三元宮]] || 中山路1號 || 
+|-
+| [[霄裡玉元宮]] || 長興路756號 ||
+|-
+| [[八德廣行宮]] || 仁和街211巷1弄18號 ||
+|-
+| [[八德指玄宮孚佑帝君]] || 指玄街66號 ||
+|-
+| [[高城福興宮]] || 高城八街46巷12-1號 ||
+|-
+| [[保順宮馬舍公廟]] || 興豐路1725號 ||
+|-
+| [[桃園姜太公廟]] || 長興路360巷31弄100號 ||
+|-
+| [[聖王宮]] || 義勇街8號 ||
+|-
+| [[元聖宮]] || 東泰街2號 ||
+|-
+| 茄苳老樹 || 中山路三元宮前 || 
+|-
+
+|[[八德埤塘自然生態公園]] || 興豐路1315號 ||
+|-
+|}
+
+== 其他 ==
+* [[國防部高等軍事法院]]
+* [[懷生機場]]
+* [[桃園大圳]]
+* 佛教慈濟慈善事業基金會八德園區（興豐路1141號）
+
+== 相關條目 ==
+* -{[[八塊庄]]}-
+
+== 注釋 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+;引用來源
+{{reflist|30em|refs=
+<ref name="市志政治篇">{{cite book |author=八德市志編輯委員會 |year=1998 |chapter=政治篇 |title=《八德市志》 |language=zh-tw |location=桃園縣 |publisher=桃園縣八德市公所 }}</ref>
+}}
+
+;書籍
+{{refbegin}}
+* {{cite book |author=八德市志編輯委員會 |year=1998 |chapter= |title=《八德市志》 |language=zh-tw |location=桃園縣 |publisher=桃園縣八德市公所 |ref={{sfnref|八德市志編輯委員會|1998}} }}
+* {{cite book |author=施添福等編纂 |year=2009 |chapter=第十一章·八德市 |title=《臺灣地名辭書》 |language=zh-tw |volume=卷十五·桃園縣（下） |location=南投縣 |publisher=國史館臺灣文獻館 |isbn=978-986-02-4388-8 |ref={{sfnref|施添福|2009}} }}
+{{refend}}
+
+;影音簡介
+* [http://www.youtube.com/watch?v=2JkeiP0hGKk&feature=related 八德區公所市政宣導短片] {{Wayback|url=http://www.youtube.com/watch?v=2JkeiP0hGKk&feature=related |date=20200216164157 }}
+* [http://www.youtube.com/watch?v=qT9qb4EDru8 八德埤塘生態公園] {{Wayback|url=http://www.youtube.com/watch?v=qT9qb4EDru8 |date=20200525190952 }}
+* [http://www.youtube.com/profile?user=yes470818#p/u/231/M9bhLYAvK10 八德區廣豐公園] {{Wayback|url=http://www.youtube.com/profile?user=yes470818#p/u/231/M9bhLYAvK10 |date=20200525190956 }}
+* [http://www.youtube.com/user/badeyes1000?feature=mhum#g/u 最新影音] {{Wayback|url=http://www.youtube.com/user/badeyes1000?feature=mhum#g/u |date=20200525191153 }}
+* [http://www.youtube.com/user/yes470818?feature=mhum#g/u 歷史影音] {{Wayback|url=http://www.youtube.com/user/yes470818?feature=mhum#g/u |date=20220414133114 }}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Bade District, Taoyuan |n=no |q=no |s=no |author=no |b=no |v=no |voy=桃園/八德 }}
+* [http://www.bade.tycg.gov.tw/ 八德區公所] {{Wayback|url=http://www.bade.tycg.gov.tw/ |date=20200806152610 }}
+* [http://www.bade-hro.tycg.gov.tw/ 八德區戶政事務所] {{Wayback|url=http://www.bade-hro.tycg.gov.tw/ |date=20201031225315 }}
+
+{{桃園市行政區劃}}
+{{Authority control}}
+
+[[Category:八德區| ]]
+[[Category:曾為臺灣縣轄市及鄉的區|桃縣]]

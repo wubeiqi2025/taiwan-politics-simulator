@@ -1,0 +1,525 @@
+{{Multiple issues|
+{{Refimprove|time=2024-04-07T13:22:37+00:00}}
+{{Trivia|time=2012-12-25T16:30:03+00:00 }}
+}}
+{{noteTA
+|1=zh-hant:南庄鄉; zh-hans:南庄乡;
+|2=zh-hant:田寮庄; zh-hans:田寮庄;
+|3=zh-hant:頭分庄; zh-hans:头分庄;
+|4=zh-hant:南庄; zh-hans:南庄;
+}}
+{{中華民國行政區劃基礎資訊
+|上級行政區劃=[[苗栗縣]]
+|行政區名稱= 頭份市
+|外文名稱= Toufen City
+|外文語言= [[威妥瑪拼音]]+英語
+|徽文件名= Seal of Toufen City Office 20180514.png
+|代表圖像= {{multiple image
+| border                 = infobox
+| total_width            = 280
+| image_style            = border:1;
+| perrow                 = 1/2/2
+| image1 = 頭份鎮一景.jpg
+| image2 = 尚順育樂世界.jpg
+| image3 = Miaoli Toufen.jpg
+| image4 = 合港田寮永貞宮正面照.jpg
+| image5 = 楊統領廟2.jpg
+}}
+|代表圖像名稱=上：頭份市景<br>中：[[尚順育樂世界]]、頭份市街景（頭份之心）<br>下：[[合港田寮永貞宮]]、[[楊統領廟]]
+{{Infobox mapframe|zoom=09|frame-width=300}}
+|旗= 
+|徽= 頭份市徽
+|行政機關首長職稱= 市長
+|行政區類別= [[縣轄市]]
+|行政機關首長姓名= [[羅雪珠]]
+|舊稱= 田寮庄、頭分、頭份-{庄}-<br>頭份街、頭份鎮
+|簡稱= 
+|設立始年= 1945年（新竹縣竹南區頭份鎮）<br />1950年（苗栗縣頭份鎮）<br />2015年（苗栗縣頭份市）
+|區劃= 33[[村里|里]]560[[鄰]]
+|government=[[苗栗縣頭份市公所|頭份市公所]]
+|legislature=[[苗栗縣頭份市民代表會|頭份市民代表會]]
+|行政機關網站= {{url|https://www.toufen.gov.tw/}}
+|總面積= {{TWTSData|A|351}}
+|總人口= {{TWTSData|P|351}}<ref name="mlhr.miaoli">{{Cite web |url=https://mlhr.miaoli.gov.tw/tables2.php?unit=22 |title=頭份市戶數、人口數詳細資料表 |publisher=苗栗縣政府戶政服務網 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20210116232010/https://mlhr.miaoli.gov.tw/tables2.php?unit=22 |archivedate=2021-01-16 |dead-url=no }}</ref><ref name="ris.gov.tw">{{Cite web |url=https://www.ris.gov.tw/app/portal/346 |title=人口統計資料 |publisher=內政部戶政司 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20210319074202/https://www.ris.gov.tw/app/portal/346 |archivedate=2021-03-19 |dead-url=no }}</ref>
+|population_rank = 苗栗縣的第1位
+|總人口年份= {{TWTSData|P|date}}
+|household= {{TWTSData|H|351}}<ref name="mlhr.miaoli"/><ref name="ris.gov.tw"/>
+|postal_code=351
+|adjacent= [[竹南鎮]]、[[造橋鄉]]、[[三灣鄉 (台灣)|三灣鄉]]；[[新竹市]][[香山區]]、[[新竹縣]][[峨眉鄉]]、[[寶山鄉 (台灣)|寶山鄉]]
+|位置圖=
+<div style="position: relative;font-size:85%">
+[[File:Thèufun - Thâuhūn - (Toufen, Miaoli County).svg|thumb|center|300px|頭份市位置圖]]
+</div>
+}}
+{{Taiwanese
+| hanji      = 頭份市
+| tsuin      = ㄊㄡˊ ㄈㄣˋ ㄕˋ
+| pinyin     = Tóu-fèn Shì
+| tongyong   = Tóu-fèn Shìh
+| poj        = Thâu-hūn Chhī
+| holo       = Thâu-hūn Tshī
+| pfs        = Thèu-fun Sṳ
+| haka       = [[四縣腔]]：Teuˇ Fun Sii<br />[[海陸腔]]：Teu Fun+ Shi+
+}}
+'''頭份市'''，舊稱「田寮庄」，前身「頭份鎮」，位於[[臺灣]][[苗栗縣]]北部。市內人口約有10.8萬人<ref name="mlhr.miaoli"/>，為苗栗縣人口最多的行政區<ref name="ris.gov.tw"/>，境內居民以[[客家裔臺灣人|客家族群]]為主（約占九成），居民結構由「多重認定」準則抽樣調查，推估客[[閩南裔臺灣人|閩]]比例約8:2<ref>{{cite web | url=http://ebooks.lib.ntu.edu.tw/1_file/hakka/78/51272219271.pdf | title=各鄉鎮客家人口統計 | 3= | access-date=2017-10-11 | archive-url=https://web.archive.org/web/20171010210810/http://ebooks.lib.ntu.edu.tw/1_file/hakka/78/51272219271.pdf | archive-date=2017-10-10 | dead-url=yes }}</ref>。頭份市與[[三灣鄉 (台灣)|三灣鄉]]、[[南庄鄉 (台灣)|南庄鄉]]是苗栗縣境內使用[[海陸腔]]客家語比例相對較高的地區，有別於縣內其它以[[四縣腔]]客家語為主的行政區（除[[卓蘭鎮]]）。
+
+由於當地鄰近[[新竹科學園區|竹科]]竹南園區，隨著科技廠的進駐，工作機會增加，外來人口持續遷入，帶動頭份市的經濟與房地產的發展，使其在苗栗縣眾多鄉鎮人口衰退的情形之下，成為縣內少數人口正成長的地區。
+
+== 歷史 ==
+「頭份」的地名，完全是臺灣開墾過程的產物。在漢人沒有入拓之前的頭份，是[[平埔族|平埔原住民]][[道卡斯族]]竹塹社與中港社、以及[[賽夏族]]分布的地區。
+
+[[清]][[乾隆]]四年間（1739年），[[福建省]][[泉州府]]人林耳順，率領[[閩]][[粵]]二省[[漢人]]約三十餘人，由香山進中港，商得當時居住在頭份地區的平埔族原住民同意，雇用漢民進入頭份從事開墾，此為漢人拓殖頭份的開始，當時稱為「'''田寮庄'''」（今[[田寮里 (苗栗縣)|田寮里]]）。清乾隆16年（1751年）[[廣東省]][[嘉應州]]鎮平縣（今[[蕉嶺縣]]）客家人林洪、吳永忠、溫殿玉、黃日新、羅德達等約兩百人，率領宗族飄洋過海到頭份開墾。當時，他們以「[[抓鬮]]」的方式決定開墾的地點。抓到第1號的即為「頭份」，後來沿用為地名。據說林姓人數最多，分得頭份、二份及望更寮；黃姓分得三份及新屋下；溫姓分得四份、五份；吳姓分得河唇；羅姓分得中肚，這些地名，大部分在現在頭份市、和平里和民族-{里}-一帶。光緒年間納為[[新竹縣 (清朝)|新竹縣]][[竹南一堡]]。
+
+[[台灣日治時期|日治時期]]，臺灣分三縣一廳，頭份屬[[臺北縣 (日治時期)|臺北縣]]新竹支廳。1897年，改三縣三廳，屬臺北縣新竹辦務署。1898年，改六縣三廳，屬[[新竹縣 (日治時期)|新竹縣]]頭份辦務署{{r|鎮志歷史篇|p=1507}}。1901年，全臺分二十廳，頭份屬[[新竹廳]]頭份支廳。1909年，改屬新竹廳中港支廳。1920年，實施市街-{庄}-制，全臺分五州二廳，[[頭分街|頭分庄]]屬[[新竹州]][[竹南郡]]{{r|鎮志歷史篇|p=1509}}。頭分庄分為頭分、田寮、東興、蟠桃、斗換坪、興隆、珊珠湖、尖山下、濫坑、蘆竹湳等10個大字{{sfn|陳運棟|1980|pp=63－64|loc=沿革志}}。1939年，頭分庄升格為「頭分街」{{r|鎮志大事記篇|p=1603}}<ref name="府81">《臺灣總督府府報》〈府令第八十一號〉、〈府令第八十二號〉，1940年6月8日</ref>。
+
+1945年[[臺灣戰後時期|中華民國接管臺灣]]後，將日治時期的五州三廳改為八縣{{r|鎮志大事記篇|p=1604}}。1946年1月11日，頭分街改為「頭份鎮」，屬[[新竹縣]]竹南區{{r|鎮志歷史篇|p=1510}}。1950年調整行政區域，全臺分十六縣五省轄市{{r|鎮志大事記篇|p=1607}}；10月25日，苗栗立縣，並裁撤區署，頭份鎮改隸苗栗縣{{r|鎮志歷史篇|p=1510}}。2013年1月，頭份鎮人口突破10萬人<ref name="ris.gov.tw"/>。嗣後，2015年配合《[[s:地方制度法 (民國104年5月立法6月公布)|地方制度法]]》修法，將升格縣轄市的標準自15萬人調降為10萬人，頭份鎮與[[彰化縣]]員林鎮（今[[員林市]]）因此符合改制門檻<ref>{{cite news |url=https://news.ltn.com.tw/news/politics/breakingnews/1332695 |title=立院三讀通過 升格縣轄市門檻降為10萬人 |date=2015-05-29 |access-date=2024-04-07 |publisher=自由時報 |language=zh-tw |archive-date=2023-02-06 |archive-url=https://web.archive.org/web/20230206105823/https://news.ltn.com.tw/news/politics/breakingnews/1332695 |dead-url=no }}</ref><ref>{{Cite news |url=http://news.ltn.com.tw/news/politics/breakingnews/1381240 |title=苗栗頭份改制縣轄市 鎮代表會落槌通過 |author=鄭鴻達 |date=2015-07-16 |publisher=自由時報 |archive-url=https://web.archive.org/web/20200216170852/https://news.ltn.com.tw/news/politics/breakingnews/1381240 |archive-date=2020-02-16 |dead-url=no }}</ref>；10月5日，頭份鎮改制為縣轄市「頭份市」，成為苗栗縣的第二個縣轄市<ref name="歷史沿革">{{cite web |url=https://www.toufen.gov.tw/News3.aspx?n=2885&sms=11766 |title=用心看頭份-歷史沿革 |publisher=苗栗縣頭份市公所 |access-date=2023-02-03 |language=zh-tw |archive-date=2023-02-03 |archive-url=https://web.archive.org/web/20230203084300/https://www.toufen.gov.tw/News3.aspx?n=2885&sms=11766 |dead-url=no }}</ref><ref>{{cite news |url=https://www.storm.mg/article/68294 |title=改制為市將花60萬 65年頭份鎮今走入歷史 |author=梁姍樺 |date=2015-10-05 |access-date=2024-04-07 |publisher=風傳媒 |language=zh-tw |archive-date=2024-04-07 |archive-url=https://web.archive.org/web/20240407150720/https://www.storm.mg/article/68294 |dead-url=no }}</ref>。
+
+== 地理 ==
+=== 地形 ===
+頭份市位於苗栗縣北部，[[新竹縣|新竹]]、苗栗兩縣交界之山麓地帶。北毗新竹縣[[寶山鄉 (台灣)|寶山鄉]]，西北及西邊鄰[[竹南鎮]]，東北鄰新竹縣[[峨眉鄉]]，東接[[三灣鄉 (台灣)|三灣鄉]]，南隔[[南港溪 (苗栗縣)|南港溪]]與[[造橋鄉]]為界{{r|鎮志地理篇|p=1}}。地處[[中港溪]]中-{游}-河谷地區，市內地形以[[平原]]及[[丘陵]]為主，平原地區屬於[[中港溪]]中後段的[[竹南沖積平原]]。
+
+=== 氣候 ===
+頭份市的氣候為夏季溼熱，冬季多風雨，冬、夏兩季較長{{r|鎮志地理篇|p=34}}。年均溫約為攝氏22.1度，月均溫最高為7月的22.8度，最低為1月的14.8度。年雨量約為1,500毫米，6月雨量最多，11月最少{{r|鎮志地理篇|p=35}}。
+{{Weather box|width=auto
+|metric first=y
+|single line=y 
+|location = 頭份(平均數據2008–2020 極端數據2008至今)
+|Jan record high C = 29.8
+|Feb record high C = 32.2
+|Mar record high C = 32.5
+|Apr record high C = 34.6
+|May record high C = 35.0
+|Jun record high C = 36.7
+|Jul record high C = 37.9
+|Aug record high C = 37.6
+|Sep record high C = 36.4
+|Oct record high C = 36.4
+|Nov record high C = 32.4
+|Dec record high C = 28.6
+|Jan record low C = 3.5
+|Feb record low C = 4.2
+|Mar record low C = 7.9
+|Apr record low C = 9.0
+|May record low C = 15.2
+|Jun record low C = 17.9
+|Jul record low C = 20.2
+|Aug record low C = 20.9
+|Sep record low C = 19.7
+|Oct record low C = 15.0
+|Nov record low C = 6.2
+|Dec record low C = 6.1
+|Jan high C = 19.3
+|Feb high C = 19.4
+|Mar high C = 21.7
+|Apr high C = 25.6
+|May high C = 28.7
+|Jun high C = 31.5
+|Jul high C = 32.8
+|Aug high C = 32.4
+|Sep high C = 31.2
+|Oct high C = 28.4
+|Nov high C = 25.3
+|Dec high C = 20.8
+| year high C = 
+|Jan mean C = 15.6
+|Feb mean C = 15.7
+|Mar mean C = 17.9
+|Apr mean C = 21.7
+|May mean C = 25.2
+|Jun mean C = 28.0
+|Jul mean C = 29.2
+|Aug mean C = 28.7
+|Sep mean C = 27.4
+|Oct mean C = 24.5
+|Nov mean C = 21.5
+|Dec mean C = 17.2
+| year mean C = 
+|Jan low C = 12.7
+|Feb low C = 13.0
+|Mar low C = 14.8
+|Apr low C = 18.5
+|May low C = 22.2
+|Jun low C = 25.2
+|Jul low C = 26.2
+|Aug low C = 25.7
+|Sep low C = 24.3
+|Oct low C = 21.6
+|Nov low C = 18.5
+|Dec low C = 14.2
+| year low C = 
+|precipitation colour = green
+|Jan precipitation mm = 61.3
+|Feb precipitation mm = 110.6
+|Mar precipitation mm = 138.1
+|Apr precipitation mm = 150.9
+|May precipitation mm = 235.5
+|Jun precipitation mm = 267.3
+|Jul precipitation mm = 124.7
+|Aug precipitation mm = 178.9
+|Sep precipitation mm = 138.0
+|Oct precipitation mm = 35.5
+|Nov precipitation mm = 39.9
+|Dec precipitation mm = 48.6
+|year precipitation mm = 
+| Jan precipitation days = 8.0
+| Feb precipitation days = 9.3
+| Mar precipitation days = 11.6
+| Apr precipitation days = 11.7
+| May precipitation days = 10.7
+| Jun precipitation days = 10.1
+| Jul precipitation days = 7.1
+| Aug precipitation days = 9.9
+| Sep precipitation days = 7.5
+| Oct precipitation days = 3.8
+| Nov precipitation days = 4.4
+| Dec precipitation days = 5.9
+| year precipitation days =
+| Jan humidity = 79.3
+| Feb humidity = 82.5
+| Mar humidity = 80.9
+| Apr humidity = 79.9
+| May humidity = 81.3
+| Jun humidity = 78.6
+| Jul humidity = 74.7
+| Aug humidity = 78.0
+| Sep humidity = 76.2
+| Oct humidity = 73.8
+| Nov humidity = 78.1
+| Dec humidity = 77.3
+| year humidity =
+|source 1 = Central Weather Administration<ref name= CWA>{{cite web 
+|url = https://codis.cwa.gov.tw/StationData 
+|title = 月報表(逐日資料) : 竹南 (C0E420) 
+|publisher = Central Weather Administration 
+|access-date =2024-09-28 
+|archive-date = 2024-10-07 
+|archive-url = https://web.archive.org/web/20241007104245/https://codis.cwa.gov.tw/StationData 
+|dead-url = no 
+}}</ref>
+|source 2 = Atmospheric Science Research and Application Databank (precipitation 1991–2020, precipitation days and humidity 2000–2024)<ref name= ASRAD>{{cite web 
+|url = https://asrad.pccu.edu.tw/catalog/clim/ 
+|title = 中央氣象署 測站氣候資料 : C0E420 苗栗竹南 
+|publisher = Atmospheric Science Research and Application Databank 
+|access-date =2024-09-28 
+|archive-date = 2025-06-10 
+|archive-url = https://web.archive.org/web/20250610103726/https://asrad.pccu.edu.tw/catalog/clim/ 
+|dead-url = no 
+}}</ref>
+}}
+
+=== 人口 ===
+{{Historical populations
+|type = Taiwan
+|footnote = 來源：
+# {{harvnb|頭份鎮志編纂委員會|2001|pp=279－280|loc=第三篇·社會篇}}
+# {{Cite web |url=https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |publisher=[[中華民國內政部|內政部]] |title=內政部統計月報-各鄉鎮市區人口數 |access-date=2019-12-19 |archive-date=2021-06-23 |archive-url=https://web.archive.org/web/20210623061641/https://www.moi.gov.tw/files/site_stuff/321/1/month/month.html |dead-url=no }}
+|1946	|26023
+|1951	|28622
+|1956	|33297
+|1961	|38212
+|1966	|45005
+|1971	|53737
+|1976	|61797
+|1981	|68195
+|1986	|73535
+|1991	|79629
+|1996	|84833
+|2001	|89384
+|2006   |93757
+|2011	|98377
+|2016	|103157
+|2021 |105084
+}}
+根據苗栗縣政府民政處及內政部戶政司統計，2025年底頭份市戶數約4.3萬戶，人口約10.8萬人<ref name="mlhr.miaoli"/>，是苗栗縣人口第一大城市，也是臺灣人口第六大縣轄市，僅次於[[彰化市]]、[[竹北市]]、[[屏東市]]、[[員林市]]、[[斗六市]]<ref name="ris.gov.tw"/>，市內人口最多與最少的里分別是東-{庄里}-與廣興里，2025年底兩里人口分別為7,414人與918人<ref name="mlhr.miaoli"/>。頭份市人口的年齡構成中，幼年人口佔比約13.82%，青壯年人口佔比約70.34%，老年人口則佔比約15.84%，老化指數約為114.67%，為苗栗縣[[人口老化]]與[[少子化]]問題相對輕微的行政區<ref name="mlhr.miaoli"/>。
+
+1990年代由於竹南科學園區的設立，伴隨大量外來人口的移入，促使頭份鎮人口穩定成長。2004年3月，頭份鎮人口超越[[縣治]][[苗栗市]]，成為苗栗縣人口最多的行政區。頭份市境內以頭份市區及頭份交流道建國路學區延伸至后庄地區為人口較為密集的地區，其次聚落人口多分布於[[頭份交流道]]東側，即新華里、斗換坪、珊湖-{里}-一帶<ref name="mlhr.miaoli"/>，以及通往[[永和山水庫]]的河背地區。頭份南境則以[[尖山老街]]、濫坑南邊為主要聚落。多年來以客家族群為主的頭份市，由於[[竹南科學園區]]廠商陸續進駐之故，近年來蓬勃發展迅速，外來人口不斷增加當中，以往人口密集的頭份舊市區，亦有很大的轉變。由於市區內社區過於飽和老舊，人口數量擴大，人們居住範圍逐漸往建國路學區地帶以及-{后庄}-一帶居住，后庄因居於交通位置的要衝，也成為頭份市近年來房市熱絡的重心地段，未來也即將計畫擴大至山下里以及東側交流道之地帶。
+
+<div style="max-width: 1500px; margin: 10px auto; text-align: center; overflow: hidden;">
+{{Chart|definition=Population of Toufen City, Miaoli.chart|data=Population of Toufen City, Miaoli.tab}}
+</div>
+{{clear}}
+
+== 政治 ==
+=== 歷任首長 ===
+{{see also|頭份市市長}}
+{| align="left" class="toc" style="margin:0px; text-align:center" width="55%"
+|- style="background:#CCCCCC"
+|屆次||姓名||黨籍||就任日期||卸任日期||備註
+|-
+|1||[[徐定禎]]||rowspan=3|{{NONP}}||2015年10月5日||2018年12月25日||改制後首任
+|-
+|2||rowspan=2|羅雪珠||2018年12月25日||2022年12月25日||
+|-
+|3||2022年12月25日||現任||
+|}
+{{clear}}
+
+=== 市政組織 ===
+[[苗栗縣頭份市公所|頭份市公所]]是頭份市最高層級的地方[[行政機關]]，在中華民國政府架構中為縣轄市自治的行政機關，同時負責執行縣政府及中央機關委辦事項，頭份市的自治監督機關為[[苗栗縣政府]]。市長由全體市民直接選舉產生，任期為四年，可連選連任一次。頭份市公所並置市政會議，為市政最高決策機構，在市長之下，設有7課3室等十個內部單位及5個附屬機關<ref>{{Cite web |url=https://www.toufen.gov.tw/cp.aspx?n=2900 |title=公所組織-組織編制 |publisher=苗栗縣頭份市公所 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20200921084439/https://www.toufen.gov.tw/cp.aspx?n=2900 |archivedate=2020-09-21 |dead-url=no }}</ref>。
+
+[[苗栗縣頭份市民代表會|頭份市民代表會]]是頭份市的最高[[民意機關]]，代表頭份市全體市民立法和監察市政。市民代表由公民直選選出，任期為四年，可連選連任。頭份市民代表會共有15位市民代表，分別為第一選區3席市民代表、第二選區3席市民代表、第三選區5席市民代表、第四選區2席市民代表、第五選區2席市民代表，主席、副主席由15位市民代表互選產生<ref>{{Cite web |url=https://www.toufen.gov.tw/cp.aspx?n=2896 |title=市民代表會-各選區市民代表 |publisher=苗栗縣頭份市公所 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20200921102033/https://www.toufen.gov.tw/cp.aspx?n=2896 |archivedate=2020-09-21 |dead-url=no}}</ref>。
+
+=== 行政區 ===
+現今頭份市行政範圍的確立，來自於1920年，日本將臺灣十二廳改為五州二廳，設頭分庄屬新竹州竹南郡{{r|鎮志政事篇|p=157}}。頭分庄轄頭份、田寮、東興、蟠桃、斗煥坪、興隆、珊珠湖、尖山下、濫坑、蘆竹湳等10個大字{{r|鎮志政事篇|p=186}}。1939年，頭分庄改制為「頭分街」{{r|鎮志政事篇|p=158}}。1946年1月11日，頭分街改名為「頭份鎮」，屬新竹縣竹南區。1950年10月25日，調整行政區域，頭份鎮改隸新成立的苗栗縣{{r|鎮志政事篇|p=159}}。2015年10月5日，改制為「頭份市」<ref name="歷史沿革"/>。<!-- <ref>{{cite news|author=彭健禮|url=http://news.ltn.com.tw/news/life/breakingnews/2181862|title=人口比4個鄉還多！頭份蟠桃里分家 新增「中興里」|publisher=自由時報|date=2017-09-02|accessdate=2017-09-05|archive-date=2021-03-01|archive-url=https://web.archive.org/web/20210301002704/https://news.ltn.com.tw/news/life/breakingnews/2181862|dead-url=no}}</ref> -->
+
+頭份市共轄33里，依據頭份市民代表會的選區劃分，可分為5個選區：
+{| class="wikitable" style="text-align:center"
+!次分區
+! colspan="10" |里名
+|-
+!第一選區
+|流東里
+|斗煥里
+|新華里
+|興隆里
+|珊湖-{里}-
+|
+|
+|
+|
+|
+|-
+!第二選區
+|上埔里
+|土牛里
+|頭份里
+|自強里
+|忠孝里
+|仁愛里
+|信義里
+|和平里
+|上興里
+|下興里
+|-
+!第三選區
+|山下里
+|合興里
+|後庒里
+|建國里
+|成功里
+|蟠桃里
+|文化里
+|中興里
+|
+|
+|-
+!第四選區
+|民族-{里}-
+|民權里
+|田寮里
+|東庒里
+|
+|
+|
+|
+|
+|
+|-
+!第五選區
+|蘆竹里
+|尖山里
+|廣興里
+|尖下里
+|濫坑-{里}-
+|民生里
+|
+|
+|
+|
+|}
+
+== 經濟 ==
+{{Unreferenced section|time=2021-04-20T12:35:30+00:00}}
+=== 商業發展 ===
+頭份市人口在苗栗縣高居第一位，並且集中於頭份[[中正路]]以及[[中華路 (苗栗市)|中華路]]商圈最密集之地帶，如今舊市區過於飽和，市區有不斷向外擴張的趨勢，因鄰近的[[竹南科學園區]]帶動發展，逐漸形成[[中央路 (頭份市)|中央路]]美食商圈，人口更因尚順廣場商業特區之發展，帶動頭份市人口快速成長，勢必也將因人口成長帶動而發展更快速，目前商業特區已有多達五十家以上知名餐飲業進駐，再者[[頭份交流道]]特定區亦發展快速，建國路上商家林立，商圈的形成已經不再侷限於原先的舊市區範圍內，但也因此造成部分區段交通流量變大，例如頭份交流道附近於尖峰時段常有塞車的瓶頸，就迫切亟需新的紓解規劃。近年來由於[[中央路商圈]]的發展迅速，帶動該區域週遭人口增加，促使[[苗栗縣立頭份國民中學|頭份國中]]新校舍遷移至中央路，以符合多數就學學子的需求。
+
+=== 都市發展 ===
+頭份市以及[[竹南鎮]]因兩個行政區非常鄰近，都市計畫屬於一體的，故兩市鎮儼然形成一個共同生活圈，視為[[雙城]]的都市結構，近年來[[新竹科學工業園區|新竹科學園區]]在竹南鎮北端設置竹科第4期，帶來大量的就業人潮，因[[竹南科學園區]]基地毗鄰頭份市市區，頭份交流道至竹南科學園區入口處，只有短短一公里的距離，使得頭份市成為許多竹科上班族繼[[竹北市]]購屋指標以外的新選擇。
+
+== 教育 ==
+頭份市現有高級中學一所，分別為[[苗栗縣立興華高級中學]]；國民中學三所{{NoteTag|若包括興華高中國中部則為四所}}，分別為[[苗栗縣立頭份國民中學]]、[[苗栗縣立建國國民中學]]、[[苗栗縣立文英國民中學]]；國民小學十二所，分別為[[苗栗縣頭份市頭份國民小學]]、[[苗栗縣頭份市斗煥國民小學]]、[[苗栗縣頭份市尖山國民小學]]、[[苗栗縣頭份市信德國民小學]]、[[苗栗縣頭份市建國國民小學]]、[[苗栗縣頭份市僑善國民小學]]、[[苗栗縣頭份市六合國民小學]]、[[苗栗縣頭份市永貞國民小學]]、[[苗栗縣頭份市后庄國民小學]]、[[苗栗縣頭份市信義國民小學]]、[[苗栗縣頭份市新興國民小學]]、[[苗栗縣頭份市蟠桃國民小學]]<ref>{{Cite web |url=http://163.19.163.248/index.php?module=default&controller=index-edu&action=schoolweb |title=各校網站 |author=苗栗縣政府教育處 |publisher=苗栗縣教育入口網 |accessdate=2021-03-22 |language=zh-tw }}{{Dead link}}</ref><ref>{{Cite web |url=https://www.toufen.gov.tw/cp.aspx?n=2888 |title=用心看頭份-教育文化 |publisher=苗栗縣頭份市公所 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20200923195023/https://www.toufen.gov.tw/cp.aspx?n=2888 |archivedate=2020-09-23 |dead-url=no }}</ref>。另有頭份市立圖書館（原名「林為寬紀念圖書館」）等一間公共圖書館。原有大專院校為[[亞太創意技術學院]]一校，已於2019年6月20日由教育部行文停辦<ref>{{Cite news |url=https://udn.com/news/story/6929/3882914 |title=第四所大專退場！亞太創意技術學院停辦 |author=張錦弘 |date=2019-06-20 |publisher=聯合新聞網 |accessdate=2021-03-22 |language=zh-tw |archiveurl=https://web.archive.org/web/20210111152947/https://udn.com/news/story/6929/3882914 |archivedate=2021-01-11 |dead-url=no }}</ref>。
+
+== 交通 ==
+頭份市境內沒有鐵路（縱貫線）經過，距離最近的鐵路車站即是屬於一等站的[[竹南車站]]，該車站是山海線北端交會點，也是頭份市對外重要的交通樞紐，隨-{著}-竹南車站東站的啟用，使得頭份市民搭乘臺鐵的便利性大幅增加。公路運輸方面，{{Jct|country=TWN|NH-ALL|1}}在頭份市內設有[[頭份交流道]]，另外頭份市也鄰近{{Jct|country=TWN|NH-ALL|3}}[[香山交流道]]，在臺灣的交通地段相當特殊，因此頭份市的對外交通相當便利。
+
+=== 公路 ===
+[[File:歡迎光臨頭份鎮.jpg|250px|thumb|歡迎蒞臨頭份市(頭份市地標)]]
+[[File:East building of TRA Zhunan Station 20090820.jpg|right|thumb|250px|台鐵竹南站東站出口（頭份市方向出入口）]]
+[[File:Miaoli Toufen.jpg|250px|thumb|頭份市街景(頭份之心)]]
+*{{Jct|country=TWN|NH-ALL|1}}
+**[[頭份交流道]]（110）
+*{{Jct|country=TWN|NH-ALL|3}}
+**[[香山交流道]]（109）位於竹南鎮和[[新竹市]][[香山區]]交界。
+**[[竹南交流道]]（119，透過聯絡道即可抵達）
+*{{Jct|country=TWN|PH|1}}：中華路－自強路
+**{{Jct|country=TWN|PH|1f}}：[[竹南交流道]]聯絡道
+*{{Jct|country=TWN|PH|3}}
+*{{Jct|country=TWN|PH|13}}
+**{{Jct|country=TWN|PH|13a}}
+*{{Jct|country=TWN|CH|124}}：[[竹南鎮]]－'''頭份市'''－[[三灣鄉 (台灣)|三灣鄉]]－-{[[南庄鄉 (台灣)|南庄鄉]]}-－[[獅潭鄉]]
+**{{Jct|country=TWN|CH|124a}}：頭份－崎子頭，全長僅1.7公里，為[[頭份交流道]]聯絡道路。
+**{{Jct|country=TWN|CH|124c}}：[[苗栗縣北橫公路]]
+
+;主要幹道
+*{{Jct|country=TWN|PH|1}}（[[中華路 (頭份市)|中華路]]、[[自強路 (頭份市)|自強路]]）：北接[[新竹市]]通過竹南科學園區進入頭份市，南通{{Jct|country=TWN|PH|13}}進入[[造橋鄉]]。
+*{{Jct|country=TWN|PH|13}}（[[永貞路]]、[[尖豐公路]]）：自[[竹南鎮|竹南]]公義路通往頭份市路名成為永貞路；南向道路通往頭份市尖山路段為尖豐公路通往[[造橋鄉]]大西村。
+*{{Jct|country=TWN|CH|124}}（[[中正路 (頭份市)|中正路]]、[[民族路 (頭份市)|民族路]]）：東西向[[縣道]]，西往[[竹南鎮|竹南]]市區，東接{{Jct|country=TWN|PH|3}}往[[三灣鄉 (台灣)|三灣鄉]]進入-{[[南庄鄉 (台灣)|南庄鄉]]}-。
+*[[中央路 (頭份市)|中央路]]：往返竹南鎮主要道路之一，與竹南環市路為共同道路。
+*[[中興路 (頭份市)|中興路]]：往返[[竹南鎮|竹南]][[科學園區]]主要道路之一，北接[[竹南鎮|竹南]][[科學園區]]，南至八德一路止，為境內最重要的縱向道路之一。
+*[[建國路 (頭份市)|建國路]]：往來{{Jct|country=TWN|NH-ALL|1}}[[頭份交流道]]之市區道路。
+*[[信東路]]、[[信義路 (頭份市)|信義路]]、東興路、東民路、[[文化路 (頭份市)|文化路]]、八德一路、八德二路等。
+
+=== 公路客運 ===
+;[[國光客運]]
+*頭份站（104年12月22日與苗栗客運總站完成共站）
+**1823：竹南－台北（經頭份）
+
+;[[苗栗客運]]
+[[File:苗栗客運頭份站 - panoramio.jpg|250px|thumb|苗栗客運(國光客運)頭份站]]
+*頭份站
+**5801 苗栗－大坪－頭份－新竹（部份班次頭份止） 
+**5803 苗栗－高鐵苗栗站－造橋－頭份－竹南－新竹
+**5804 竹南東站－頭份－大南埔－南庄
+**5805 竹南－頭份－獅頭山－南庄
+**5806 竹南－頭份－大南埔－南庄
+**5807 新竹－頭份－育達大學－後龍
+**5807A 新竹－頭份－高鐵苗栗站－後龍
+**5810 竹南－頭份－大埔壩－富興
+**5812 風爐缺－永和山水庫
+**5813 頭份－後庄－龍鳳宮－竹南－海口
+**5823 新竹－牛埔－新城－水流東－頭份－竹南
+
+;[[捷乘客運]]
+*站牌
+**5609 竹東－北埔－峨眉－珊珠湖
+
+=== 公共自行車 ===
+{{See also|苗栗縣公共自行車租賃系統站點列表#頭份市}}
+[[苗栗縣公共自行車租賃系統]]是苗栗縣政府推動的公共自行車租賃系統，2017年11月22日苗栗與YouBike簽約合作，2018年6月26日開始營運，2019年8月27日使用人次數破百萬，頭份市已於2018年7月5日啟用YouBike 1.0系統<ref>{{Cite news |url=https://news.housefun.com.tw/news/article/384953198167.html |title=苗栗市YouBike於26日率先啟用　竹南頭份7月跟進 |author=黃瑞典 |work=好房網 HouseFun News |date=2018-06-09 |accessdate=2021-03-22 |publisher=聯合新聞網 |language=zh-tw |archive-date=2021-09-22 |archive-url=https://web.archive.org/web/20210922151927/https://news.housefun.com.tw/news/article/384953198167.html |dead-url=no }}</ref>，至2024年4月1日起引進YouBike 2.0系統。資料截至2024年4月8日，YouBike 1.0系統與2.0系統已個別在頭份市設有16個租賃站點<ref>{{Cite web |url=https://www.youbike.com.tw/region/miaoli/stations/list/ |title=站點資訊-站點列表 |access-date=2024-04-07 |publisher=苗栗縣<nowiki>|</nowiki>YouBike微笑單車 |language=zh-tw |archive-date=2024-04-07 |archive-url=https://web.archive.org/web/20240407164008/https://www.youbike.com.tw/region/miaoli/stations/list/ |dead-url=no }}</ref>，可甲地租車、乙地還車，提供民眾租借使用。
+
+== 旅遊 ==
+由於頭份市在苗栗縣內屬於相對偏向都市型態的城鎮，因此市內較少大型的著名觀光景點，假日人潮熱絡的地方都在頭份市周圍的鄉鎮，例如三灣、南庄一帶的觀光區，不只是頭份市民就近的假日好去處，更是台灣其他地都會區的遊客青睞的地方；但頭份市仍然具有濃厚的客家文化民情，像是當地的老街巷弄，或是具有客家文化的古蹟寺廟，都非常值得耐人尋味。
+
+頭份市的[[客家]][[小吃]]也頗具特色，隨著工商業的發達，[[竹南科學園區]]四期的開發，頭份市已經成為苗栗新興發展之地，像是近年來新規劃的中央路美食街，引進各式各類餐館，街道上的腳踏車規劃步道，還有推動興建中的[[尖山米粉]]老街等等，都是現在或未來頭份市觀光尋訪的好去處。
+
+=== 風景名勝 ===
+[[File:Yonghe Shan Reservoir.jpg|thumb|250px|永和山水庫]]
+*[[永和山水庫]]：位於'''頭份市'''以及[[三灣鄉 (台灣)|三灣鄉]]交界處，是台灣首座沒有水門和水閘的水庫，為典型的離槽水庫。
+**[[永和山農場]]
+**永和山自行車步道
+*頭份市後花園：縣道124號頭份斗換坪國小附近即是頭份市後花園路口處。
+**楓香林
+**[[怡明茶園]]
+**[[錦春農場]]
+*[[雞心壩老樟樹]]
+永和山水庫- 桐花季步道
+
+地址： 苗栗縣三灣鄉永和村
+
+大眾運輸： 竹南火車站搭乘苗栗客運5805路{{notetag|竹南-南庄(經竹南.頭份.獅頭山)}}及5806路{{notetag|竹南-南庄(經頭份.大南埔)}}至頭份總站下車，並轉乘苗栗客運5812路{{notetag|風爐缺-永和山水庫(經頭份)}}至永和山水庫站下車<ref>{{Cite web |url=http://www.mlbus.com.tw/ |title=苗栗客運 |accessdate=2015-12-29 |archive-date=2020-02-16 |archive-url=https://web.archive.org/web/20200216171017/http://www.mlbus.com.tw/ |dead-url=no }}</ref>
+
+自行開車： 國道1號頭份交流道下，循中正路直行、左轉東興路，經東興大橋後直行即可抵達永和山水庫。
+
+=== 古蹟寺廟 ===
+*[[頭份義民廟]]
+頭份義民廟創建至今已有100餘年歷史，正殿1樓主祀[[義民爺]]，配祀[[文昌帝君]]、[[至聖先師]]、[[魁斗星君]]、[[五路財神]]、[[天上聖母]]和[[福德正神]]；2、3樓為凌霄寶殿，奉祀[[玉皇大帝]]、[[三官大帝]]、三恩主、[[觀音菩薩]]及[[註生娘娘]]、[[太歲星君]]等諸神聖佛。義民廟位於頭份市區內的中山路老街，是為頭份市當地[[客家]]居民信仰中心。
+
+*[[頭份福德祠]]
+創設於清光緒十一年（1885年），祠齡逾百年，是市區各里居民的信仰中心。「頭份福德祠」位於頭份市中山路老街上，位於頭份義民廟旁，地方人稱為「大伯公」。「頭份福德祠」算是北台灣規模最大的土地公廟之一，其佔地80坪，是頭份市民眾的信仰中心，平日香火鼎盛，農曆年前後更是香客不斷。日前改建期間，廟方特地為祀奉的土地公、土地婆、月下老人、與保佑兒童的石母娘娘重塑金身。金身以墨西哥黃玉雕刻，委請越南工匠雕刻而成，每尊重達5公噸，造價上千萬元，新舊金身請入廟內安座後，更有許多信眾爭睹玉雕神像的風采，並祈求閤境平安。
+
+*[[合港田寮永貞宮]]
+永貞宮位於頭份市田寮里的永貞路上，主祀天上聖母([[媽祖]])，內殿中媽祖娘娘雕塑神態莊嚴，左邊奉祀[[觀音菩薩]]，右邊祀[[廣澤尊王]]像。永貞宮雖距離竹南較近，但主要祭祀者多為頭份人（因為竹南另有兩間很大的媽祖廟--[[中港慈裕宮]]與[[後厝龍鳳宮]]）。永貞宮也與頭份工業區遙遙相望，每年的祭典舉行3次，分別於農曆三月廿三日聖母壽誕；四月八日娘娘出巡；以及七月九日的[[中元普渡]]。 
+
+*[[頭份太陽宮|珊珠湖太陽宮]]
+歷史悠久的太陽宮，聳立在頭份市-{珊湖里}-的半山坡上，視野可眺望中港溪以及苗栗南庄一帶的山區，最遠還可以看見雪山山脈，內奉[[太陽星君]]畫像、太陰星娘、[[太上老君]]、倉頡聖人、[[尧|堯帝]]、[[舜|舜帝]]、[[盤古]]爺、[[伏羲]]帝、[[关羽|關聖帝君]]、[[诸葛亮|孔明]]、[[包拯|包公]]諸聖像。
+
+*[[大化宮]]
+頭份市[[大化宮]]座落在往獅頭山方向的道路上，在斗煥國小前的小市場對面，於嘉慶18年創建，民國18年因破裂曾重建過。廟本身建築規模不大，沒有金碧輝煌的建築，分正殿及左、右二廂房。正殿主祀[[三山國王]]神像，右配祀萬世師及佛祖神位。左廂房稱義民寶座，內奉褒封忠義前鋒英烈諸公諸公神位、褒封粵東忠義諸公神位、褒封忠義軍師資雲陳先生位三神位。右廂房稱為長生祿位房。
+
+*[[斗換坪老街井頭伯公祠]]
+斗換坪老街的土地祠。
+
+*[[楊統領墓]]
+頭份市[[楊統領廟]]位於頭份市仁愛里高速公路東側，[[中華民國內政部|內政部]]曾暫核定為二級古蹟，後因變更為廟，撤消列級。楊統領名為[[楊載雲]]（又名再雲或紫雲），清代湖南省湘潭縣人，所以麾下軍隊大多是湖南人，號「新楚軍」為清末戌臺有名將領。「頭份鎮志」記載：[[乙未之役]]（光緒廿一年，公元一八九五），臺灣同胞成立民主國抗拒日人，知府黎景嵩組新楚軍，楊戴雲任管兵統領，鄉民乃稱其為「楊統領」。
+
+*[[頭份石觀音寺]]
+位在興隆里，以泉水知名。
+
+*[[賽夏五福龍神宮]]
+位在興隆里，祭祀[[賽夏族]]的蛇神。
+
+*竹子閣
+
+*曾家古蹟
+
+=== 人文景點 ===
+;城市漫遊
+*頭份市區：鄰近[[頭份交流道]]，以[[File:TW PHW1.svg|23px|省道]]中華路、[[File:TW CHW124.svg|23px|縣道]]中正路等主要幹道所構成，境內以頭份市[[上公園]]和[[下公園]]之間為市區核心地段，頭份市的消費育樂、政經中心皆位於此附近。
+
+*中央路美食街：位於頭份市[[自強路]]與[[信義路 (頭份市)|信義路]]交叉點通往[[竹南鎮|竹南]]方向即是中央路五十米大道，現今多達數十家餐廳進駐，像是[[牛排館]]、[[義式餐廳]]、[[火鍋店]]和[[平價小炒]]餐館等等，儼然形成了美食街。
+
+*建國夜市：時間為每星期二晚上於頭份市建國路旁的流動夜市，是頭份市主要的夜市。
+
+*揉風 慢活 貓貍海：一條從頭份市市區旁沿著中港溪河畔通往竹南海濱的自行車道。 並且可以接上苗栗縣濱海自行車道。
+
+*尚順廣場：為尚順開發第一期範圍，[[大潤發]]頭份店已於99年11月開幕，位於[[自強路]]、[[東民路]]以及[[和平路]]之間鄰近的工業用地，該店提供12,000坪購物空間，500個室內停車位。位於大潤發頭份店左側，為總面積佔地約7,000坪，規畫5間200坪店面的旗艦店及100間5坪小店面。目前已經進駐的，王品-西堤牛排、聚-北海道昆布鍋、品田牧場、鍋大爺、品禪四季養生餐廳。
+
+*[[尚順育樂世界]]：為尚順開發第二期範圍，已於2015年5月陸續營運，園區內有尚順育樂天地、尚順購物中心、尚順君樂飯店三棟事業體，各棟間以空橋連接。<ref>{{Cite news |url=http://money.udn.com/money/story/5635/933721 |title=尚順育樂世界 試營運人氣旺 |author=吳佳汾 |date=2015-05-29 |publisher=經濟日報 |language=zh-tw |archiveurl=https://web.archive.org/web/20160305113558/http://money.udn.com/money/story/5635/933721 |archivedate=2016-03-05 |dead-url=no }}</ref>
+
+*[[尖山米粉老街]]：位於頭份[[尖山里]]的[[米粉老街]]，曾經盛行一時，隨著科技進步，傳統產業沒落的今日，當地政府極力再造米粉老街之文化，尖山大橋的改建、老街再造之規劃，呈現不同的新風貌。
+
+*[[永寧渡樂助碑]]
+;特產
+*[[椪風茶]](東方美人茶)
+*[[黑豆]]
+*[[西瓜]]
+*[[蜂蜜]]
+*[[文旦]]
+*[[高接梨]]
+*[[尖山米粉]]
+*[[頭份米]]
+*[[土雞]]
+
+;節慶
+*[[四八文化斗燈節]]：每年的[[農曆]][[四月八日]]於頭份[[義民廟]]所舉辦的祭典[[節慶]]，活動為期數日，初八以及初九皆有廟宇作勢陣頭遊街以及[[媽祖]]繞境等活動！期間亦有攤販設於頭份市[[中山路]]老街[[義民廟]]前。
+
+== 相關條目 ==
+* [[頭分街]]
+
+== 注釋 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+;引用來源
+{{Reflist|3|refs=
+<ref name="鎮志地理篇">{{Cite book |editor=李錦發 |editor2=陳運棟 |title=《頭份鎮志》 |volume=上冊 |chapter=第一篇·地理篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志政事篇">{{Cite book |editor=劉增本 |title=《頭份鎮志》 |volume=上冊 |chapter=第二篇·政事篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志社會篇">{{Cite book |editor=王幼華 |title=《頭份鎮志》 |volume=上冊 |chapter=第三篇·社會篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref> <!--
+<ref name="鎮志文教篇">{{Cite book |editor=張瑞恭 |title=《頭份鎮志》 |volume=上冊 |chapter=第四篇·文教篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志經濟篇">{{Cite book |editor=黃運新 |title=《頭份鎮志》 |volume=中冊 |chapter=第五篇·經濟篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志建設篇">{{Cite book |editor=鄭錦宏 |title=《頭份鎮志》 |volume=中冊 |chapter=第六篇·建設篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志人物篇">{{Cite book |editor=陳運棟 |title=《頭份鎮志》 |volume=中冊 |chapter=第七篇·人物篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref> -->
+<ref name="鎮志歷史篇">{{Cite book |editor=陳運棟 |title=《頭份鎮志》 |volume=下冊 |chapter=第八篇·歷史篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+<ref name="鎮志大事記篇">{{Cite book |editor=楊憲州 |title=《頭份鎮志》 |volume=下冊 |chapter=第九篇·大事記篇 |publisher=苗栗縣頭份鎮公所 |location=苗栗縣 |date=2001-01 |language=zh-tw }}</ref>
+}}
+
+;書籍
+{{refbegin}}
+* {{cite book |author=陳運棟等編纂 |year=1980 |title=《頭份鎮志》 |language=zh-tw |location=苗栗縣 |publisher=苗栗縣頭份鎮公所 |ref={{sfnref|陳運棟|1980}} }}
+* {{cite book |author=頭份鎮志編纂委員會 |year=2001 |title=《頭份鎮志》 |language=zh-tw |edition=重修 |location=苗栗縣 |publisher=苗栗縣頭份鎮公所 |isbn=957-01-0593-3 |ref={{sfnref|頭份鎮志編纂委員會|2001}} }}
+* {{cite book |author=施添福等編纂 |year=2006 |chapter=第八章·頭份鎮 |title=《臺灣地名辭書·卷十三·苗栗縣》 |language=zh-tw |location=南投市 |publisher=國史館臺灣文獻館 |isbn=978-986-00-6416-2 |ref={{sfnref|施添福|2006}} }}
+{{refend}}
+
+== 外部連結 ==
+{{Sister project links |wikt=no |commons=Category:Toufen City |n=no |q=no |s=no |author=no |b=no |v=no |voy=頭份 }}
+* [https://www.toufen.gov.tw/ 頭份市公所] {{Wayback|url=https://www.toufen.gov.tw/ |date=20201129034929 }}{{zh-tw}}
+* {{Facebook|160788294045390|頭份市公所－緣頭小份}}
+* {{Youtube|channel=UCflNCuH5nJGTBWqOKo3ioGA|頭份市公所}}
+
+{{苗栗縣}}{{臺灣建制市列表}}
+{{臺灣客家文化重點發展區}}
+{{Authority control}}
+
+[[Category:頭份市| ]]
+[[Category:苗栗縣行政區劃]]
+[[Category:台灣縣轄市]]

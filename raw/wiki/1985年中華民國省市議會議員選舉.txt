@@ -1,0 +1,88 @@
+'''1985年中華民國省市議會議員選舉'''，是[[中華民國]][[臺灣省]]之[[臺灣省諮議會|省議員]]及兩個[[直轄市 (中華民國)|院轄市]]（[[臺北市]]、[[高雄市]]）之[[議員|市議員]]進行全面改選的選舉，與[[1985年中華民國縣市長選舉]]同時於1985年11月16日舉行投票。此次選舉為[[臺灣省]]之第8屆[[臺灣省諮議會|省議員]]選舉，且為[[臺北市]]改制[[直轄市 (中華民國)|院轄市]]後的第5屆[[議員|市議員]]選舉，同時亦為[[高雄市]]改制[[直轄市 (中華民國)|院轄市]]後的第2屆[[議員|市議員]]選舉。
+
+==選舉結果==
+{{main|1985年中華民國省市議會議員選舉選舉區投票結果列表}}
+
+===臺灣省===
+{| class="wikitable"
+|+ [[臺灣省議會]]第八屆議員選舉結果<ref>{{cite book|title=《臺灣省第八屆省議員、第十屆（新竹、嘉義市第二屆）縣市長、第十一屆（新竹、嘉義市第二屆）縣市議員、第十屆鄉鎮縣轄市長選舉選務實錄》|date=1986-06|publisher=臺灣省選舉委員會}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|91
+|align="right"|4,464,812
+|align="right"|69.83%
+|align="right"|59
+|-
+|align="left"|{{YCP}}
+|align="right"|2
+|align="right"|46,353
+|align="right"|0.72%
+|align="right"|1
+|-
+|align="left"|{{nonp}}
+|align="right"|65
+|align="right"|1,882,375
+|align="right"|29.44%
+|align="right"|17
+|}
+
+===臺北市===
+{| class="wikitable"
+|+ [[臺北市議會]]第五屆議員選舉結果<ref>{{cite book|title=《臺北市議會第五屆議員選舉實錄》|date=1985-11|publisher=臺北市選舉委員會|location=臺北市|id=政府出版品統一編號：27122750018}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|47
+|align="right"|711,343
+|align="right"|72.11%
+|align="right"|38
+|-
+|align="left"|{{nonp}}
+|align="right"|27
+|align="right"|275,181
+|align="right"|27.89%
+|align="right"|13
+|}
+
+===高雄市===
+{| class="wikitable"
+|+ [[高雄市議會#直轄市議會時期|高雄市議會]]第二屆議員選舉結果<ref>{{cite book|title=《高雄市議會第二屆議員選舉選舉實錄》|date=1985-11|publisher=高雄市選舉委員會}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|46
+|align="right"|411,418
+|align="right"|73.28%
+|align="right"|32
+|-
+|align="left"|{{nonp}}
+|align="right"|25
+|align="right"|150,023
+|align="right"|26.72%
+|align="right"|10
+|}
+
+==參考來源==
+{{Reflist}}
+
+{{中華民國選舉}}
+
+[[Category:中華民國地方民意代表選舉|中華民國地方民意代表選舉]]
+[[Category:臺灣省議會議員選舉|〇08]]
+[[Category:1985年台灣]]
+[[Category:1985年亞洲選舉]]
+[[Category:1980年代台灣選舉]]
+[[Category:1985年11月]]

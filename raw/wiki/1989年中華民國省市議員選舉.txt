@@ -1,0 +1,155 @@
+'''1989年中華民國省市議員選舉'''，是[[中華民國]][[臺灣省]]之[[臺灣省諮議會|省議員]]及兩個[[直轄市|院轄市]]（[[臺北市]]、[[高雄市]]）之[[議員|市議員]]進行全面改選的選舉，與[[1989年中華民國縣市長選舉]]及[[1989年中華民國立法委員選舉]]同時於1989年12月2日舉行投票。此次選舉為[[臺灣省]]之第9屆[[臺灣省諮議會|省議員]]選舉，且為[[臺北市]]改制[[直轄市|院轄市]]後的第6屆[[議員|市議員]]選舉，同時亦為[[高雄市]]改制[[直轄市|院轄市]]後的第3屆[[議員|市議員]]選舉。
+
+==選舉結果==
+{{main|1989年中華民國省市議員選舉選舉區投票結果列表}}
+
+===臺灣省===
+{| class="wikitable"
+|+ [[臺灣省議會]]第九屆議員選舉結果<ref>{{cite book|title=七十八年、七十九年公職人員選舉臺灣省選務實錄(上)|year=1990|publisher=臺灣省選舉委員會|id=政府出版品統一編號：27103790013}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|75
+|align="right"|4,515,226
+|align="right"|61.84%
+|align="right"|54
+|-
+|align="left"|{{DPP}}
+|align="right"|42
+|align="right"|1,868,709
+|align="right"|25.59%
+|align="right"|16
+|-
+|align="left"|{{LPT}}
+|align="right"|1
+|align="right"|9,207
+|align="right"|0.13%
+|align="right"|0
+|-
+|align="left"|[[中國團結黨]]
+|align="right"|1
+|align="right"|6,936
+|align="right"|0.09%
+|align="right"|0
+|-
+|align="left"|{{CDSP}}
+|align="right"|3
+|align="right"|6,486
+|align="right"|0.09%
+|align="right"|0
+|-
+|align="left"|[[工黨 (臺灣)|工黨]]
+|align="right"|1
+|align="right"|2,474
+|align="right"|0.03%
+|align="right"|0
+|-
+|align="left"|{{nonp}}
+|align="right"|34
+|align="right"|892,035
+|align="right"|12.22%
+|align="right"|7
+|}
+
+===臺北市===
+{| class="wikitable"
+|+ [[臺北市議會]]第六屆議員選舉結果<ref>{{cite book|author=臺北市選舉委員會實錄編纂小組|title=臺北市議會第六屆議員選舉實錄|date=1990-06|publisher=臺北市選舉委員會|location=臺北市|id=政府出版品統一編號：27122790027}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|54
+|align="right"|816,887
+|align="right"|69.23%
+|align="right"|36
+|-
+|align="left"|{{DPP}}
+|align="right"|21
+|align="right"|275,569
+|align="right"|23.36%
+|align="right"|14
+|-
+|align="left"|[[工黨 (臺灣)|工黨]]
+|align="right"|1
+|align="right"|1,040
+|align="right"|0.09%
+|align="right"|0
+|-
+|align="left"|[[中國民眾黨]]
+|align="right"|1
+|align="right"|365
+|align="right"|0.03%
+|align="right"|0
+|-
+|align="left"|[[中華共和黨]]
+|align="right"|1
+|align="right"|323
+|align="right"|0.03%
+|align="right"|0
+|-
+|align="left"|{{YCP}}
+|align="right"|1
+|align="right"|307
+|align="right"|0.03%
+|align="right"|0
+|-
+|align="left"|{{nonp}}
+|align="right"|21
+|align="right"|85,392
+|align="right"|7.24%
+|align="right"|1
+|}
+
+===高雄市===
+{| class="wikitable"
+|+ [[高雄市議會#直轄市議會時期|高雄市議會]]第三屆議員選舉結果<ref>{{cite book|title=七十八年增額立法委員‧高雄市議會第三屆議員選舉實錄|date=1989-12|publisher=高雄市選舉委員會|location=高雄市|id=政府出版品統一編號：27132790011}}</ref>
+!align="center" width=220|政黨
+!align="center" width=75|候選人數
+!align="center" width=75|得票數
+!align="center" width=75|得票率
+!align="center" width=75|席次
+|-
+|align="left"|{{KMT}}
+|align="right"|48
+|align="right"|407,667
+|align="right"|62.62%
+|align="right"|29
+|-
+|align="left"|{{DPP}}
+|align="right"|24
+|align="right"|136,513
+|align="right"|20.97%
+|align="right"|8
+|-
+|align="left"|[[工黨 (臺灣)|工黨]]
+|align="right"|4
+|align="right"|18,682
+|align="right"|2.87%
+|align="right"|1
+|-
+|align="left"|{{nonp}}
+|align="right"|18
+|align="right"|88,121
+|align="right"|13.54%
+|align="right"|5
+|}
+
+==參考來源==
+*[http://www7.www.gov.tw/todaytw/2007/intestine/ch03/2-3-17-0.html 台灣重要選舉主要政黨得票率消長]{{dead link|date=十一月 2017 |bot=InternetArchiveBot }}，台灣年鑑。
+*[http://vote.nccu.edu.tw/cec/cechead.asp 臺灣選舉年度及類別一覽表]{{Wayback|url=http://vote.nccu.edu.tw/cec/cechead.asp |date=20201104150925 }}
+{{Reflist}}
+
+{{中華民國選舉}}
+
+[[Category:中華民國地方民意代表選舉|中華民國地方民意代表選舉]]
+[[Category:1989年台灣]]
+[[Category:1989年亞洲選舉]]
+[[Category:1980年代台灣選舉]]
+[[Category:臺灣省議會議員選舉|〇09]]
